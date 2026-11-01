@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Claude活用 実践事例（選別）</title>
+    <link>https://yoshiken31.github.io/claude-rss-curation/</link>
+    <description>Inoreaderの記事をGeminiで選別し、コメントを付けたフィード</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 01 Nov 2026 05:53:14 +0000</lastBuildDate>
+    <item>
+      <title>🪙 Second memory suggestions</title>
+      <link>https://www.reddit.com/r/ClaudeCode/comments/1xkttpm/second_memory_suggestions</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeCode/comments/1xkttpm/second_memory_suggestions</guid>
+      <pubDate>Sun, 01 Nov 2026 05:53:14 +0000</pubDate>
+      <category>トークン節約</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; ローカル環境でのSecond memoryやOllamaを活用したトークン節約の工夫が参考になります。&lt;/p&gt;&lt;p&gt;点数: 3/5 ／ 分野: トークン節約 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;I have a Mac Mini that I use for all my projects. I have Obsidian Vault, Graphify, and Gortex. But I feel like I am not saving on token usage, which those all touted. Ollama runs as a search agent on the mini as well. Don’t get me wrong, it is working really well but I would like to further optimize&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 How do you decide which rules to delete from CLAUDE.md?</title>
+      <link>https://www.reddit.com/r/ClaudeCode/comments/1xkrlw9/how_do_you_decide_which_rules_to_delete_from</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeCode/comments/1xkrlw9/how_do_you_decide_which_rules_to_delete_from</guid>
+      <pubDate>Sun, 01 Nov 2026 05:53:14 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; CLAUDE.mdの肥大化対策とルールの選別・圧縮の実体験が書かれており、MDファイル運用に直結します。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;I’ve been using Claude Code daily across a few projects, and my rules keep growing. Every mistake turns into a new line. Eventually the startup docs alone took about 37k tokens, and I got that down to 28k by compressing them. So I tried hard word limits on every doc. That backfired. Across six repos&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Loops/Next-Task -&gt; ?? || What’s next?</title>
+      <link>https://www.reddit.com/r/ClaudeCode/comments/1xkqgqc/loopsnexttask_whats_next</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeCode/comments/1xkqgqc/loopsnexttask_whats_next</guid>
+      <pubDate>Sun, 01 Nov 2026 05:53:14 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeを活用したB2C SaaS開発の具体的な体験談で、アプリ開発や自動化のワークフローとして参考になります。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;I’ve been building a b2c SaaS for the live music industry for a few months with Claude code (along with the guidance of a senior dev who happens to be my best friend/cto). I’ve developed an agent team of product/pm/front-end/back-end/devops/design. They’ve taken a lot of guidance from me and it’s bu&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 AIアシスタントでファイルを丸ごと翻訳する方法：Claude CodeやCursorと連携する実践ガイド</title>
+      <link>https://qiita.com/equalang-ai/items/e855450434d8522e92b7</link>
+      <guid isPermaLink="true">https://qiita.com/equalang-ai/items/e855450434d8522e92b7</guid>
+      <pubDate>Sun, 01 Nov 2026 05:53:14 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude CodeやCursorと連携してファイルを丸ごと翻訳・処理する具体的な手順がわかる。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;この記事では、Claude CodeやCursorなどのAIアシスタントのチャット画面を離れることなく、PDF・Office文書・音声動画ファイルを丸ごと翻訳する方法を解説します。 コピペによる書式の崩れや手作業の手間を省き、対応する形式ではレイアウトが保たれるように努めた...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 noteで覚えた「番号で進むプロンプト構成」を、Qiita記事作成のスキルにした</title>
+      <link>https://qiita.com/torifukukaiou/items/e1ec9fd7aa025fd21d12</link>
+      <guid isPermaLink="true">https://qiita.com/torifukukaiou/items/e1ec9fd7aa025fd21d12</guid>
+      <pubDate>Sun, 01 Nov 2026 05:53:14 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Markdownやスキルとして管理するプロンプトの具体的な構成・ステップ分けが紹介されており、非常に参考になる。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに note で覚えた「番号で進むプロンプト構成」を、Qiita 記事作成のスキルにしました。素材を渡して番号を選んでいくだけで、事実ベースの記事の下書きまでたどり着きます。 公開リポジトリ tokon-agent-skills に、qiita-artic...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🪙 PSA: ultracode isn't locked to max effort anymore</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1xks0kb/psa_ultracode_isnt_locked_to_max_effort_anymore</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1xks0kb/psa_ultracode_isnt_locked_to_max_effort_anymore</guid>
+      <pubDate>Sun, 01 Nov 2026 05:53:14 +0000</pubDate>
+      <category>トークン節約</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Ultracodeを低effortで実行する節約術が書かれており、コスト削減やトークン節約に役立ちます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: トークン節約 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;quick one since a lot of people skip ultracode because of the cost. you can now pair ultracode with any effort level: /effort → pick Low → toggle Ultracode on you still get the full workflow orchestration (multiple agents, verify passes, the whole thing), but the thinking runs at low effort, so it b&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

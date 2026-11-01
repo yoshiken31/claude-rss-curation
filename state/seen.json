@@ -1,1 +1,47 @@
-{"initialized": false, "items": {}, "titles": {}}
+{
+ "initialized": true,
+ "items": {
+  "http://www.excite.co.jp/news/article/Prtimes_2026-11-01-64613-243": "2026-11-01",
+  "https://ai-hikari-ai.com/news/anthropic-gsa-government-discount-20261101-0900": "2026-11-01",
+  "https://ai-hikari-ai.com/news/claude-ultra-max-rename-20261101-0900": "2026-11-01",
+  "https://hashout.jp/ai/13530": "2026-11-01",
+  "https://news.yahoo.co.jp/articles/1995c69746eb5510a75f1bd13320ca09113a289e/images/000": "2026-11-01",
+  "https://newspicks.com/news/17807693": "2026-11-01",
+  "https://portal.uqmobile.jp/detail/1/3/7/10325_7_r_20261101_1793489336936610": "2026-11-01",
+  "https://qiita.com/equalang-ai/items/e855450434d8522e92b7": "2026-11-01",
+  "https://qiita.com/torifukukaiou/items/e1ec9fd7aa025fd21d12": "2026-11-01",
+  "https://tech-noisy.com/2026/10/31/elevenlabs-sfx-v3-release": "2026-11-01",
+  "https://www.atpartners.co.jp/news/2026-11-01-article-0f5413fead": "2026-11-01",
+  "https://www.chiba-tv.com/plus/detail/2026112181399": "2026-11-01",
+  "https://www.reddit.com/r/ClaudeAI/comments/1xks0kb/psa_ultracode_isnt_locked_to_max_effort_anymore": "2026-11-01",
+  "https://www.reddit.com/r/ClaudeCode/comments/1xkqgqc/loopsnexttask_whats_next": "2026-11-01",
+  "https://www.reddit.com/r/ClaudeCode/comments/1xkrlw9/how_do_you_decide_which_rules_to_delete_from": "2026-11-01",
+  "https://www.reddit.com/r/ClaudeCode/comments/1xkscfd/bless_the_sweet_soul_that_made_the_safety_scanner": "2026-11-01",
+  "https://www.reddit.com/r/ClaudeCode/comments/1xkskh2/how_does_it_do_that": "2026-11-01",
+  "https://www.reddit.com/r/ClaudeCode/comments/1xkto5i/analog_horror_made_with_claude_opus_55_feedback": "2026-11-01",
+  "https://www.reddit.com/r/ClaudeCode/comments/1xkttpm/second_memory_suggestions": "2026-11-01",
+  "https://www.reddit.com/r/ClaudeCode/comments/1xktur2/anyone_else_an_old_chat_hoarder": "2026-11-01"
+ },
+ "titles": {
+  "04a4bdc2b11542f6": "2026-11-01",
+  "0f36f45901388e60": "2026-11-01",
+  "171b309db7dd6c0c": "2026-11-01",
+  "1e7c135fbb216b85": "2026-11-01",
+  "1e9fc1bdac124c9a": "2026-11-01",
+  "4af213f149187c3b": "2026-11-01",
+  "4f6051997ccba003": "2026-11-01",
+  "5111c94b1af3ef56": "2026-11-01",
+  "58be71d59e8acdbb": "2026-11-01",
+  "6c120ee3afe03b32": "2026-11-01",
+  "6f56cd781ee126f4": "2026-11-01",
+  "8fdf4ffd9e8cf53f": "2026-11-01",
+  "92603a39de7874a8": "2026-11-01",
+  "932d7f1d9fa72dbc": "2026-11-01",
+  "bcb8d2acb4c69922": "2026-11-01",
+  "bdab57bde97c6087": "2026-11-01",
+  "c55c7be9286ffd53": "2026-11-01",
+  "e0326555de2edcf8": "2026-11-01",
+  "e22aca902adc6bd0": "2026-11-01",
+  "ece53c05e39d365c": "2026-11-01"
+ }
+}
