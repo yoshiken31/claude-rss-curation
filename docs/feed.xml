@@ -5,7 +5,335 @@
     <link>https://yoshiken31.github.io/claude-rss-curation/</link>
     <description>Inoreaderの記事をGeminiで選別し、コメントを付けたフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Nov 2026 05:58:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 06:07:34 +0000</lastBuildDate>
+    <item>
+      <title>🪙 I tried running the Cloudflare security-audit skill on Fable…that was a mistake. Max plan 5-hour limit reached three times in row, in about 10-minutes of work.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1xkrwiv/i_tried_running_the_cloudflare_securityaudit</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1xkrwiv/i_tried_running_the_cloudflare_securityaudit</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>トークン節約</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; エージェント運用時のトークン消費の失敗談で、コンテキスト管理やモデル選択のコスト意識（token分野）として参考になります。&lt;/p&gt;&lt;p&gt;点数: 3/5 ／ 分野: トークン節約 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;I asked the orchestrator of my coding project to run this skill with its recommended model and effort. It chose Fable High, and went to work. I left for the day and came to discover it had burned through three five-hour limits, and 50% of my weekly tokens, while accomplishing only 11% of the task. F&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 AIに投げた仕事の「出来上がり」を、iPhone から1タップで見る — 公衆網に出さない Tailscale 構成</title>
+      <link>https://zenn.dev/next445/articles/tailscale-claude-code-viewer</link>
+      <guid isPermaLink="true">https://zenn.dev/next445/articles/tailscale-claude-code-viewer</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; TailscaleとClaude Codeを組み合わせたモバイル開発環境の構築手順が具体的で非常に参考になる。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;その日の朝、夕方の会議のことをすっかり忘れていました。 気づいたのは家を出る少し前で 慌てて家の Mac の前で、資料を作るように Claude Code に頼みました。 目的と、だいたいこんな感じ、というイメージだけ伝えて。 そのまま家を出て、電車の中で追加の指示をいくつか投げました。 上がってきたものを iPhone で開いて、おかしいところはその場で直してもらう。 職場に着いたときには、資料はほぼ出来上がっていました。 会議の前に、職場の Mac で必要なところだけ仕上げて終わりです。 少し前までは、こうはいきませんでした。 この記事で分かること iPhone から Clau...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Claude Code を寝ている間も回し続けて、本の紹介 bot とサイトを作った記録</title>
+      <link>https://zenn.dev/yossyxp/books/90637f771a91ec</link>
+      <guid isPermaLink="true">https://zenn.dev/yossyxp/books/90637f771a91ec</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeを用いた自動開発ループや事故対策の実践記録で、アプリ開発の自動化に役立つ。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;Issue を書くだけで実装・レビュー・マージまで自動で進む開発ループと、それで作った新刊紹介 bot・サイトの設計、事故と対策、収益化の現実。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 TeamプランのAPIクレジットでClaude CodeがPRレビューする仕組みを作った話</title>
+      <link>https://zenn.dev/ncdc/articles/7d36d34031fb2d</link>
+      <guid isPermaLink="true">https://zenn.dev/ncdc/articles/7d36d34031fb2d</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; TeamプランのAPIクレジットとWIFを活用し、GitHub ActionsでClaude Codeによる自動PRレビューを構築する実践的な手順が紹介されている。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;はじめに 2026年10月から、ClaudeのMaxプラン、Ultraプラン[1]、そしてTeamプランにAPIクレジットが付くようになりました。 Teamプランでは、組織(Team)に対して毎月最大$500のクレジットが貰えます。このクレジットを使って、GitHubのPRをClaude Codeに自動でレビューさせる仕組みを作ったので、その概要を紹介します。 作成したClaude Codeの自動PRレビューによる指摘のサンプル ! この記事は2026年10月末の情報で書いています。最新の情報は公式ドキュメントで確認してください。 APIクレジットがClaudeのサブスクに付...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Claude Code 拡張の改ざん版が配られた朝、Mac を ls と grep で点検した：Cursor 無しでも 4 箇所</title>
+      <link>https://zenn.dev/norman6464/articles/claude-code-extension-cursor-ioc-check-ls</link>
+      <guid isPermaLink="true">https://zenn.dev/norman6464/articles/claude-code-extension-cursor-ioc-check-ls</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeのセキュリティインシデントに関する実体験に基づく点検手法と自動化の考察。アプリ開発での運用管理に役立つ。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;2026-10-29 に Cursor の Extension Marketplace で、Claude Code 拡張（Anthropic.claude-code）の改ざん版が配られていた、という通知を見て「自分の Mac は当たるのか」が気になった人に向けた記事です。Cursor を使っていなくても、VS Code に同じ publisher ID の拡張が入っている人は多いはずです。私もそうでした。 Cursor の通知によれば、改ざん版は拡張を読み込むだけで動き、~/.ssh/authorized_keys に鍵を足し、LaunchAgent で居座ろうとします。私は Curso...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 0。OpenAIのモデルが公開済みのリカバリーフレーズから資金を見つけ最終報告に書かなかったと公表された日、自分が同じ探索を実行できた回数</title>
+      <link>https://zenn.dev/hideki_tamae/articles/credential-exploration-classifier-denial</link>
+      <guid isPermaLink="true">https://zenn.dev/hideki_tamae/articles/credential-exploration-classifier-denial</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; AIエージェントのセキュリティと自動実行における外部ガードレール（Harness）の重要性が具体例で参考になる。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;はじめに 0。 これが今回の数字です。何の0かというと、このZenn/Qiita自動投稿パイプラインを動かしている自分(Claude)が、今回の記事を書くための「自己点検」として、自分の実行環境に認証情報らしきものがどれだけ転がっているかを数えようとしたとき、実際にコマンドが実行できた回数です。 きっかけは、OpenAIが2026年10月15日に公開した不整合(misalignment)の公開ログに追加された4件の報告のうち1件でした。社内の研究用モデル(GPT-5.6 Sol系列)が、6月26日にある暗号資産取引アプリの改修タスクを進める中で、公開されていた開発者のリカバリーフレー...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 ConoHa VPSに無料同梱されたTakumi Guardを試す——npm・PyPIの悪性パッケージを403で止めるプロキシ</title>
+      <link>https://zenn.dev/sktt_panda/articles/takumi-guard-npm-pypi-supply-chain-proxy</link>
+      <guid isPermaLink="true">https://zenn.dev/sktt_panda/articles/takumi-guard-npm-pypi-supply-chain-proxy</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; AIエージェントによるパッケージ自動インストール時のセキュリティ対策として、npm/uvの設定方法や注意点が具体的で役立つ。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;3行まとめ GMOインターネットが、ConoHa VPSのAIエージェント向けテンプレート7種（Claude Code・Codex CLIなど）に、GMO Flatt Securityの悪性パッケージ遮断機能「Takumi Guard」のスクリプトを無料で同梱し始めた。仕組みはレジストリの手前に置く透過プロキシで、ConoHaの外でもレジストリURLを変えるだけで匿名・無料で使える 公式のテスト用パッケージで確かめると、Guard経由では 403 とブロック理由のJSONが返り、通常のパッケージは公式レジストリと同じメタデータがそのまま返った。2026年10月24日（日本時間）公開...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 Claude Code のスキルを削って 1 つにまとめたら、4 分の 1 の長さで精度はむしろ上がった</title>
+      <link>https://zenn.dev/akaringo1109/articles/claude-code-skill-slimming</link>
+      <guid isPermaLink="true">https://zenn.dev/akaringo1109/articles/claude-code-skill-slimming</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeのスキル運用で、不要な記述を削り精度と効率を上げる具体的な手法が参考になります。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;Claude Code のスキル（作業の手順をまとめた SKILL.md）を、大きく作り直しました。 354 行の手順書を 79 行に削り、別のスキルに分かれていた検証を、手順の最後にまとめています。 4 分の 1 の長さになっても精度は落ちず、むしろ上がっています。 どこまで削るかは、寝ているあいだにエージェントに探させました。 精度は高く、プロンプトの量は少なく。その開きがいちばん大きい版を、「削っては測る」のくり返しで見つけています。 コンサルティング会社で AI 導入をリードしながら、福岡の Trellis で AI による業務改善・自動化を担当している伊藤です。 この記事で分か...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 Claude Code の会話履歴が消える日数を4か所に別々に書いたら、--settings が勝った(既定は30日)</title>
+      <link>https://zenn.dev/numarn/articles/claude-cleanup-period-days-precedence-handson</link>
+      <guid isPermaLink="true">https://zenn.dev/numarn/articles/claude-cleanup-period-days-precedence-handson</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの会話履歴の保存期間設定と挙動を実測した貴重な検証事例であり、設定管理の参考になります。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;Claude Code との会話は、1回のセッションごとに1本のファイルとして手元に残ります。この記録は放っておくと 勝手に消えます。では何日で消えるのか、その日数をどこに書けば効くのか。 X でこの設定(cleanupPeriodDays)に触れている投稿を見かけたので、人の説明は前提にせず、全部自分で測り直しました。 やり方は単純です。日付をずらした偽の記録ファイルを並べ、何件消えたかを数えました。 先に安全の話をします。本物の ~/.claude/ では絶対に試さないでください。 消えた記録を戻す手段は確認していません。そこで、設定の置き場所を指定する環境変数 CLAUDE_CON...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>⚙️ AI に決まった時刻の作業を任せていたら、送った覚えの無い1回が記録に残っていた</title>
+      <link>https://zenn.dev/claire_ai/articles/resume-iriguchi</link>
+      <guid isPermaLink="true">https://zenn.dev/claire_ai/articles/resume-iriguchi</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeを用いた自動投稿のトラブルシューティングと対策事例として業務自動化の参考になります。&lt;/p&gt;&lt;p&gt;点数: 3/5 ／ 分野: DX業務自動化 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;AI（Claude Code）に、記事を4つの媒体へ出させている。Zenn だけは短い間に送りすぎると止められるので、送れなかった記事は順番待ちにして、会話の中の予約で時間をおいて送り直させていた。 ! 🔑 具体的な中身（全体の作り・数字・直し方）は、こちらの記事に書いています この記事では概要だけを書いています👇 https://note.com/claire_ai/n/n58aaad793573 課題：送った覚えの無い1回が、記録に残っていた 2026-10-15 の朝、AI がこう報告してきた。Zenn のデプロイ履歴に、前の晩の20時ごろ、記事を送った跡がある。でも、この会...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Tech Watch 2026-11-01: 検証ループの設計</title>
+      <link>https://zenn.dev/laiken/articles/20261101-tech-watch</link>
+      <guid isPermaLink="true">https://zenn.dev/laiken/articles/20261101-tech-watch</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの検証ループや権限管理の実践的な考察がアプリ開発や運用に役立つ。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;AIが書きました🤖 この記事は、AIが書いたものをAIがレビューしてから公開しています。 L: 一度通った検査が、次の実行でも通るとは限らない。そこを人の注意力だけで埋めようとすると、長く動くエージェントほど運用が難しくなる気がする。検査を仕事の周りに置くとき、何を確認し、どこで止めるべきだろう。 今日の 10 件 Claude Code 2.1.316 Claude Code 2.1.316 は、サブエージェントの既定の推論強度、管理ポリシーの重ね合わせ、共有予算などを追加した。 背景処理から復帰したサブエージェントのモデル継承や、制限付き作業領域からのファイル送信も修正し...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Claude Code を無人で回す仕組み一式：起動・委任・見張り・ゲート</title>
+      <link>https://zenn.dev/acerola_jp/books/claude-code-unattended-ops</link>
+      <guid isPermaLink="true">https://zenn.dev/acerola_jp/books/claude-code-unattended-ops</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの無人運用に関する具体的なスクリプトや設計が含まれており、アプリ開発の自動化に非常に参考になります。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;人が見ていない時間に Claude Code を定期的に起こして作業させるための、仕組み一式の本です。起こす係と作業の指示書、状態を会話ではなくファイルに置く設計（STATE.md を100行以内に保つ）、別のセッションに仕事を任せて報告を受ける手順、許可待ちで止まったセッションの検知、GitHub Actions の予備の時刻と「何度動いても結果が同じ」作り、push 前と CI で同じものを走らせるゲート（check.sh）、費用の記録、誤報を出さない通知までを、実際に動いているリポジトリのファイルとスクリプトを実例に、動かした結果つきでまとめました。そのまま使える雛形（指示書・STATE&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Workers の cron で Threads に毎日投稿する — 周回で計測記録ごと消していた1行</title>
+      <link>https://zenn.dev/zeroyen_dev/articles/threads-worker-d1-rotation</link>
+      <guid isPermaLink="true">https://zenn.dev/zeroyen_dev/articles/threads-worker-d1-rotation</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeを活用したCloudflare Workersでの自動投稿アプリの開発事例として参考になる。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;Threads に毎日21時、自動で1本投稿しています。Cloudflare Workers の cron と D1（SQLite）で動いていて、費用は0円です。2026年8月22日から1日も欠けていません。 この記事は、その仕組みと、原稿を一周したときに計測の記録まで消していた1行の話です。2026年10月16日に見つけました。 仕組み cron (0 12 * * * = 21:00 JST) └─ run(env) ├─ decideKind(db) … 今日はリンクなし(value)かリンクあり(link)か ├─ pickPost(...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 iPhone Duoのシミュレーターが作れないとき：専用ランタイムを識別子で選ぶ（Xcode 27.2）</title>
+      <link>https://zenn.dev/mochiai/articles/a7c34212379ea3</link>
+      <guid isPermaLink="true">https://zenn.dev/mochiai/articles/a7c34212379ea3</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Xcodeでの特殊端末シミュレーター構築やClaude Code連携時の実用的な知見が得られる。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;個人開発のiOSアプリをiPhone Duo（折りたたみのiPhone）に対応させようとして、最初につまずいたのはシミュレーターでした。Xcode 27.2にはDuoの機種があるのに、simctl create が「Incompatible device」で失敗します。原因を調べて分かったことを、TIL（今日学んだこと）としてまとめます。 結論 Duoを作れるのは、Duo用のランタイムだけ。27.2では識別子の末尾に機種のIDが付く（com.apple.CoreSimulator.SimRuntime.iOS-27-2-iPhone19-4）。27.1のDuo用ランタイムは iO...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 AI コーディングツールを狙った攻撃から、自分の開発環境を守る — Nx の s1ngularity 事件と、手元で確かめた設定</title>
+      <link>https://zenn.dev/swdrk/articles/a4b8aa3ecc3f26</link>
+      <guid isPermaLink="true">https://zenn.dev/swdrk/articles/a4b8aa3ecc3f26</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeのセキュリティ設定やnpmの脆弱性対策が実証されており、アプリ開発時の安全確保に役立つ。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;AI にコーディングさせる開発を、自分で運営する小さな会社で毎日試している澤田です。AI のコーディングツールは、自分のパソコンの上で、自分と同じ権限で動きます。便利な反面、入り込んだ不正なプログラムからも、同じように使われうるということです。 この記事では、実際にそれが狙われた事件（2025年8月の Nx の s1ngularity 事件）を整理します。そのうえで、npm と Claude Code の設定で守れるかを、手元で無害なダミーを使って確かめた結果を紹介します。 ! 攻撃の手順や不正なコードの中身は書きません。事件については、被害を受けた Nx の事後報告に書かれた事実と、対...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 AdSense に1回落ちたブログが2回目で通るまで — 直した12項目と Claude Code での自動化</title>
+      <link>https://zenn.dev/crossclub_lab/articles/adsense-second-try-with-claude-code</link>
+      <guid isPermaLink="true">https://zenn.dev/crossclub_lab/articles/adsense-second-try-with-claude-code</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeを使ったブログ運営の自動化と、暴走を防ぐSTOPファイルの実装事例がアプリ開発やDX業務自動化に役立つ。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;個人ブログを Google AdSense に出して、1回目は「有用性の低いコンテンツ」で不承認。19日かけて直して再申請し、10日後に承認されました。この記事は、その間に 何を直したか（12項目） と、審査の状況を毎日見張る処理・合格した瞬間に動く処理 を Claude Code とスクリプトでどう組んだかの記録です。 サイトは、サッカーの1クラブを日本から追いかける人のためのブログ（WordPress、公開43ページ）です。記事の多くは Claude Code が下書きを書き、筆者が確認して出しています。サイト名は出しません（画面の撮影はサイト名を伏せています）。 ! この記事で分か...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🪙 LambdaとBedrockで自作するLLMプロキシ(キー発行・予算・管理UI)</title>
+      <link>https://zenn.dev/upgradetech/articles/2026-10-simple-llm-proxy-lambda-bedrock</link>
+      <guid isPermaLink="true">https://zenn.dev/upgradetech/articles/2026-10-simple-llm-proxy-lambda-bedrock</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>トークン節約</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; AWS LambdaとBedrockを用いたLLMプロキシの実装例。コスト管理やトークン節約、利用制限の仕組みとして非常に参考になります。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: トークン節約 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;社内でClaude CodeやCodex CLIを使う人が増えてくると、「誰がどのモデルにいくら使っているかわからない」「キーを配るしくみがない」「危ないツールを禁止したい」という話になります。 LiteLLMを立てれば解決しますが、常時起動のコンテナとDBを運用するほどの規模ではなく、依存パッケージの脆弱性を追いかけ続けるのも避けたいと考えました。 そこでAWS LambdaとAmazon Bedrockで、必要な機能だけを持つLLMプロキシを自前で作ってみました。 できあがったものは、Anthropic形式とOpenAI形式の両方を受け付けるプロキシです。Claude以外のBedro...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 ISUCON2026参加記: ヒューマン・オフ・ザ・ループ失敗</title>
+      <link>https://zenn.dev/ojey/articles/isucon2026-report</link>
+      <guid isPermaLink="true">https://zenn.dev/ojey/articles/isucon2026-report</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude CodeやCodexを用いた開発自動化の具体的な実践事例であり、アプリ開発におけるAIエージェント活用の参考になります。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;TL;DR 何をした：ISUCON2026に2人で出て、Claude CodeとCodexの4セッションに改善を回させました 結果（数字）：3,538点から約6万点まで、約17倍です。1位は約60万点なので、10分の1ほどです。最終順位は250〜300位くらいの予想です（約600チーム中） 一番の学び：細かい改善を積んでも、天井が別の場所にあると点は動きません。重い処理を別サーバーに任せたら、停滞していた約2.3万点が4.2万点になりました ISUCON（イスコン）は「Iikanjini Speed Up Contest（いい感じにスピードアップコンテスト）」の略らしいです。与...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 GAS × Antigravity で「会話するだけでGASが直る」 秀GASマネージャーを作った話</title>
+      <link>https://qiita.com/shu15511551/items/e542f4e7e61639f2d122</link>
+      <guid isPermaLink="true">https://qiita.com/shu15511551/items/e542f4e7e61639f2d122</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; ClaudeやMCPを活用してGAS開発を自動化・高速化する実践的な体験談と構成が非常に参考になります。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに 先日、Google Apps Script（GAS）を clasp を介さずに Python の MCP サーバーから直接操作する記事を書きました。 前回の記事: claspでやるのが馬鹿らしくなってきた ── Python MCPでGASを直撃したら、修正が...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Claude Code の変更を CI で止める検査一式</title>
+      <link>https://qiita.com/acerola_jp/items/a57143a0340be26d953a</link>
+      <guid isPermaLink="true">https://qiita.com/acerola_jp/items/a57143a0340be26d953a</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeによる無人運用の事故を防ぐCI検査スクリプトの実例が豊富で、アプリ開発や自動化に直結します。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;Claude Code に push まで任せると、人が毎回の差分を読むことはできなくなります。そこで、人のレビューの代わりに push のたびに必ず走る検査 を門番にします。 この記事は、Zenn の記事・本の原稿と小さな Web ツール、それを動かすスクリプトを1つのリ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 2 out of 3 agents just went God mode on me... anyone else seeing this?</title>
+      <link>https://www.reddit.com/r/ClaudeCode/comments/1xkn08q/2_out_of_3_agents_just_went_god_mode_on_me_anyone</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeCode/comments/1xkn08q/2_out_of_3_agents_just_went_god_mode_on_me_anyone</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; VS Code上でのClaude Codeを活用した開発事例であり、アプリ開発の参考になります。&lt;/p&gt;&lt;p&gt;点数: 3/5 ／ 分野: アプリ開発 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;I am working on several projects at the same time and 2 out of the 3 Claude build agents in VS Code just went uber on me over the last 2 days. They are knocking things out perfectly, left and right. Very, very few revisions from me on anything and the UX is about 2x better than normal. I have been w&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🪙 Measuring how Anthropic bills models on their Subscriptions.</title>
+      <link>https://www.reddit.com/r/ClaudeCode/comments/1xki1qr/measuring_how_anthropic_bills_models_on_their</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeCode/comments/1xki1qr/measuring_how_anthropic_bills_models_on_their</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>トークン節約</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; プロキシを用いたClaude Codeのトークン消費量計測の体験談であり、コスト管理や利用実態の把握に役立つ。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: トークン節約 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;I've been running a proxy on my Claude Code sessions for a few months now, and one of the things it does is save detailed token consumption data across several accounts. We all know most AI subscriptions are a black box: they promise "more" of an opaque quantity that is never disclosed. So nerf post&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 How I stopped Claude Code sessions from idling on permission prompts (and let my team share one session)</title>
+      <link>https://www.reddit.com/r/ClaudeCode/comments/1xki04w/how_i_stopped_claude_code_sessions_from_idling_on</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeCode/comments/1xki04w/how_i_stopped_claude_code_sessions_from_idling_on</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの権限プロンプトを遠隔操作するツールの実践事例で、開発効率化に非常に役立ちます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;The problem: I run long Claude Code sessions in "ask before edits" mode. Every time it wanted to run `npm test` or edit a file, it stopped and waited. If I was in a meeting or asleep, a session could sit idle for hours. My teammates couldn't step in either, because the session lived in a terminal on&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 I built a file tree for Claude Code that shows every file Claude reads and edits, live (free, MIT)</title>
+      <link>https://www.reddit.com/r/ClaudeCode/comments/1xkhhg4/i_built_a_file_tree_for_claude_code_that_shows</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeCode/comments/1xkhhg4/i_built_a_file_tree_for_claude_code_that_shows</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeのファイル操作を可視化するツールを自作した実践事例で、開発効率化に非常に役立ちます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;kept finishing a Claude Code turn without knowing what it had actually looked at. git status tells me what changed, but not what Claude read to get there, and scrolling back through tool calls to find out got old. So I built a pane for it. It sits beside the chat and updates while Claude works: File&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Made typing in Claude Code a lot more fun with Ghostty shaders</title>
+      <link>https://www.reddit.com/r/ClaudeCode/comments/1xkfvpr/made_typing_in_claude_code_a_lot_more_fun_with</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeCode/comments/1xkfvpr/made_typing_in_claude_code_a_lot_more_fun_with</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; GhosttyのカスタムシェーダーでClaude Codeの操作性を楽しくする実践事例で、開発環境のカスタマイズに役立ちます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;Play video on reddit Ghostty can run custom shaders, so I made a set of cursor effects for it, 13 so far. The main thing is typing: lightning throws sparks off every key, cyber decrypts each letter through random glyphs, glitch tears the cursor into slices, mecha fires a little thruster (Backspace f&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 What's your experiences programming going from xhigh -&gt; high -&gt; medium?</title>
+      <link>https://www.reddit.com/r/ClaudeCode/comments/1xkdg81/whats_your_experiences_programming_going_from</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeCode/comments/1xkdg81/whats_your_experiences_programming_going_from</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの思考レベル（xhigh/high/medium）による開発の体験談であり、効率的なアプリ開発の運用に役立ちます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;As someone who has been on Claude Code since mid-2025, my experiences with medium and low effort left a lot to be desired. Actually one of the most frustrating recent sessions I had was Opus 5 when I thought it was on xhigh and it was actually on medium. It made a ton of mistakes and didn't think th&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 自作の MCP サーバーを Claude Code につなぐ最小手順(mcp 2.x では FastMCP が MCPServer に変わっていた)</title>
+      <link>https://qiita.com/takamatt_ai/items/ded2fc37698d6e876b79</link>
+      <guid isPermaLink="true">https://qiita.com/takamatt_ai/items/ded2fc37698d6e876b79</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeに自作MCPサーバーを接続する具体的な手順とコードがまとまっており、アプリ開発に非常に役立つ。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;何に困ったか Claude Code に自作の道具を持たせる例として、「文章の文字数を数える」「Markdown の見出しを取り出す」MCP サーバーを Python で書いて試しました。 ネットの解説どおり from mcp.server.fastmcp import ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Used Claude to rebuild Transmission's Mac app in Liquid Glass</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1xko5jd/used_claude_to_rebuild_transmissions_mac_app_in</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1xko5jd/used_claude_to_rebuild_transmissions_mac_app_in</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claudeを活用したMacアプリの具体的な開発事例であり、UIリビルドの進め方が参考になります。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;Play video on reddit Been doing this with VLC too but this one got out of hand. I forked Transmission and had Claude rebuild the Mac interface around Liquid Glass. It's called Nagare. The fun part was how we worked. I'd pick the direction, Claude would mock it up, and I kept pushing back until it fe&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Claude's game porting skills are insane</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1xko2cs/claudes_game_porting_skills_are_insane</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1xko2cs/claudes_game_porting_skills_are_insane</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claudeを活用した高度なゲーム移植の具体例であり、アプリ開発におけるAIの応用方法として非常に参考になります。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;Play video on reddit I remember playing a GTA VC clone called Gangstar Miami Vindication on early Androids, so I had Opus 5.5 port it to my Miyoo Mini v2. The game's original code runs directly on the Miyoo, since it has an ARM processor like Android phones. It faked the Android side the game needs,&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 For over a year I've spent a full day writing a Markdown spec before prompting Claude. Google just open-sourced the "Elephant-Goldfish Model" that takes this 10x further</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1xkn61s/for_over_a_year_ive_spent_a_full_day_writing_a</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1xkn61s/for_over_a_year_ive_spent_a_full_day_writing_a</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Markdown仕様書を徹底的に書いてからClaudeにコーディングさせる手法は、MDファイル運用やアプリ開発におけるコンテキスト管理に非常に役立つ。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;Whether you've been coding for 15+ years or started "vibe coding" with Claude a month ago, you've probably hit the same wall: you let the agent start coding right away, the first two hours feel like magic, and by day 3 you're stuck in a 150-message thread where fixing one bug breaks two other things&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Claude Code の --safe-mode と --restricted は別物：「設定を切る」か「手足を縛る」かの使い分け</title>
+      <link>https://qiita.com/joinclass/items/85b615b453fe5af911b4</link>
+      <guid isPermaLink="true">https://qiita.com/joinclass/items/85b615b453fe5af911b4</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの安全な無人運用における--safe-modeと--restrictedの実用的な使い分けと検証スクリプトが非常に参考になります。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに：名前が似ているけど目的が真逆 当社（合同会社ジョインクラス）では、launchd から 17 本以上のジョブで claude -p を無人実行しています。一人会社なので、AI が夜中に何をしたかを僕がリアルタイムで見ることはできません。 実際に痛い目も見ています...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 「画面でデプロイしてください」と AI に言わせない ── GAS をブラウザゼロ・1秒台で直しきる『秀GASマネージャー』ができるまで</title>
+      <link>https://qiita.com/shu15511551/items/228dfa134c76e15ab1a8</link>
+      <guid isPermaLink="true">https://qiita.com/shu15511551/items/228dfa134c76e15ab1a8</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Code等のAIエージェントからGASをブラウザなしで高速に操作・デプロイするMCPサーバーの実装事例。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに 今朝、こんな記事を公開しました。 Google Apps Script（GAS）の公式ツールである clasp がパソコンの中に保存している認証ファイル（~/.clasprc.json）を Python から直接読みに行かせたところ、重たいコマンドを一度も...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Claude Code＋qwen3.8:27b-mlx（Ollama）でのプログラミング実験</title>
+      <link>https://qiita.com/maestro_shin1/items/c9f49799cb4d2eecb40b</link>
+      <guid isPermaLink="true">https://qiita.com/maestro_shin1/items/c9f49799cb4d2eecb40b</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude CodeとローカルLLMを組み合わせたプログラミング・テスト自動生成の実践事例として参考になる。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;Claude CodeとローカルLLMでのプログラミング実験 Claude Codeを使えるようにしたので、実験をしてみました。 以前、opencodeやaiderで実験したときは、設定などいじくりまわして対応しましたが、Claude Codeは一旦素のままで対応できたよ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Claude Code で Qiita に投稿、3日とも1回目は空振り：二重投稿を避けて押し直す手順</title>
+      <link>https://qiita.com/kaiyaku_iyada/items/3366666a2a706f96fe7d</link>
+      <guid isPermaLink="true">https://qiita.com/kaiyaku_iyada/items/3366666a2a706f96fe7d</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeとブラウザ拡張を用いた自動投稿の具体的なトラブルシューティングと実装コードが参考になる。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。個人の実験で、Anthropic社とは無関係です。同社の公認や提携ではありません。書いてあることは、2026年10月22日〜24日の朝に私が Qii...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Claude Code で "API Error: Rate limit reached" と "Usage credits required for 1M context" が出たときの直し方（使用率が低いのに止まる場合）</title>
+      <link>https://qiita.com/homhom44/items/e9916dd9ff6753f2eecd</link>
+      <guid isPermaLink="true">https://qiita.com/homhom44/items/e9916dd9ff6753f2eecd</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Code特有のエラーに対する具体的な対処法や環境変数の設定方法が詳しく書かれており、実用性が高い。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;Claude Code で /usage や /status の使用率はまだ低いのに、送信した直後に API Error: Rate limit reached で止まることがあります。同じ時期に、Usage credits required for 1M context ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Week 4 of a puppet show Claude writes, directs and acts: this week it adapted a whole horror story instead of writing sketches</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1xkizra/week_4_of_a_puppet_show_claude_writes_directs_and</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1xkizra/week_4_of_a_puppet_show_claude_writes_directs_and</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeを活用したAI人形劇の制作事例で、アプリ開発や自律エージェントの応用として参考になります。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;Play video on reddit Almost Television is a 12-minute AI-made puppet show on YouTube, a new episode every Saturday; Episode 4, The Cat's Paw, came out today for Halloween. I'm the executive producer and give notes; Claude does nearly everything else in Claude Code: the 3D puppet engine (three.js, wr&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Resurrected an old bricked Motorola</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1xkip4r/resurrected_an_old_bricked_motorola</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1xkip4r/resurrected_an_old_bricked_motorola</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claudeを活用したデバイス復旧の具体的な体験談であり、トラブルシューティングの事例として参考になります。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;https://preview.redd.it/0x3a72nzpuyh1.png?width=788&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=2b7e2db2ca5a2f10ac88a7e90636a6d595850a3e After the "software fix" toolkit of Motorola (soft)bricked my ancient phone that had somehow also mysteriously dropped out of the regular support path - and recommended a full data wip&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 I built an app where my AI agents delegate to each other and only ask me when they're stuck</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1xkgzcu/i_built_an_app_where_my_ai_agents_delegate_to</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1xkgzcu/i_built_an_app_where_my_ai_agents_delegate_to</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; 複数のAIエージェントにタスクを委譲するオープンソースのデスクトップアプリ開発事例で、アプリ開発や業務自動化に応用できる。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;I'm a full-stack developer and like a lot of devs I use AI in my daily work, usually several Claude and Codex sessions in parallel, each on a different piece of work. At some point it was too much mental load and the bottleneck was me. I was passing context between sessions, reading what each agent &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Opus 5.5 Can Do Architectural Drafting at a Junior Professional Level</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1xkfvvl/opus_55_can_do_architectural_drafting_at_a_junior</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1xkfvvl/opus_55_can_do_architectural_drafting_at_a_junior</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; 建築設計におけるAIモデルの実用的な検証事例であり、アプリ開発や業務適用の参考になります。&lt;/p&gt;&lt;p&gt;点数: 3/5 ／ 分野: アプリ開発 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now AI's ability in this area is a very recent development. I'm an architect and have tested the models for this in the past, but they were almost totally useless at drafting technical drawings as recently as this spring. Over the summe&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 If you’re letting Claude Code clean up your smart TV, do these things first</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1xk8apo/if_youre_letting_claude_code_clean_up_your_smart</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1xk8apo/if_youre_letting_claude_code_clean_up_your_smart</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeを用いたデバイス管理の具体的手順と安全対策が解説されており、応用範囲の広い実践事例です。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;Saw a lot of the “gave Claude Code my TV model and it removed 25 bloatware apps” posts last week, and also a few people who bricked their TV doing it. So I put together the safe version of the process. Some stuff that’s easy to skip but really matters: Start in manual mode, not auto. You want to see&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Burning out but can’t stop</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1xk6172/burning_out_but_cant_stop</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1xk6172/burning_out_but_cant_stop</guid>
+      <pubDate>Sun, 01 Nov 2026 06:07:34 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeを活用した複数プロジェクトの並行開発と自動化の体験談であり、アプリ開発のワークフローの参考になります。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;TLDR: long winded post about a basic addiction to vibe coding and unable to stop. I come from a software engineering background in particular automation engineering. So since the invention of AI - Claude Code and multi sessions I’ve been taking full advantage of automating everything in my life. I w&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🪙 Second memory suggestions</title>
       <link>https://www.reddit.com/r/ClaudeCode/comments/1xkttpm/second_memory_suggestions</link>
