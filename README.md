@@ -7,7 +7,7 @@ Gemini無料枠とGitHub無料枠だけで動き、Claudeの使用量・課金�
 フィード: https://yoshiken31.github.io/claude-rss-curation/feed.xml
 
 ## 仕組み
-1. 毎日 06:00 JST（cron `0 21 * * *` UTC）に GitHub Actions が `scripts/curate.py` を実行します。手動実行は Actions の `curate` → Run workflow です。
+1. 毎日 05:00 JST（cron `0 20 * * *` UTC）に GitHub Actions が `scripts/curate.py` を実行します。手動実行は Actions の `curate` → Run workflow です。
 2. Secret `INOREADER_FEED_URL` のRSSを取得します。処理済み・重複（同じ元URL、ほぼ同じタイトル）を除きます。Googleアラートの中継URLは元記事のURLに変換します。
 3. 初回は直近3日分だけが対象で、それより古い記事は処理済み扱いで取り込みません。
 4. 1次選別: 25件ずつまとめてGeminiに渡し、分野・実践事例か・1〜5点を判定します。
