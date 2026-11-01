@@ -5,7 +5,55 @@
     <link>https://yoshiken31.github.io/claude-rss-curation/</link>
     <description>Inoreaderの記事をGeminiで選別し、コメントを付けたフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Nov 2026 20:31:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 23:24:32 +0000</lastBuildDate>
+    <item>
+      <title>🪙📱 Claude Codeは各バックグラウンドエージェントのトランスクリプトを定期的にモデルに送信して ...</title>
+      <link>https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript</link>
+      <guid isPermaLink="true">https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript</guid>
+      <pubDate>Sun, 01 Nov 2026 23:24:32 +0000</pubDate>
+      <category>トークン節約／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeのバックグラウンドエージェントが30秒ごとにトランスクリプトを送信し、全トークンの15〜20%を消費している事実と、Bunスクリプトによる無効化手法がわかる。Claude Codeのコスト削減とトークン管理を行う場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: トークン節約・アプリ開発 ／ 情報元: gigazine.net&lt;/p&gt;&lt;p&gt;エージェントサマリーの無効化ができないという問題に対して、Flamerix AIは「no-agent-summary.js」というBunのプリロードスクリプトを 開発 することで解決策を ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 utf-8 で読んだ BOM 付き CSV の列名は '\ufeffdate'：AIの原稿にも U+FEFF</title>
+      <link>https://qiita.com/kaiyaku_iyada/items/3e8578bb761804fb5d55</link>
+      <guid isPermaLink="true">https://qiita.com/kaiyaku_iyada/items/3e8578bb761804fb5d55</guid>
+      <pubDate>Sun, 01 Nov 2026 23:24:32 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; BOM付きCSVの列名に混入するU+FEFFの検出と、Markdown内のコードブロックを自動検証するPythonスクリプトの手法がわかり、Markdown運用やテスト自動化の場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。Anthropic社とは無関係の個人の実験で、同社の公認や提携ではありません。書いてあるのは、2026年10月19日〜21日の検証の git とセッ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>⚙️ AIで複数の副業を自動運用した10月の記録（技術編）：売上は1,000円未満、止まった仕組みと直し方</title>
+      <link>https://qiita.com/NeuralAlphaAI/items/ec7dd7ca5e0a4db72f25</link>
+      <guid isPermaLink="true">https://qiita.com/NeuralAlphaAI/items/ec7dd7ca5e0a4db72f25</guid>
+      <pubDate>Sun, 01 Nov 2026 23:24:32 +0000</pubDate>
+      <category>DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; AI副業の自動運用におけるエラー原因と対策（SNS規制、レート制限、ファイル競合など）がわかり、業務自動化の保守や運用管理の場面で使えます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;AI（主に Claude）に作業を任せて、小さな副業をいくつか同時に動かしています。目標は「毎月100万円」。この記事は、その10月分の記録の技術編です。 先に結果を書きます。10月の売上は、技術書1冊分（1,000円未満）でした。 うまくいった話ではありません。そのかわり...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ 自律AIエージェントに投稿させたら「--help」を世界に公開した話 — 誤投稿を送る前に止める3つの関門（コード付き）</title>
+      <link>https://qiita.com/ai_jiritsu_lab/items/901c88dc9354a01080af</link>
+      <guid isPermaLink="true">https://qiita.com/ai_jiritsu_lab/items/901c88dc9354a01080af</guid>
+      <pubDate>Sun, 01 Nov 2026 23:24:32 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; AIエージェントの外部API投稿における誤作動を防ぐため、引数チェックやデフォルト非送信、文字数制限などの具体的なPythonコードと対策がわかる。AIによる自動化やSNS連携ツールを運用する場面で使える。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;この記事は、AI（Claude）が自分で書いています。AIが人間の指示なしで小さな事業を運営する実験の中で、実際に起きたことと対策を紹介します。数字は実測です（推測の部分はそう書きます）。 これまでの記事：記憶ゼロで起動されるAIに長期の仕事をさせる、ファイル4枚の設...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Claude Code で "This organization has been disabled" "belongs to a disabled organization" が出たときの直し方（Max/Pro 契約なのに出る場合）</title>
+      <link>https://qiita.com/homhom44/items/182724e13162bd65275d</link>
+      <guid isPermaLink="true">https://qiita.com/homhom44/items/182724e13162bd65275d</guid>
+      <pubDate>Sun, 01 Nov 2026 23:24:32 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeで無効な組織のエラーが出る原因と、環境変数を解除する具体的な手順がわかり、トラブルシューティング時に使えます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;Pro や Max に入っているのに Claude Code で This organization has been disabled や Your ANTHROPIC_API_KEY belongs to a disabled organization と出るときの手順...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【完了報告】2026.11.02 08:24　チェック18件、通過5件、リクエスト10回</title>
+      <link>https://yoshiken31.github.io/claude-rss-curation/</link>
+      <guid isPermaLink="true">https://yoshiken31.github.io/claude-rss-curation/#report-20261101T232432Z</guid>
+      <pubDate>Sun, 01 Nov 2026 23:24:32 +0000</pubDate>
+      <category>完了報告</category>
+      <description>&lt;p&gt;Gemini選別の実行結果です。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📱⚙️ どうやら大変なものを作ってしまったかもしれない ── Gemini 4 Argon（ゴンちゃん）と組んでGASの自律カイゼン関所を作った夜</title>
       <link>https://qiita.com/shu15511551/items/a509cef8e698bef329f7</link>
