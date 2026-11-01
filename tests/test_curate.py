@@ -60,7 +60,7 @@ class T(unittest.TestCase):
 
     def test_feed_roundtrip_and_retention(self):
         a = curate.Article("タイトル <x>", "https://example.com/n", "sum", NOW, "example.com")
-        a.area, a.score, a.comment = "md", 4, "参考になる"
+        a.areas, a.score, a.comment = ["md", "dx"], 4, "参考になる"
         old = curate.article_to_item(a, NOW - timedelta(days=61))
         old["guid"] = "https://example.com/old"
         items = curate.merge_items([old], [curate.article_to_item(a, NOW)], NOW, 60)
@@ -70,20 +70,41 @@ class T(unittest.TestCase):
         p.write_bytes(curate.build_feed(items, {"feed_title": "t", "feed_link": "l", "feed_description": "d"}, NOW))
         back = curate.load_feed_items(p)
         self.assertEqual(back[0]["guid"], "https://example.com/n")
-        self.assertTrue(back[0]["title"].startswith(curate.AREAS["md"]))
+        self.assertTrue(back[0]["title"].startswith(curate.AREAS["md"] + curate.AREAS["dx"]))
         self.assertIn("参考になる", back[0]["description"])
 
     def test_stage1_unjudged_not_marked_seen(self):
         class G:
             def generate_json(self, prompt):
-                return [{"id": 0, "relevant": True, "practical": True, "area": "app", "score": 4},
-                        {"id": 1, "relevant": False, "practical": False, "area": "none", "score": 1}]
+                return [{"id": 0, "relevant": True, "practical": True, "areas": ["app", "xx", "app"], "score": 4},
+                        {"id": 1, "relevant": False, "practical": False, "areas": [], "score": 1}]
         arts = [curate.Article(f"t{i}", f"https://e.com/{i}", "", NOW, "e.com") for i in range(3)]
         seen = {"initialized": True, "items": {}, "titles": {}}
         s = {"stage1_batch_size": 25, "stage1_threshold": 3}
-        passed, judged = curate.run_stage1(G(), "c", arts, s, seen, NOW)
-        self.assertEqual((len(passed), judged), (1, 2))
+        passed, scores = curate.run_stage1(G(), "c", arts, s, seen, NOW)
+        self.assertEqual((len(passed), scores), (1, [4, 1]))
+        self.assertEqual(passed[0].areas, ["app"])
         self.assertEqual(list(seen["items"]), ["https://e.com/1"])
+
+    def test_score_summary(self):
+        self.assertEqual(curate.score_summary([5, 4, 4, 3, 1]), "5点1 / 4点2 / 3点以下2")
+
+    def test_stage2_threshold(self):
+        class G:
+            def __init__(self):
+                self.n = 0
+
+            def generate_json(self, prompt):
+                self.n += 1
+                return {"keep": True, "areas": ["md"], "score": 3 if self.n == 1 else 4, "comment": "c"}
+        import unittest.mock as m
+        arts = [curate.Article(f"t{i}", f"https://e.com/{i}", "", NOW, "e.com") for i in range(2)]
+        for a in arts:
+            a.areas = ["md"]
+        seen = {"initialized": True, "items": {}, "titles": {}}
+        with m.patch.object(curate, "fetch_body", return_value=None):
+            acc, scores, ok, ng = curate.run_stage2(G(), "c", arts, {"final_threshold": 4}, seen, NOW)
+        self.assertEqual((len(acc), scores, ng), (1, [3, 4], 2))
 
 
 if __name__ == "__main__":

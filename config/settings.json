@@ -2,7 +2,7 @@
   "model": "gemini-3.5-flash-lite",
   "stage1_batch_size": 25,
   "stage1_threshold": 3,
-  "final_threshold": 3,
+  "final_threshold": 4,
   "first_run_days": 3,
   "feed_retention_days": 60,
   "seen_retention_days": 120,

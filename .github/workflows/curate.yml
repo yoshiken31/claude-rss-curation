@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 21 * * *"   # 毎日 06:00 JST
   workflow_dispatch:
+    inputs:
+      reevaluate_days:
+        description: "再評価する日数（空欄なら通常実行。指定すると処理済みを無視して直近N日分を判定し直し、feed.xmlを作り直す）"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -27,6 +32,7 @@ jobs:
         env:
           INOREADER_FEED_URL: ${{ secrets.INOREADER_FEED_URL }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          REEVALUATE_DAYS: ${{ inputs.reevaluate_days }}
         run: python scripts/curate.py
       - name: Commit changes
         run: |

@@ -52,7 +52,7 @@ class Article:
         self.summary = summary
         self.published = published
         self.source = source
-        self.area = None
+        self.areas = []
         self.score = 0
         self.comment = ""
 
@@ -310,7 +310,9 @@ def stage1_prompt(criteria, batch):
         + "【選別基準】\n" + criteria + "\n\n"
         + "各記事について次をJSON配列で返してください。要素は記事と同じ件数・同じidで、次のキーを持ちます。\n"
         + '{"id": 整数, "relevant": 4分野に関係するか(真偽値), "practical": 実践事例か(真偽値), '
-        + '"area": "md"|"token"|"app"|"dx"|"none", "score": 1〜5の整数}\n\n'
+        + '"areas": 該当する分野の配列(最大2つ。"md"|"token"|"app"|"dx"。該当なしは空配列), '
+        + '"score": 選別基準の点数の基準に従う1〜5の整数}\n'
+        + "点数は上に偏らないようにしてください（5点は全体の1割程度が目安）。\n\n"
         + "【記事データ】\n" + json.dumps(items, ensure_ascii=False)
     )
 
@@ -320,9 +322,14 @@ def stage2_prompt(criteria, a, body, from_body):
         PROMPT_PREAMBLE
         + "【選別基準】\n" + criteria + "\n\n"
         + ("次の記事の本文を読んで" if from_body else "次の記事のタイトルと要約だけを見て")
-        + "、再評価とコメント作成をしてください。コメントは日本語1〜2行で、"
-        + "何が参考になるか・どの分野に役立つかを書きます。\n"
-        + '返す形式(JSON): {"keep": 基準を満たすか(真偽値), "area": "md"|"token"|"app"|"dx", '
+        + "、選別基準の点数の基準に従って再評価し、コメントを作成してください。\n"
+        + "【コメントの書き方】\n"
+        + "- 日本語で1〜2行にする。\n"
+        + "- 「何がわかるか（具体的な事実・数値・手法）」と「どの場面で使えるか」を必ず入れる。\n"
+        + "- 「非常に参考になります」「非常に役立ちます」「参考になります」のような、内容のない評価の言葉は使わない。\n"
+        + "- 記事に書かれていない内容を、推測で書かない。\n"
+        + '返す形式(JSON): {"keep": 基準を満たすか(真偽値), '
+        + '"areas": 該当する分野の配列(最大2つ。"md"|"token"|"app"|"dx"), '
         + '"score": 1〜5の整数, "comment": "..."}\n\n'
         + "【記事データ】\n"
         + json.dumps(
@@ -339,9 +346,25 @@ def _as_int(v, default=0):
         return default
 
 
+def _valid_areas(value):
+    if not isinstance(value, list):
+        return []
+    out = []
+    for v in value:
+        if v in AREAS and v not in out:
+            out.append(v)
+    return out[:2]
+
+
+def score_summary(scores):
+    return "5点%d / 4点%d / 3点以下%d" % (
+        sum(1 for x in scores if x >= 5), sum(1 for x in scores if x == 4),
+        sum(1 for x in scores if x <= 3))
+
+
 def run_stage1(gemini, criteria, articles, settings, seen, now):
     """1次選別。通過記事を返す。判定できた記事（落選含む）は処理済みにする。"""
-    passed, judged = [], 0
+    passed, scores = [], []
     size = settings["stage1_batch_size"]
     for start in range(0, len(articles), size):
         batch = articles[start:start + size]
@@ -355,21 +378,21 @@ def run_stage1(gemini, criteria, articles, settings, seen, now):
             r = by_id.get(i)
             if r is None:
                 continue  # 判定できなかった記事は処理済みにしない（翌日に回す）
-            judged += 1
-            area = r.get("area")
             a.score = _as_int(r.get("score"))
+            scores.append(a.score)
+            areas = _valid_areas(r.get("areas"))
             if (r.get("relevant") is True and r.get("practical") is True
-                    and area in AREAS and a.score >= settings["stage1_threshold"]):
-                a.area = area
+                    and areas and a.score >= settings["stage1_threshold"]):
+                a.areas = areas
                 passed.append(a)
             else:
                 mark_seen(seen, a, now)
-    return passed, judged
+    return passed, scores
 
 
 def run_stage2(gemini, criteria, passed, settings, seen, now):
     """2次確認。コメント付きで採用する記事を返す。"""
-    accepted, body_ok, body_ng = [], 0, 0
+    accepted, scores, body_ok, body_ng = [], [], 0, 0
     for a in passed:
         body = fetch_body(a.url, settings)
         if body:
@@ -380,15 +403,15 @@ def run_stage2(gemini, criteria, passed, settings, seen, now):
         if not isinstance(r, dict):
             continue  # 判定できなければ処理済みにしない
         score = _as_int(r.get("score"))
+        scores.append(score)
         comment = str(r.get("comment") or "").strip()
         if r.get("keep") is True and score >= settings["final_threshold"] and comment:
-            if r.get("area") in AREAS:
-                a.area = r["area"]
+            a.areas = _valid_areas(r.get("areas")) or a.areas
             a.score = score
             a.comment = comment[:400]
             accepted.append(a)
         mark_seen(seen, a, now)
-    return accepted, body_ok, body_ng
+    return accepted, scores, body_ok, body_ng
 
 
 # ---------- フィード生成 ----------
@@ -418,17 +441,17 @@ def article_to_item(a, now):
     esc = lambda s: (s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
     desc = (
         f"<p><b>コメント:</b> {esc(a.comment)}</p>"
-        f"<p>点数: {a.score}/5 ／ 分野: {AREA_NAMES[a.area]} ／ 情報元: {esc(a.source)}</p>"
+        f"<p>点数: {a.score}/5 ／ 分野: {'・'.join(AREA_NAMES[x] for x in a.areas)} ／ 情報元: {esc(a.source)}</p>"
     )
     if a.summary:
         desc += f"<p>{esc(a.summary[:300])}</p>"
     return {
-        "title": f"{AREAS[a.area]} {a.title}",
+        "title": f"{''.join(AREAS[x] for x in a.areas)} {a.title}",
         "link": a.url,
         "guid": a.url,
         "pubDate": format_datetime(now),
         "description": desc,
-        "category": AREA_NAMES[a.area],
+        "category": "／".join(AREA_NAMES[x] for x in a.areas),
     }
 
 
@@ -501,7 +524,15 @@ def main():
         return 1
     log.info("取得: %d件", len(fetched))
 
-    articles, stats = filter_new(fetched, seen, now, settings["first_run_days"])
+    reeval = os.environ.get("REEVALUATE_DAYS", "").strip()
+    if reeval:
+        # 再評価: 処理済みの記録を無視して、直近の指定日数分を判定し直す
+        days = int(reeval)
+        log.info("再評価モード: 直近%d日分", days)
+        scratch = {"initialized": False, "items": {}, "titles": {}}
+        articles, stats = filter_new(fetched, scratch, now, days)
+    else:
+        articles, stats = filter_new(fetched, seen, now, settings["first_run_days"])
     log.info("除外: 処理済み%d / 重複%d / 初回期間外%d → 判定対象%d件",
              stats["seen"], stats["duplicate"], stats["too_old"], len(articles))
     deferred = max(0, len(articles) - settings["max_items_per_run"])
@@ -512,10 +543,11 @@ def main():
     gemini = Gemini(api_key, settings)
     accepted, aborted = [], False
     try:
-        passed, judged = run_stage1(gemini, criteria, articles, settings, seen, now)
-        log.info("1次選別: 判定%d件 / 通過%d件", judged, len(passed))
-        accepted, ok, ng = run_stage2(gemini, criteria, passed, settings, seen, now)
-        log.info("2次確認: 採用%d件 (本文取得 成功%d / 失敗%d)", len(accepted), ok, ng)
+        passed, scores1 = run_stage1(gemini, criteria, articles, settings, seen, now)
+        log.info("1次選別: 判定%d件 / 通過%d件 / 点数 %s", len(scores1), len(passed), score_summary(scores1))
+        accepted, scores2, ok, ng = run_stage2(gemini, criteria, passed, settings, seen, now)
+        log.info("2次確認: 判定%d件 / 採用%d件 / 点数 %s (本文取得 成功%d / 失敗%d)",
+                 len(scores2), len(accepted), score_summary(scores2), ok, ng)
     except QuotaExhausted as e:
         aborted = True
         log.warning("Gemini上限のため中断しました (%s)。未処理分は翌日に回します", e)
@@ -529,7 +561,7 @@ def main():
     seen["initialized"] = True
     prune_seen(seen, now, settings["seen_retention_days"])
 
-    existing = load_feed_items(FEED_PATH)
+    existing = [] if reeval else load_feed_items(FEED_PATH)
     items = merge_items(existing, [article_to_item(a, now) for a in accepted],
                         now, settings["feed_retention_days"])
     FEED_PATH.write_bytes(build_feed(items, settings, now))
