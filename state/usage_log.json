@@ -12,5 +12,12 @@
     "accepted": 22,
     "calls": 32,
     "aborted": false
+  },
+  {
+    "date": "2026-11-04",
+    "input": 89,
+    "accepted": 30,
+    "calls": 43,
+    "aborted": false
   }
 ]
