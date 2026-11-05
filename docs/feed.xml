@@ -5,7 +5,15 @@
     <link>https://yoshiken31.github.io/claude-rss-curation/</link>
     <description>Inoreaderの記事をGeminiで選別し、コメントを付けたフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:46:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 08:52:27 +0000</lastBuildDate>
+    <item>
+      <title>【完了報告】2026.11.05 17:52　チェック75件、通過0件、リクエスト5回</title>
+      <link>https://yoshiken31.github.io/claude-rss-curation/</link>
+      <guid isPermaLink="true">https://yoshiken31.github.io/claude-rss-curation/#report-20261105T085227Z</guid>
+      <pubDate>Thu, 05 Nov 2026 08:52:27 +0000</pubDate>
+      <category>完了報告</category>
+      <description>&lt;p&gt;Gemini選別の実行結果です。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📱⚙️ Claude Code 2.1.318、/schedule警告とログイン期限の変更点ガイド</title>
       <link>https://qiita.com/kai_kou/items/24505a289e7348a4324b</link>
