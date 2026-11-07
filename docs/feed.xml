@@ -5,7 +5,63 @@
     <link>https://yoshiken31.github.io/claude-rss-curation/</link>
     <description>Inoreaderの記事をGeminiで選別し、コメントを付けたフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Nov 2026 23:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 04:40:16 +0000</lastBuildDate>
+    <item>
+      <title>📱 Claude Code に 5 行で頼んだら、4,420 ノードが光る WebGL グラフが「止まったら 1 コマも描かない」設計で返ってきた</title>
+      <link>https://qiita.com/cypher256/items/1322192c337d8af20357?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/cypher256/items/1322192c337d8af20357?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 04:40:16 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeに要件を伝えて4,420ノードのWebGLグラフを描画・最適化する実装手法がわかり、Webアプリのパフォーマンス改善で使えます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;結果 4,420 ページある文書アーカイブの、ページどうしのつながりを 1 枚にしたグラフです。点がページ、線がページどうしのつながりで、線は 11,769 本あります。 作ったのは Claude Code（モデルは Claude Opus 5.5）です。私が頼んだのは...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ Claude Code 開発者が注目している5つのアップデート（v2.1.317 - v2.1.319）</title>
+      <link>https://qiita.com/NaokiIshimura/items/4884c18ed0efc432edc9?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/NaokiIshimura/items/4884c18ed0efc432edc9?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 04:40:16 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeのv2.1.317〜v2.1.319における権限設定や無人運用の安全対策がわかり、自動化環境や定期実行で活用できる。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;Claude Code の v2.1.317 〜 v2.1.319 の中から、実務への影響が大きいと思われるものを5つ選んで深掘りします。網羅的な変更点一覧は リリースノートまとめ にあるので、今回は「なぜ注目に値するか」にフォーカスします。 1. permission...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Claude Code v2.1.317 - v2.1.319 リリースノートまとめ</title>
+      <link>https://qiita.com/NaokiIshimura/items/f19ae481117018a64e67?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/NaokiIshimura/items/f19ae481117018a64e67?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 04:40:16 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeのリリースノートから、無人実行向けのpermissions.denyInsteadOfPromptingやMCP tasksのターミナル対応などの仕様変更がわかり、自動化運用時の設定確認に役立ちます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;Claude Code v2.1.317〜v2.1.319 では、MCP tasks のターミナル対応、permissions.denyInsteadOfPrompting による無人実行向けの権限制御、CLAUDE_CODE_DISABLE_FEATURE_FLAGS の...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱📝 0。「detached HEADの具体的なリスクは検証していない」と23日前に書いた記事のあと、実際にコミットしたら、それを含むブランチの数だった</title>
+      <link>https://qiita.com/Hideki_Tamae/items/384c5aa99ddb3ebe691d?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/Hideki_Tamae/items/384c5aa99ddb3ebe691d?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 04:40:16 +0000</pubDate>
+      <category>アプリ開発／MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; detached HEAD状態でコミットした際のリスクと検証結果が分かり、AIエージェントの開発環境での運用時に使えます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに 0。 これが今回の数字です。何の0かというと、detached HEAD状態のリポジトリで実際にコミットを1つ作ってみたとき、そのコミットを含んでいたブランチの数です。 23日前(2026年10月15日)に公開した記事「cd ~の先はrootだった。ハーネスの作...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Claude Code 2.1.312入門、user_id_claimは設定表に無い</title>
+      <link>https://qiita.com/kai_kou/items/3b66150017e1c2f9bd1f?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/kai_kou/items/3b66150017e1c2f9bd1f?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 04:40:16 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Code 2.1.312のgateway設定におけるoidc.user_id_claimの検証手法と、カスタムモデル利用時の環境変数によるプロンプト復元手順がわかる。Enterprise環境でのClaude Code運用時に役立つ。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに Claude apps gateway を Microsoft Entra ID と組み合わせて運用していると、利用者を表す ID が id_token の sub で固定されている点に悩まされることがあります。Entra ID では利用者の識別に oid を使...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 見た目は同じ「ド」なのに一致しない ── Mac の日本語パスと NFC / NFD</title>
+      <link>https://qiita.com/ruharuhadesu/items/63d6ac3d84d2c3447f86?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/ruharuhadesu/items/63d6ac3d84d2c3447f86?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 04:40:16 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Macの日本語パスにおけるNFC/NFDの違いによる文字列不一致の原因と、unicodedata.normalizeを使った解決コードがわかり、Claude Codeの保存先パスを扱うプログラム作成時に活用できる。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに 10月から、ある会社でエンジニアのインターンをしています。仕事では Claude Code を使っていて、作業を楽にするための小さな道具も AI と一緒に作ってます。 その道具のひとつが、ある日「ログが見つからない」って言って止まりました。ログはちゃんとあるのに...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【完了報告】2026.11.07 13:40　チェック26件、通過6件、リクエスト9回</title>
+      <link>https://yoshiken31.github.io/claude-rss-curation/?run=2026-11-07T1340</link>
+      <guid isPermaLink="true">https://yoshiken31.github.io/claude-rss-curation/#report-20261107T044016Z</guid>
+      <pubDate>Sat, 07 Nov 2026 04:40:16 +0000</pubDate>
+      <category>完了報告</category>
+      <description>&lt;p&gt;Gemini選別の実行結果です。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📱⚙️ レガシーPHPはAIに「直させる前に」特性テストを張らせる手順</title>
       <link>https://qiita.com/fuji1009_REBELL/items/819c0ade31f2392bc02b</link>
