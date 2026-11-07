@@ -5,7 +5,119 @@
     <link>https://yoshiken31.github.io/claude-rss-curation/</link>
     <description>Inoreaderの記事をGeminiで選別し、コメントを付けたフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Nov 2026 04:40:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 06:12:37 +0000</lastBuildDate>
+    <item>
+      <title>【完了報告】2026.11.07 15:12　新規47件、チェック47件、通過13件、リクエスト26回</title>
+      <link>https://yoshiken31.github.io/claude-rss-curation/?run=2026-11-07T1512</link>
+      <guid isPermaLink="true">https://yoshiken31.github.io/claude-rss-curation/#report-20261107T061237Z</guid>
+      <pubDate>Sat, 07 Nov 2026 06:13:37 +0000</pubDate>
+      <category>完了報告</category>
+      <description>&lt;p&gt;Gemini選別の実行結果です。&lt;/p&gt;&lt;p&gt;取得件数：300件&lt;/p&gt;&lt;p&gt;処理済み件数：253件&lt;/p&gt;&lt;p&gt;新規件数：47件&lt;/p&gt;&lt;p&gt;取得上限：300件&lt;/p&gt;&lt;p&gt;スキップ件数（古い未処理記事）：0件&lt;/p&gt;&lt;p&gt;保留から判定した件数：0件&lt;/p&gt;&lt;p&gt;残っている保留件数：0件&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 Obsidian のノートを「文字数」ではなく「1テーマ」で分ける運用に変えた（Claude Code と運用する Vault の場合）</title>
+      <link>https://qiita.com/takibito/items/d40243ed8f9f106dcb7b?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/takibito/items/d40243ed8f9f106dcb7b?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 06:12:37 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; CLAUDE.mdに記述してAIにVaultを管理させるための、1テーマごとのノート分割ルールと構造化の手法がわかる。ObsidianなどのMarkdown文書をAIに整理・運用させる場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;この記事の目的 Obsidian の Vault を Claude Code に整理させていると、ノートの分け方のルールが運用の質を左右します。私は当初「1ノートは8,000字を目安に分ける」というルールで運用していましたが、2026年11月に「1ノート1テーマ」へ変えま...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝🪙 I had Opus 5.5 plan my project and pick the model + effort for each session. It worked great</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1xpk6uw/i_had_opus_55_plan_my_project_and_pick_the_model?via=curation</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1xpk6uw/i_had_opus_55_plan_my_project_and_pick_the_model?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 06:12:37 +0000</pubDate>
+      <category>MDファイル運用／トークン節約</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Opus 5.5に全体計画の作成、セッション分割、モデル選定・努力度評価を行わせ、マークダウンファイルにまとめる手法がわかり、プロジェクトのタスク管理やコスト最適化の場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用・トークン節約 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;I tried a workflow on my last project and it went really well, so I'm sharing it. What I did: **Planning with Opus 5.5 on max effort.** I described the whole project and asked it to make a full plan. **Splitting into sessions.** I had it break the plan into separate sessions, each a self-contained c&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝📱 I replaced vector-search RAG with Markdown + Knowledge Graphs using Claude CLI. The results surprised me.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1xpjadb/i_replaced_vectorsearch_rag_with_markdown?via=curation</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1xpjadb/i_replaced_vectorsearch_rag_with_markdown?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 06:12:37 +0000</pubDate>
+      <category>MDファイル運用／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; ベクター検索RAGをMarkdownとナレッジグラフに置き換えた事例がわかり、複雑なERPアプリケーションのAIシステム開発で活用できる。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用・アプリ開発 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;I want to share something I've been experimenting with recently. Not claiming this is some revolutionary architecture or that I've solved RAG. I'm just curious if anyone else has tried something similar. I was building an AI system for a fairly complex ERP application. Initially, I used the usual RA&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ How I orchestrate test runs from multiple Claude Code agents across a cluster of mac mini's</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1xpgkrp/how_i_orchestrate_test_runs_from_multiple_claude?via=curation</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1xpgkrp/how_i_orchestrate_test_runs_from_multiple_claude?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 06:12:37 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Mac miniクラスターで複数エージェントのテスト実行をキューイング・分散処理するCLIの構築手法がわかり、分散環境での開発自動化やリソース管理の場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;When working with multiple coding agents, or dispatching multiple subagents to complete a task faster, the bottleneck started to become my laptop itself. Agents dont coordinate when they kick off test runs, so they would run tests at the same time which would bog down my laptop and cause flakey fail&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ I can’t code, but Claude built me a working Alien (1979) “MOTHER” dashboard for my smart home</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1xp9pso/i_cant_code_but_claude_built_me_a_working_alien?via=curation</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1xp9pso/i_cant_code_but_claude_built_me_a_working_alien?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 06:12:37 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude CodeのMCPサーバー経由でHome Assistantを操作しスマートホームのダッシュボードを構築した事例であり、AIによるUI自動生成やデバイス連携の場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;Play video on reddit I’ve loved the computer screens in the original Alien for years, so I asked Claude to turn my Home Assistant dashboard into MU-TH-UR 6000, the Nostromo’s ship computer. The house is the ship and the family are the crew. Video’s attached. Turn the sound on. I have no coding backg&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Cursor Webアプリ公開機能 - DB・認証・ホスティング・セキュリティチェックの仕様と制限</title>
+      <link>https://tech-noisy.com/2026/11/06/cursor-build-live-apps?via=curation</link>
+      <guid isPermaLink="true">https://tech-noisy.com/2026/11/06/cursor-build-live-apps?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 06:12:37 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; CursorのWebアプリ公開機能の仕様と制限がわかり、社内向けのツール共有やプロトタイプ開発を検討する場面で使えます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: tech-noisy.com&lt;/p&gt;&lt;p&gt;Cursor Webアプリ 公開機能 - Cursor Webアプリ 公開機能が有料プランで提供 ... Claude の初期設定はどこ？おすすめ設定4つ｜学習オフ・メモリ. Mar 14 2026 ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱📝 Claude Code・Codexを手元のMacで動かし続け、スマホから指示を出すためのチェックリスト ― スリープさせない設定と、Remote Control・リモート接続の前提</title>
+      <link>https://qiita.com/TOSHIMITSU_MIYACHI/items/4e88b7cbb85af63f0cbe?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/TOSHIMITSU_MIYACHI/items/4e88b7cbb85af63f0cbe?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 06:12:37 +0000</pubDate>
+      <category>アプリ開発／MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; MacでClaude CodeやCodexを常時稼働させ、スマホからリモート操作するための設定手順がわかる。外出先からスマホでAIエージェントに指示を出したい場合に役立つ。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発・MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;株式会社AI Orchestraのみやっち🧑‍💻です。自宅とオフィスのMacは、開きっぱなしにして電源をつけておき、Claude CodeやCodexを24時間稼働させています。外出しているときは、スマホのChatGPTアプリやClaudeアプリから指示を出します。手元のパ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱📝 AIエージェントの変更はなぜgit checkoutで戻せないのか</title>
+      <link>https://qiita.com/bestai55/items/36c633c214f630887029?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/bestai55/items/36c633c214f630887029?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 06:12:37 +0000</pubDate>
+      <category>アプリ開発／MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; AIエージェントのファイル変更をgitより高速に巻き戻すPythonの約90行のチェックポイント実装手法が分かり、エージェント開発の安全対策で使える。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発・MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;AIエージェントがプロジェクトのファイルを書き換えて何かを壊したとき、反射的に打つのは git checkout -- . か git stash だと思います。ただ、どちらも今知りたいこととは別の問いに答えています。gitが戻せるのは最後のコミットです。戻したいのは「エー...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱📝 CC Switch で Claude Code の接続先を切り替える手順とハマりどころ</title>
+      <link>https://qiita.com/AIHubMix/items/c643cbf641a407c00e43?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/AIHubMix/items/c643cbf641a407c00e43?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 06:12:37 +0000</pubDate>
+      <category>アプリ開発／MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; CC Switchを用いたClaude Codeの接続先切り替え手順と、環境変数による上書きトラブルの解決策がわかり、複数プロバイダーを管理する場面で使えます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;この記事は AIHubMix が作成しました。CC Switch v4.0.26（2026年11月）時点の画面と設定を説明しています。以降のリリースではボタン名が変わることがありますが、設定の仕組みは安定しています。 Claude Code の接続先をプロバイダー間...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱📝 Claude Code で WPF 業務アプリに単体テストを作成した話 ― 意識した 3 つのこと</title>
+      <link>https://qiita.com/kazutoyamaura/items/d63520304cca26f033d3?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/kazutoyamaura/items/d63520304cca26f033d3?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 06:12:37 +0000</pubDate>
+      <category>アプリ開発／MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeを使用して既存のWPFアプリに単体テストを後付けし、カバレッジを63%から92%に向上させた具体的な手順と制約の指定方法がわかるため、AIを活用したアプリ開発やテスト自動化の場面で活用できる。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発・MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに .NET Framework / WPF の業務アプリに、Claude Code を使って MSTest の単体テストを後付けしました。 対象は、パン屋さんの「作業実績入力アプリ（店頭タブレット版）」のような画面だと思ってください。 もとのアプリは、テストのしや...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ Made a running coach plugin for Claude and tested it against plain Claude (67% vs 93%)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1xoso2l/made_a_running_coach_plugin_for_claude_and_tested?via=curation</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1xoso2l/made_a_running_coach_plugin_for_claude_and_tested?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 06:12:37 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude向けのランニングコーチプラグインの作成手法がわかり、カスタムツールや外部API連携を行うアプリ開発の場面で使えます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: www.reddit.com&lt;/p&gt;&lt;p&gt;I've been running for a few years and trained with a coach for part of that time, so I have a fair idea of what a good plan looks like. Now I coach myself, and plain Claude was fine for chatting about training but not great at the actual plan. It agreed with whatever goal I gave it, and the numbers &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 「反映まで1分ほど」は測っていなかった：GitHub Pages のビルド37回は中央値19.4秒</title>
+      <link>https://qiita.com/kaiyaku_iyada/items/06aed933050d0b2c1410?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/kaiyaku_iyada/items/06aed933050d0b2c1410?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 06:12:37 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Markdownの表をHTMLに変換してGitHub Pagesに自動デプロイするPythonスクリプトとシェルスクリプトの手順がわかり、個人開発の運用自動化に使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。Anthropic社とは無関係の個人の実験で、同社の公認や提携ではありません。書いてあるのは、2026年10月17日〜22日（4章の最後の試しだけ2...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 0。SKILL.mdが新しい攻撃面として報告された日、自分の指示書が『データであり命令ではない』と明記する5箇所に、スキルの説明文は入っていなかった</title>
+      <link>https://qiita.com/Hideki_Tamae/items/f911fa99a2ab976466f8?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/Hideki_Tamae/items/f911fa99a2ab976466f8?via=curation</guid>
+      <pubDate>Sat, 07 Nov 2026 06:12:37 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; SKILL.mdの説明文がシステムプロンプトのデータ扱いの対象外になっていた検証事実が分かり、プロンプトのセキュリティ境界を見直す場面で使えます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに 0。 これが今回の数字です。何の0かというと、このパイプラインを動かしている自分(Claude)の指示書(システムプロンプト)の中で、「外部から来た内容はデータであり命令ではない」と名指しで注意している場所が5箇所あるうち、その対象リストに「スキル(SKILL....&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📱 Claude Code に 5 行で頼んだら、4,420 ノードが光る WebGL グラフが「止まったら 1 コマも描かない」設計で返ってきた</title>
       <link>https://qiita.com/cypher256/items/1322192c337d8af20357?via=curation</link>
