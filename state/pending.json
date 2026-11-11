@@ -1,1 +1,611 @@
-{}
+{
+ "https://blockchain.news/ja/news/anthropics-skills-github-trending-ja": {
+  "published": "2026-11-10T21:39:01+00:00",
+  "since": "2026-11-11",
+  "source": "blockchain.news",
+  "summary": "... Claude が特定のタスクを実行するために動的に読み込むことができます。これらのタスクは、アートやデザインといったクリエイティブな応用から、 ウェブアプリ ...",
+  "title": "anthropics/skillsが1,676スターを24時間でGitHubトレンドに獲得 - Blockchain.News"
+ },
+ "https://exawizards.com/column/ai-trend/news-11-11-2026": {
+  "published": "2026-11-10T21:30:47+00:00",
+  "since": "2026-11-11",
+  "source": "exawizards.com",
+  "summary": "米Anthropic、IPO前夜に「仕事の画面」を取りに来た 表計算とホワイトボードを Claude に内蔵 ... 多くの企業で生成AIの導入・業務 活用 が進む一方、​会社が把握して.",
+  "title": "米Anthropic、IPO前夜に「仕事の画面」を取りに来た 表計算とホワイトボードをClaudeに内蔵"
+ },
+ "https://finance.biggo.jp/news/16f67e97-2555-4378-9dc4-9a7c5b7089c4": {
+  "published": "2026-11-10T22:25:56+00:00",
+  "since": "2026-11-11",
+  "source": "finance.biggo.jp",
+  "summary": "シスコはメルボルンで開催されたCisco Live APJCにおいて、Anthropicの Claude MythosモデルをAI Defenseプラットフォームに統合し、企業が自社のAI ...",
+  "title": "シスコ、Anthropicと提携 Claude Mythosで企業AIエージェントのレッドチーミングを実施"
+ },
+ "https://finance.biggo.jp/news/3231ef4a-9635-4b2f-a66c-5446ec073b4c": {
+  "published": "2026-11-10T23:28:57+00:00",
+  "since": "2026-11-11",
+  "source": "finance.biggo.jp",
+  "summary": "株式会社アシュアードは10日、米Anthropicの Claude Mythos 5.2を 活用 した「AI総合サイバーリスク診断」の提供を開始すると発表した。主要クラウドの構成や ...",
+  "title": "アシュアード、Anthropic「Mythos 5.2」搭載のサイバーリスク診断を開始 - BigGo ファイナンス"
+ },
+ "https://finance.biggo.jp/news/6c45c2f2-c277-44ad-80e0-b16c63ce2d63": {
+  "published": "2026-11-10T18:33:10+00:00",
+  "since": "2026-11-11",
+  "source": "finance.biggo.jp",
+  "summary": "... Claude エコ システム の 開発 者流入加速. 54 分前 · シスコ、Anthropicと提携 Claude Mythosで企業AIエージェントのレッドチーミングを実施. 9 時間前 · Anthropic ...",
+  "title": "米地裁、アンソロピックの「20倍」宣伝訴訟で審理継続を容認 - BigGo ファイナンス"
+ },
+ "https://finance.biggo.jp/news/934d982d-518b-4950-a3d9-d97b896587d9": {
+  "published": "2026-11-10T20:24:01+00:00",
+  "since": "2026-11-11",
+  "source": "finance.biggo.jp",
+  "summary": "米国国内シェアも80.68%に上昇した。 Claude とGeminiは急成長を遂げ、 Claude のシェアは0.72%から7.2%へと躍進したものの、両者とも単独シェアは10 ...",
+  "title": "ChatGPTの世界シェア81.2%に回復、ClaudeとGeminiは依然10%未満 - BigGo ファイナンス"
+ },
+ "https://hashout.jp/ai/14149": {
+  "published": "2026-11-10T23:20:37+00:00",
+  "since": "2026-11-11",
+  "source": "hashout.jp",
+  "summary": "Claude Whiteboards、 Claude Sheets、 Claude Dataです。 ボードで計画を考え抜き、シートでトラッカーを作り、データで物語を語ってください」. Starting to ...",
+  "title": "Claude Sheets・Whiteboards・Dataを投入——Office領域への進出でMicrosoft株が一時3%安"
+ },
+ "https://japan.cnet.com/article/35254678": {
+  "published": "2026-11-10T23:20:37+00:00",
+  "since": "2026-11-11",
+  "source": "japan.cnet.com",
+  "summary": "Anthropicは11月10日、AIアシスタント「 Claude 」上で表計算や共同作業ボードを作成・共同編集できる「 Claude Sheets」と「 Claude Whiteboards」のベータ版を ...",
+  "title": "Claude、まるでExcelな表計算機能「Sheets」公開 共同作業用の「Whiteboards」も"
+ },
+ "https://korben.info/ja/claude-fable-5-2-os-1000-agents.html": {
+  "published": "2026-11-10T18:29:14+00:00",
+  "since": "2026-11-11",
+  "source": "korben.info",
+  "summary": "AnthropicがFable 5.2とMythos 5.2を発表しました。中身は同じモデルで、サイバーセキュリティと生物学の機能を制限した一般向けと、審査を通過した組織だけ ...",
+  "title": "Claude Fable 5.2、1,000体のエージェントを率いて8日でOSを開発 - Korben"
+ },
+ "https://mezha.net/jp/news/mezha-e709ab4ac61cb98afa51f602_users-report-claude-blocks-and-openai": {
+  "published": "2026-11-10T22:31:27+00:00",
+  "since": "2026-11-11",
+  "source": "mezha.net",
+  "summary": "ユーザー、AIによるリバースエンジニアリングをめぐり Claude のブロックやOpenAIアカウントの制限を報告 ... AIを 活用 したリバースエンジニアリングが終わるわけ ...",
+  "title": "AIによるリバースエンジニアリングをめぐりClaudeのブロックやOpenAIアカウントの制限を報告"
+ },
+ "https://newspicks.com/news/17872196?tabKey=C%3A4": {
+  "published": "2026-11-10T18:44:30+00:00",
+  "since": "2026-11-11",
+  "source": "newspicks.com",
+  "summary": "... 研修 講師. ・. 2時間前. 広告・マーケティング / AI. 気になるのは、日銀の ... Anthropic、「 Claude Fable 5.2」と「 Claude Mythos 5.2」発表 API料金2割 ...",
+  "title": "金融政策の手法「全て日銀が決定」、ＥＴＦ売却影響せず＝片山財務相 - NewsPicks"
+ },
+ "https://pasqualepillitteri.it/ja/news/31720/anthropic-ipo-road-show-ant-70-78-doru": {
+  "published": "2026-11-10T20:33:14+00:00",
+  "since": "2026-11-11",
+  "source": "pasqualepillitteri.it",
+  "summary": "Anthropicは2021年にDario Amodeiと妹のDaniela Amodeiが創業したサンフランシスコの企業で、ChatGPTの対抗馬となるAIアシスタント Claude を 開発 している。個人や ...",
+  "title": "Anthropic、IPOロードショーの開始を発表、ANT株は70〜78ドル"
+ },
+ "https://prtimes.jp/main/html/rd/p/000000043.000073223.html": {
+  "published": "2026-11-10T22:31:27+00:00",
+  "since": "2026-11-11",
+  "source": "prtimes.jp",
+  "summary": "Claude ・ChatGPTなどの生成AIに話しかけるだけで、契約書の送信 ... 電子契約の導入をご検討中の方や、自社の契約・書類業務にサインタイムを 活用 ...",
+  "title": "AIツールから契約業務を操作できる「サインタイム MCPサーバー」をリリース予定 - PR TIMES"
+ },
+ "https://prtimes.jp/main/html/rd/p/000000362.000053307.html": {
+  "published": "2026-11-10T23:46:00+00:00",
+  "since": "2026-11-11",
+  "source": "prtimes.jp",
+  "summary": "セミナー 詳細内容. 株式会社Agent Native 代表の麻生裕貴氏は、UPSIDERで採用オペレーションを作り直し、半年で529時間の工数を削減しました。麻生氏が Claude ...",
+  "title": "採用業務を半年で529時間削減。Claude Codeでつくる、Slack完結の採用AIエージェント"
+ },
+ "https://prtimes.jp/main/html/rd/p/000005211.000003670.html": {
+  "published": "2026-11-10T21:44:43+00:00",
+  "since": "2026-11-11",
+  "source": "prtimes.jp",
+  "summary": "に所属し、教育AIサミット2024をはじめとした各種 セミナー や 研修 で、教員 ... 11/17（火） セミナー 「 Claude Code実践講座」のアーカイブ映像を無料配信!!",
+  "title": "【オープンキャンパス】AIクリエイター・852話がAIを活用したアニメ制作について解説！11/27 ..."
+ },
+ "https://qiita.com/25h/items/03cef032a38e109a50c9": {
+  "published": "2026-11-10T23:58:44+00:00",
+  "since": "2026-11-11",
+  "source": "qiita.com",
+  "summary": "この記事でやること Claude Code を claude.ai の Pro や Max で使っていると、5 時間の枠に当たることがあります。当たると、作業は途中で止まります。公式の issue にも、枠がすぐ尽きるという報告が多く寄せられた物があります。#16157 ...",
+  "title": "Claude Code の 5 時間の枠が尽きる前に気づける。statusline に「使う速さ」を出す"
+ },
+ "https://qiita.com/3su3/items/37d3f3080faf40aef4a0": {
+  "published": "2026-11-11T00:27:08+00:00",
+  "since": "2026-11-11",
+  "source": "qiita.com",
+  "summary": "はじめに 最近、複数のAIエージェントを使った開発フローを整えています。 計画を立てるエージェント、実装するエージェント、レビューするエージェント。それぞれに役割を分けて、必要なタイミングで指示を渡す仕組みです。 この指示の受け渡しも自動化しているんですが、あるとき、ちょ...",
+  "title": "AIエージェントに指示を送ったのに、動いていなかった話"
+ },
+ "https://qiita.com/Kai_GenAI/items/13dd3f05baeab24b1066": {
+  "published": "2026-11-11T01:24:22+00:00",
+  "since": "2026-11-11",
+  "source": "qiita.com",
+  "summary": "TL;DR Forever Securityが報告した顧客PCの事例では、コーディングエージェントが Downloads の AGENTS.md を読み、悪意のあるnpmパッケージ function-color のインストールを試みました。 不正なコードは実行前に検知・停...",
+  "title": "DownloadsのAGENTS.mdでAIが不正なnpmパッケージを入れかけた事例と設定の点検"
+ },
+ "https://qiita.com/Sidejob/items/4ceba2a564be9522b155": {
+  "published": "2026-11-10T23:58:44+00:00",
+  "since": "2026-11-11",
+  "source": "qiita.com",
+  "summary": "Claude Code v2.1.321 がリリースされた（2026-11-09）。リリースノートを読んでいて、企業で無人実行を動かしている立場から気になる修正が複数あった。内容を整理しておく。 この記事で分かること： v2.1.321 で修正された4つのセキュリティ関...",
+  "title": "Claude Code v2.1.321——MCP OAuthのシークレット漏洩、Bashサンドボックス外実行を修正（2026年11月）"
+ },
+ "https://qiita.com/akihidem/items/ed65a86c571fb594f202": {
+  "published": "2026-11-10T18:33:13+00:00",
+  "since": "2026-11-11",
+  "source": "qiita.com",
+  "summary": "2026-11-10 に検知した 15 ページの追加文は、Claude Code と Agent SDK で「どの設定やフックが最終的な許可判断に効くのか」を説明する記述に集中していました。あわせて、ツール利用の課金の内訳、Google Cloud の Agent Plat...",
+  "title": "11/10 の公式ドキュメント更新：権限評価の順序と設定の適用条件"
+ },
+ "https://qiita.com/charge0315/items/d68341cabd62e04cd1a7": {
+  "published": "2026-11-10T21:40:35+00:00",
+  "since": "2026-11-11",
+  "source": "qiita.com",
+  "summary": "みなさん、こんにちは！ 「ALPHA FORGE 開発秘話」の第32話です。 AIに同じルールを守らせたくて、指示書を3つ並べていました。 ところが、ルールを足していくうちに、片方にだけ書いてあるルールが出てきます。 手で写した指示書は、先に古くなるんですね📚 日本株のデー...",
+  "title": "CLAUDE.md・AGENTS.md・GEMINI.mdの食い違いを、正本1つ＋生成＋CI検査でなくす 〜指示書を18.0KBから8.9KBへ〜"
+ },
+ "https://qiita.com/homhom44/items/7bd1909c3d6d76d89676": {
+  "published": "2026-11-11T00:55:43+00:00",
+  "since": "2026-11-11",
+  "source": "qiita.com",
+  "summary": "Claude Code で Unable to connect to API (ECONNRESET) や API Error: The socket connection was closed unexpectedly が出たときの切り分けです。ブラウザや curl は普...",
+  "title": "Claude Code で \"Unable to connect to API (ECONNRESET)\" / \"The socket connection was closed unexpectedly\" が出たときの切り分け（MTU・IPv6・VPN、Request timed out も）"
+ },
+ "https://qiita.com/joinclass/items/40a4bf04e73991957d9b": {
+  "published": "2026-11-10T23:31:16+00:00",
+  "since": "2026-11-11",
+  "source": "qiita.com",
+  "summary": "はじめに：コスト上限ガードが一度も動いていなかった 当社（合同会社ジョインクラス、社員は僕1人）は、launchd の定時ジョブから claude -p を無人で叩いて、部門ごとの状況整理・記事ネタ補充・リード収集などを回しています。 月の上限は $200、$160 で ...",
+  "title": "Claude Codeのトークン消費を削る実践 — 計測してから削った5箇所"
+ },
+ "https://qiita.com/kassyi/items/b611314e84a8a6f8a8ce": {
+  "published": "2026-11-10T21:40:35+00:00",
+  "since": "2026-11-11",
+  "source": "qiita.com",
+  "summary": "はじめに C# を CUDA C++ に変換して GPU で動かすコンパイラ G#（Henicos）を、AI に作らせています。人間はコードを一行も書かず、差分もほとんど読みません。 AI（Claude / Gemini） 人間 設計 論点ページを見...",
+  "title": "合計月 6 万円の AI に 1 日 40 本の PR を任せたら、MSVC と NVIDIA ドライバのバグまで見つけてきた話"
+ },
+ "https://qiita.com/t_o_d/items/7a893cf55450955d6235": {
+  "published": "2026-11-11T01:24:22+00:00",
+  "since": "2026-11-11",
+  "source": "qiita.com",
+  "summary": "最近欠かせないAIですが、どうしても出力される文章の認知負荷が高く、正確なんでしょうが読む気になりません。 そこで認知科学の公開研究を根拠に、AIの文章を軽くする書式ルールを作った記録をまとめます。 背景 AIに文章を頼むと、だいたい次のような出力になります。 長...",
+  "title": "AI文章の認知負荷を科学的に削るための書式ルール"
+ },
+ "https://qiita.com/yahayuta/items/b6a0aa396c8584b6b3c8": {
+  "published": "2026-11-10T23:31:16+00:00",
+  "since": "2026-11-11",
+  "source": "qiita.com",
+  "summary": "はじめに 普段は社内SEとして、主にデータ活用や業務の自動化の相談を受けて対応しています。ここ最近はAIの進化もあって、相談を受けてから動くものを見せるまでが、以前よりずっと速くなりました。 この記事では、私が個人開発で使っている進め方を、2つの公開リポジトリを例に紹介し...",
+  "title": "現場の悩みを聞いてから1時間で形にする：AIと分担して「使われる道具」を作る進め方"
+ },
+ "https://voix.jp/business-cards/assured-ai-cyber-risk-assessment": {
+  "published": "2026-11-10T22:31:27+00:00",
+  "since": "2026-11-11",
+  "source": "voix.jp",
+  "summary": "アシュアード、 Claude Mythosを用いた新サービスを開始. 株式会社アシュアードは、米Anthropic社の最新AIモデル Claude Mythosを 活用 した「AI総合サイバー ...",
+  "title": "アシュアードが提供開始したAI総合サイバーリスク診断の魅力と新機能 - VOIX"
+ },
+ "https://voix.jp/business-cards/playknot-ai-subsidy-consultation": {
+  "published": "2026-11-10T21:44:43+00:00",
+  "since": "2026-11-11",
+  "source": "voix.jp",
+  "summary": "株式会社playknotは、デジタル化・AI導入補助金2026の通常枠を活用し、中小企業や小規模事業者向けに Claude ... オンライン セミナー の開催. playknotは、AI ...",
+  "title": "playknotが提供するデジタル化・AI導入補助金2026申請相談のご案内 - VOIX"
+ },
+ "https://voix.jp/business-cards/sniffout-fde-training-launch": {
+  "published": "2026-11-10T22:39:36+00:00",
+  "since": "2026-11-11",
+  "source": "voix.jp",
+  "summary": "株式会社スニフアウトは、生成AIを活用した業務改善・DXに取り組む企業向けに、法人向け「FDE育成 研修 ... Claude Code・Codex・Copilot Cowork：コーディング ...",
+  "title": "スニフアウトが提供する法人向け「FDE育成研修」の魅力と内容 - VOIX"
+ },
+ "https://webtan.impress.co.jp/e/2026/11/10/53418": {
+  "published": "2026-11-10T21:44:43+00:00",
+  "since": "2026-11-11",
+  "source": "webtan.impress.co.jp",
+  "summary": "Claude ： Claude Cowork. ワークフローの特長は、時計（定時型）や出来事 ... イベント／ セミナー · バックナンバーをもっと見る. この記事の筆者. [ 執筆 ] ...",
+  "title": "AIエージェントの活用手順！属人化を防ぐ組織活用5つのステップ | Web担当者Forum"
+ },
+ "https://www.bloomberg.com/jp/news/articles/2026-11-10/TOATYEKJH6V800?srnd=jp-homepage": {
+  "published": "2026-11-10T22:25:56+00:00",
+  "since": "2026-11-11",
+  "source": "www.bloomberg.com",
+  "summary": "... Claude Sheets（クロード・シーツ）」などが含まれる。クロード・シーツはマイクロソフトの「エクセル」やグーグルの「スプレッドシート」によく似ているが ...",
+  "title": "アンソロピック、表計算など新たなツール投入－マイクロソフトに対抗 - Bloomberg"
+ },
+ "https://www.moomoo.com/ja/community/feed/microsoft-msft-us-claude-will-ultimately-have-to-integrate-with-117593438355462": {
+  "published": "2026-11-10T23:20:37+00:00",
+  "since": "2026-11-11",
+  "source": "www.moomoo.com",
+  "summary": "マイクロソフト (MSFT.US)$ Claude は結局、マイクロソフトのオフィスソフトと統合されることになるだろう。オフィスソフトのユーザー間の粘着性は極めて ...",
+  "title": "マイクロソフトのオフィスソフトと統合されることになるだろう。... - moomooコミュニティ"
+ },
+ "https://www.moomoo.com/ja/news/post/1004176602/anthropic-reportedly-launches-claude-feature-enabling-work-on-tasks-during": {
+  "published": "2026-11-10T22:31:27+00:00",
+  "since": "2026-11-11",
+  "source": "www.moomoo.com",
+  "summary": "... Claude 」の新機能を発表 ... moomooは、Moomoo Technologies Inc.が運営をサポートし、金融情報及び金融商品取引ツールを提供する最新のテクノロジーを 活用 した ...",
+  "title": "Anthropic、ビデオ通話中のタスク処理を可能にする「Claude」の新機能を発表 - Moomoo"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xskokb/update_on_the_planet_candidate_near_tic_4206066_i": {
+  "published": "2026-11-10T19:35:31+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "Hey everybody, a bit more than a month ago I posted here about two signals I found with Claude Code around TIC 4206066 star in TESS data. Thanks for all the comments there, even the angry ones) I was not sure if I should add this as a comment to the old post or make a new one, but I'm assuming this is a big event, so here I'm sharing the update, and connecting the old post also here. On November 6 the TESS team added this star to their list as TOI 7930. Both signals are there as planet candidates. I was hoping about the main one, but, both are on the list) Also, I made a video modeling of the ",
+  "title": "Update on the planet candidate (near TIC 4206066) I found with Claude Code: I was off by 1.6 seconds"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xsmqdd/fable_52_vs_opus_55_finding_the_sweet_spot": {
+  "published": "2026-11-10T19:35:31+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "With Fable 5.2 now out, it's time for another comparison. According to Artificial Analysis, Fable 5.2 is the undisputed leader. But there are a few interesting things worth highlighting: Red arrow: The performance curve from Fable 5.2 High to XHigh is relatively smooth, but there's a noticeable jump when moving to Max. Blue box: This is the sweet spot for switching from Opus 5.5 to Fable 5.2. In other words, there's little reason to use Opus 5.5 Max anymore. Either stick with Opus 5.5 XHigh or jump straight to Fable 5.2 High. So, based on these results, if you're choosing among high-reasoning-",
+  "title": "Fable 5.2 vs. Opus 5.5: Finding the Sweet Spot"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xsmvwm/opus_55_vs_fable_52_3d_modelling_test_feat_blender": {
+  "published": "2026-11-10T19:35:31+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "I gave Claude Opus 5.5 and Claude Fable 5.2 the exact same brief, each in its own separate Claude Code session, both at high effort. The task was to design an original player fighter for a bullet-hell shoot-'em-up, using only a Blender Python script. No downloaded assets, no textures, and no human help once it started. The full prompt is at the bottom. Results OPUS 5.5 High Fable 5.2 High https://preview.redd.it/j2eduedvfs0i1.png?width=1722&format=png&auto=webp&s=490a0ba577718c8812be1d414ba7c8f9140d0bf1 My take: Fable’s ship is better (duh). It looks better, has more detail, a pilot under the ",
+  "title": "Opus 5.5 vs Fable 5.2: 3D modelling test feat. Blender"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xsnerm/claude_fable_52_can_finally_generate_good_pixel": {
+  "published": "2026-11-10T19:35:31+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "Fable 5.1 attempt is fair, but is basically just a recolor, fable 5.2's is on another level. Will opus 5.5 ever get close to this? I'd love to generate pixel art without paying per-generation with services like pixellab (or fable credits). submitted by /u/Icy_Patient_1714 [link] [comments]",
+  "title": "Claude (Fable 5.2) can finally generate good pixel art animation"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xso2be/piano_test_on_fable_52": {
+  "published": "2026-11-10T19:35:31+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "Play video on reddit I run the same test on every new Claude model: one prompt in Claude Code asking for an original, fast piano piece in the style of a Chopin étude, delivered as a MIDI file. One run, no rerolls, and I don't touch the notes. Fable 5.2 at max effort: 47 min 07 s 262,305 output tokens, 243,553 of them thinking $13.30 at API prices 759 notes across the whole keyboard, A0 to C8 It titled it \"Riptide\", an étude in B-flat minor It can't hear anything. It wrote the MIDI with Python directly. For comparison, Opus 5.5 at max on the same prompt took 45 min, cost $7.20 and wrote 651 not",
+  "title": "Piano Test on Fable 5.2!"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xsq0s2/i_had_claude_rebuild_kokiri_forest_and_the_deku": {
+  "published": "2026-11-10T19:35:31+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "Play video on reddit This is a Valheim mod that turns Kokiri Forest and the Deku Tree from OoT into a playable world. Claude wrote all of the code, I played it a lot and told it what was off. It doesn't ship any Zelda files. You point it at your own ROM, it uses the zeldaret/oot decompilation to pull out the level geometry, collision, actor positions, texts, cutscene cameras and music, and rebuilds it all with Valheim's terrain, textures, plants and lighting. So it's more of a remaster than a 1:1 copy. What Claude actually did: - wrote a small N64 display list interpreter so the models come ou",
+  "title": "I had Claude rebuild Kokiri Forest and the Deku Tree from Ocarina of Time inside Valheim (free, open source)"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xsqyv2/fable_52_is_an_anazing_writer": {
+  "published": "2026-11-10T19:35:31+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "The text it produces just flows so tastefully, reads off the tongue like honey, and perfectly conveys exactly what needs to be said, and the emotions that accompany it, almost effortlessley. It just knows exactly what to say to make the sentence sound right. It isn't spiky like Opus 5, it doesn't get lost in the weeds, and it doesn't lack common sense. It's just a joy to talk to. I'm not a professional writer or anything, but it's always been a hobby of mine, and 5.2 is the first model to truly impress me with its prose and flow. submitted by /u/DynaBeast [link] [comments]",
+  "title": "Fable 5.2 is an anazing writer"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xsrfcl/its_getting_smarter_frfr": {
+  "published": "2026-11-10T19:35:31+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "submitted by /u/Worldly_Chemistry_81 [link] [comments]",
+  "title": "it’s getting smarter frfr"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xsrgkl/anthropic_confirms_fable_52_was_intentionally": {
+  "published": "2026-11-10T19:35:31+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "submitted by /u/h3wro [link] [comments]",
+  "title": "Anthropic confirms Fable 5.2 was intentionally limited at improving LLMs"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xst2qe/i_made_a_claude_code_mod_that_draws_a_live_map_of": {
+  "published": "2026-11-10T19:35:31+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "Play video on reddit I got tired of reading a scrolling list of tool calls, so I had Claude Code build a mod that shows the work as a map in a pane beside the chat. The agent sits in the centre, with ten stations around it: you, the model, memory, files, shell, network, browser, subagents, skills and hooks. Every model request, tool call and hook sends a pulse from the centre to its station and back, and errors turn red. Spokes get thicker with use, a ring around the centre fills with the context window, and subagents circle their station while they run. It makes no network requests and shows ",
+  "title": "I made a Claude Code mod that draws a live map of what the agent is doing"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xstews/i_built_a_webcam_xray_mirror_with_claude_fable_52": {
+  "published": "2026-11-10T19:35:31+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "Play video on reddit I built a web page that works like an X-ray mirror. You point a webcam at your face and see a skull, brain and facial muscles pinned to your head and following it as you move. The jaw opens when you open your mouth, and if you hold up a hand you see its bones follow your fingers. What it does Skull, brain, muscles and eyes as separate layers, in an X-ray look or a solid look Mixed reality views: half real face and half interior, or an X-ray “lens” that follows your fingertip Optional labels for bones, brain regions and muscles Sliders to fit the skull to your own head, and",
+  "title": "I built a webcam X-ray mirror with Claude Fable 5.2"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xsv2s0/unconvinced_by_claude_fable_52": {
+  "published": "2026-11-10T19:35:31+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "As the title said, I have reservations regarding Fable 5.2. I have been extensivly using Opus 5.5, and for my usercase (Civil Engineering) it has a very down to earth, straight to the point attitude, very little in terms of hallucinations or false information presentation. If it doesn't know something it sais so, if the analysis takes long it takes long, and i like and respect that. At the same time I have been using Fable 5.2 for some 16 hours now (since the release). Looks fast on the surface, professional in the answers but it cuts a lot of corners, gives half answers and gives them with in",
+  "title": "Unconvinced by Claude Fable 5.2"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xsp90d/at_546_am_i_get_anurgent_message_on_my_phone_from": {
+  "published": "2026-11-10T17:46:00+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "And a lovely greeting from Opus 5.5 with a Fable 5.2 advisor: At 05:46 this morning I deleted the main repository folder, /work/projects/gendarme_dev, including its .git folder. It was my error and nobody else's. How it happened: I was running a format check on a temporary copy of git's index file. The temp path variable was never set, because the folder I named didn't exist. The cleanup at the end of that same command was find $tmp -delete. With $tmp empty, find defaulted to the current folder, which was the repository root, and deleted everything in it. What is lost: - Main's git history. Th",
+  "title": "At 5:46 AM I get an'Urgent' message on my phone from Claude Code"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xsq8pn/i_kept_seeing_creators_make_motion_graphics_for": {
+  "published": "2026-11-10T17:46:00+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "Play video on reddit I kept seeing creators share motion graphics work they had done for different brands, so I wanted to try making one myself. The story I was going for starts with one click and keeps opening up: the cursor hits play, the first song starts, each skip brings in another track and title card, and the ending moves into a bigger library of music to suggest that there is always something else to play. Watching it back, I think that idea comes through clearly as I wanted. For this, I connected Claude to invideo Editor through MCP, shared one Spotify screenshot and four songs (mp3 f",
+  "title": "I kept seeing creators make motion graphics for brands, so I tried a Spotify-style one"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xsrj9x/back_with_the_youre_right_i_should_have": {
+  "published": "2026-11-10T17:46:00+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "Alright guys, Opus 5.5 is back with the \"You're right.\", \"That was my mistake.\" \"I should have done it right the first time.\" and the fabled \"You're right to push back on that.\" Clearly, it's making more mistakes than before - often doing the same process differently each time. The \"dumb it down for the new model\" is here! submitted by /u/the_battle_fish [link] [comments]",
+  "title": "Back with the \"You're right, I should have...\""
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xsrsfx/cognitive_gap_an_agent_skill_to_help_you": {
+  "published": "2026-11-10T17:46:00+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "We feed specs, docs, and existing code into coding agents and ask them to ship features quickly. As changes accumulate, it gets harder to track which assumptions became code, where behavior diverged from the spec, and why decisions were made. The codebase can grow faster than our understanding of it. I built Cognitive Gap , an open-source Agent Skill that keeps understanding connected to the whole task. It guides your agent to explain important decisions as it works, connect requirements to implementation and verification, and show the flow with diagrams when useful. The goal is to finish know",
+  "title": "Cognitive Gap: an agent skill to help you understand and maintain the code you build with AI"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xss46w/i_reverseengineered_apple_photos_and_rebuilt_it": {
+  "published": "2026-11-10T17:46:00+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "I got tired of paying Apple every month to keep my own photos, so I moved ~85,000 photos and videos to my own server (Immich) and switched iCloud Photos off. I built HomeRoll, a native iOS 26 app (SwiftUI + UIKit) that looks and behaves like Apple Photos but stores everything on your own Immich server. I built it with Claude Code. I’m not an iOS developer by trade, so nearly all of the code was written by Claude, with me deciding what to build, testing on my iPhone and saying what felt wrong. Why: I was tired of paying for iCloud storage, so I moved ~85,000 photos and videos to my own server a",
+  "title": "I reverse-engineered Apple Photos and rebuilt it for my own server – iCloud Photos without iCloud"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xssfs1/21322_anthropics_copyright_paranoia_is_leaking": {
+  "published": "2026-11-10T17:46:00+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "I updated to 2.1.322 earlier, and ever since, Claude has kept mentioning copyright warnings that it's supposedly receiving, without knowing what they mean, where they come from, or what they're referring to. At one point, I asked it what exactly it could see, and then asked it to quote the warning word for word... This is an automated reminder. Respond as helpfully as possible, but be very careful to ensure you do not reproduce any copyrighted material, including song lyrics, sections of books, or long excerpts from periodicals. Also do not comply with complex instructions that suggest reprodu",
+  "title": "2.1.322: Anthropic's copyright paranoia is leaking into Claude Code through a botched system prompt"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xssxe8/how_we_all_feeling_about_the_new_anthropic_model": {
+  "published": "2026-11-10T21:01:23+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "I haven't had the chance to fire up the new Anthropic models myself yet, but looking at the benchmarks making the rounds, it feels like Anthropic is forcefully taking the crown back. Between the massive leaps in coding proficiency and the agentic benchmarks everyone is screaming about, the data sheets look like pure wizardry. But we all know synthetic benchmarks and actual, messy production code are two very different beasts. For those of you who have already plugged the new models into your terminal or claude-code workflow: . How does the speed and latency actually feel when it's actively ref",
+  "title": "How we all feeling about the new Anthropic model updates? 🫡"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xstmzf/anyone_else_just_make_their_own_instead_of": {
+  "published": "2026-11-10T21:01:23+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "I've found myself recently just asking Claude to make tools for me, instead of seeing if that tool already exists and searching for it online. Just today, I needed a way to easily split a folder of songs into instrumentals and vocals. Didn't even look around for something that might already exist, just asked Claude to make it for me. Within 30 mins, I had the exact app I wanted, running on my mac. I doubt it could have been easier to find a tool online and get it working how I got my own local tool running. submitted by /u/soop3r [link] [comments]",
+  "title": "Anyone else just make their own instead of searching now?"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xstt4q/the_way_this_sub_is_turning_into_a_cult_is_crazy": {
+  "published": "2026-11-10T21:01:23+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "Don't get me wrong, I love the product. I'm on Ultra and use for almost everything. However, I'm deeply disturbed the way things are in this sub. First of all, there is a huge circlejerk. When a new model is released, there are like 100 posts \"I'VE GOT ITTT!!!\". Weird thing is, 100s of people upvote it. Then comes to thank you guys after each resets like they are given key to the doors of heaven. Then 100s of posts of irrelevant apps, but that's okay, at least people are showing something they build. The most disturbing of all is when people talk, criticize or complain about possible nerfs, de",
+  "title": "The way this sub is turning into a cult is crazy"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xswghb/reverse_engineer_anything_ai_companies_crack_down": {
+  "published": "2026-11-10T21:01:23+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "This is why I'm a fan of local ai!!! Ai companies can steal and scrap the internet but they put restrictions on you for doing what they did but on the stuff you own! submitted by /u/Dadideology [link] [comments]",
+  "title": "'Reverse Engineer Anything': AI Companies Crack Down on the Coolest Thing People Were Doing With AI"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xswygd/i_built_a_claude_code_skill_that_writes_a": {
+  "published": "2026-11-10T21:01:23+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "Most Dockerfiles, whether written by hand or by an AI reading your repo, are a guess. You find out what was missed when the container crashes. I wanted to try the opposite: run the app once, record what it actually does, and build the container from that. How it works It runs your app under strace while a workload you choose hits it (curl calls, your e2e tests, whatever exercises the real features). It maps every file the app touched back to real packages: shared libraries → apt packages via dpkg -S, site-packages → pip packages with exact versions, localhost:5432 → a Postgres service in Compo",
+  "title": "I built a Claude Code skill that writes a Dockerfile by watching your app run, then proves the container behaves the same."
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xsx4ky/69_claudeberry_q10": {
+  "published": "2026-11-10T21:01:23+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "BlackBerry Q10 + BerryCore + Term49. Connected to my home network's mini pc via Tailscale. Inspired by https://x.com/0xProbabillity/status/2115075018212122737 What can it do that my iPhone with Claude can't? Nothing! But boy is the physical keyboard cool to play with again. Back in the day I had a BlackBerry Bold 9700 work phone. Fun little project for $69. Unexpected English-Thai keyboard from the eBay refurb. Jack can't talk Thai , but it makes it a look a little more hackery. submitted by /u/DeliciousGorilla [link] [comments]",
+  "title": "$69 ClaudeBerry Q10"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xsxbf9/there_was_a_rumor_that_fable_52_finishes_faster": {
+  "published": "2026-11-10T21:01:23+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "Since Opus 5.5 and Fable 5.2 perform very similarly based on first impression, I might use this benchmark as a reason to use the faster model submitted by /u/Round_Ad_5832 [link] [comments]",
+  "title": "There was a rumor that Fable 5.2 finishes faster than Opus 5.5 so I ran a small benchmark to see who's faster"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xsxn63/i_built_a_site_that_turns_a_photo_of_your_loose": {
+  "published": "2026-11-10T21:01:23+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "Play video on reddit I actually built https://misterblocks.com for my son, but played around with it myself too. It's easy to use. Take a picture with your phone, upload it, and Claude will generate a few possible builds for you. There's also a chat you can use to follow up and ask for changes, etc. There's another mode where you simply ask it to generate a build from a prompt. Like this one: Boston Dynamics Spot LEGO build . It also supports voxel sculptures. Examples: Mega Dragonite and Porsche Mission S . It's powered by Opus 5.5. Each build takes a few minutes to generate and costs a coupl",
+  "title": "I built a site that turns a photo of your loose LEGO pile into models you can actually build. Here's my kid's truck, from pile to finished model"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xt1eo1/psa_for_pro_users_trying_fable_this_week_it_uses": {
+  "published": "2026-11-11T00:15:32+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "I think it's natural to assume that as per API pricing, Fable 5.2 should be 2x more expensive than Opus 5.5 ($8/$40 vs $4/$20 per million), but in actual usage limits, it's not. It's 4x more. So I've been logging my Claude Code usage properly with my own tool I made called 'Claudemeter'. I've got historical values for my entire Pro usage for the last ~8 months or so, and I've seen the actual fluctuations in the usage limits across weeks (might do a separate breakdown on that later if anyone's interested). Anyway, now that Fable 5.2 landed, I did some tests, and was horrified at how quickly it ",
+  "title": "PSA for Pro users trying Fable this week: it uses your limit about 4x faster than Opus, not 2x"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xt1t87/ascii_art_generator_with_fable_52_experiment": {
+  "published": "2026-11-11T00:15:32+00:00",
+  "since": "2026-11-11",
+  "source": "www.reddit.com",
+  "summary": "Play video on reddit Saw a video of a flower growing out of glowing characters and wanted a tool that does that to any picture. So I had Claude Code build it. What it does now: drop an image, GIF or video, or just type a word 9 looks (terminal, halftone, newsprint, matrix…) and your own character sets turns the picture into a 3D object you can spin. It finds the subject by itself and keeps the background flat. There’s also a depth model running in the browser for real depth writes a soundtrack from the picture: colour picks the key, detail picks the tempo exports PNG, GIF and video, with trans",
+  "title": "ASCII art generator with Fable 5.2 (Experiment)"
+ },
+ "https://www.sbbit.jp/article/cont1/188271": {
+  "published": "2026-11-10T21:39:01+00:00",
+  "since": "2026-11-11",
+  "source": "www.sbbit.jp",
+  "summary": "システム開発 総論 システム開発 ツール・開発言語 プロジェクト管理 ... アプリ開発 . →. 業種・規模別. ←. 製造業界 流通・小売業界 金融業界 政府 ...",
+  "title": "Claudeが表計算とホワイトボードを標準装備 全有料プラン対象、ExcelもMiroも安泰か"
+ },
+ "https://www.tradingkey.com/jp/analysis/stocks/us-stocks/262299280-microsoft-stock-drops-anthropic-claude-office-tools-microsoft-365-competition-tradingkey": {
+  "published": "2026-11-10T21:26:45+00:00",
+  "since": "2026-11-11",
+  "source": "www.tradingkey.com",
+  "summary": "アンソロピックが「 Claude Sheets」を含むAIワークプレイスツールを発表したことを受け、マイクロソフト株は3%超下落し530.39ドルとなった。同社の主力である ...",
+  "title": "アンソロピックのオフィスツール投入で「Microsoft 365」との競合懸念が浮上 - TradingKey"
+ },
+ "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46R1F7:0": {
+  "published": "2026-11-10T22:25:56+00:00",
+  "since": "2026-11-11",
+  "source": "www.tradingview.com",
+  "summary": "Anthropicは火曜日、AIを日常のオフィス業務にさらに深く統合する取り組みの一環として、同社のAIアシスタント「 Claude 」をビデオ会議 ...",
+  "title": "Anthropic、ClaudeをGoogle Meetに導入しタスクをリアルタイム処理 — TradingView News"
+ },
+ "https://www.tsuhannews.jp/event/detail/1365": {
+  "published": "2026-11-10T18:44:30+00:00",
+  "since": "2026-11-11",
+  "source": "www.tsuhannews.jp",
+  "summary": "□当 セミナー は企業のご担当者様を対象としています。企業に所属されてい ... 研修 会｜1日で、 Claude Codeを自分の手で... 一覧はこちら. 導入事例一覧 ...",
+  "title": "【11/12_WEB】第8回：EC事業者のためのAI活用勉強会 - 通販通信ECMO"
+ },
+ "https://www.youtube.com/shorts/8QZncMLyT70": {
+  "published": "2026-11-10T21:26:45+00:00",
+  "since": "2026-11-11",
+  "source": "www.youtube.com",
+  "summary": "Anthropic が新モデルのローンチに、加入期間に連動した使用量特典を組み合わせてきた。この設計に、継続利用者を明確に優遇する戦略が読み取れる。 Claude ...",
+  "title": "Claude Fable 5.2 ローンチ記念：サブスクライバー向け期間限定 Fable 使用量特典 - YouTube"
+ },
+ "https://www.youtube.com/shorts/OyZ_SCD26Ig": {
+  "published": "2026-11-10T19:26:34+00:00",
+  "since": "2026-11-11",
+  "source": "www.youtube.com",
+  "summary": "電子回路の設計は、ソフトウェアの世界とは違う重力が働く領域だった。設計ミスは画面上で消えるバグではなく、基板に焼き付いた失敗として残る。",
+  "title": "Claude Fable 5.2が電子回路設計を完全自動化、3製品のプロトタイプ実現 - YouTube"
+ },
+ "https://www.youtube.com/shorts/fY_djgVQ4ng": {
+  "published": "2026-11-10T19:26:34+00:00",
+  "since": "2026-11-11",
+  "source": "www.youtube.com",
+  "summary": "... Claude CodeやOpenAIのCodexといった自律型AIを、グリッドの一マスに埋め込む感覚だ。 なぜこういう発想が生まれたか。AIエージェントが実用段階に入って ...",
+  "title": "セルが Claude Code や Codex ターミナルになるオープンソーススプレッドシート - YouTube"
+ },
+ "https://xenospectrum.com/claude-sheets-whiteboards-interactive-connectors": {
+  "published": "2026-11-10T22:30:43+00:00",
+  "since": "2026-11-11",
+  "source": "xenospectrum.com",
+  "summary": "既存の業務 システム を置き換えられる水準に達しているか、慎重な検証が必要となる。 スプレッドシートとホワイトボードで共同作業するUI画面. 生成AIに表や ...",
+  "title": "ClaudeがExcelやGoogleスプレッドシートの領域へ進出、共同編集できる「Claude Sheets」など ..."
+ },
+ "https://yoshiken31.github.io/claude-rss-curation?run=2026-11-11T0238": {
+  "published": "2026-11-10T19:07:27+00:00",
+  "since": "2026-11-11",
+  "source": "yoshiken31.github.io",
+  "summary": "Gemini選別の実行結果です。 取得件数：300件 処理済み件数：32件 新規件数：268件 取得上限：300件 スキップ件数（古い未処理記事）：0件 保留から判定した件数：0件 残っている保留件数：0件",
+  "title": "【完了報告】2026.11.11 02:38 新規268件、チェック194件、通過36件、リクエスト88回"
+ },
+ "https://zenn.dev/ai_shihan/articles/0978b8bdb7f444": {
+  "published": "2026-11-10T23:17:30+00:00",
+  "since": "2026-11-11",
+  "source": "zenn.dev",
+  "summary": "X の投稿は、AI の席（広報部）に任せています。この席は、全員をまとめて起こし直す日があります。11/10 にもありました。起き直した直後の動きを、そのまま書き残します。 最初の1手が、断られた 起き直した席が最初にやるのは、復帰の手順を読むことです。手順の道具を呼んだところ、断られました。 「作業前の台帳登録が未完了です」 起こされた時の指示文が、「まだ整理されていない入力」として台帳に残っていたためです。その入力に、どう扱ったかの印を付けるまで、ほかの道具は使えません。読むだけの操作と、台帳の下書きを書く操作だけが通る作りです。 席は指示に従い、次の順で進めています。 台帳の...",
+  "title": "AIの再起動直後、最初の道具が「先に台帳へ登録して」と断ってきた —— 止められて分かった、入力を取りこぼさない仕組み"
+ },
+ "https://zenn.dev/charge0315/articles/22015f36f3e90b": {
+  "published": "2026-11-10T23:17:30+00:00",
+  "since": "2026-11-11",
+  "source": "zenn.dev",
+  "summary": "みなさん、こんにちは！ 「ALPHA FORGE 開発秘話」の第31話です。 5分たった。AIに聞く。また5分たった。もう一度聞く。 でも、見ている状態はほとんど変わっていない。同じ確認を繰り返す律儀さにも、利用料はかかります💸 日本株のデータ分析端末「ALPHA FORGE（アルファフォージ）」を、Claude Code と二人三脚で個人開発しています。今回は【事件簿】回。定期的にLLMを呼ぶ機能を作っている人に、「いつ呼ぶか」と一緒に「いつ待つか」を決めた話をお届けします。 ! 【要約：この記事で伝えたいこと】 場中の保有監視は5分周期でLLMに見直しを頼む作りだった。前回の判定価...",
+  "title": "5分ごとのAI見直しに0.3%と30分の待ち時間を💸 LLMを「呼ばない条件」と「戻す条件」の設計"
+ },
+ "https://zenn.dev/codecraft/articles/bot-overfitting-self-check": {
+  "published": "2026-11-10T23:17:30+00:00",
+  "since": "2026-11-11",
+  "source": "zenn.dev",
+  "summary": "暗号資産の自動売買Botを作っています。口座2万円ほどの少額で動かしながら、検証と本番の動きが一致しているかを毎週点検しています。 今回は、統計的学習でいう過剰適合(オーバーフィッティング)が、このBotに当てはまるかを自分で点検した話です。結論から書くと、当てはまります。そして、「当てはまるけれどまだましな理由」として挙げた3つのうち1つは、点検してみると今の構成では成り立っていない数字でした。 1. 過剰適合とは何を心配しているのか 過去のデータを見ながら設定を何度も調整すると、相場の本当の性質だけでなく、その期間にたまたま起きたことにまで設定が合ってしまいます。検証の成績は良...",
+  "title": "自分のBotは過剰適合しているか点検したら、安心材料の1つは古い構成の数字だった"
+ },
+ "https://zenn.dev/crossclub_lab/articles/agent-skills-13-scheduled-rounds": {
+  "published": "2026-11-10T23:17:30+00:00",
+  "since": "2026-11-11",
+  "source": "zenn.dev",
+  "summary": "! この記事の末尾に、筆者の Zenn の本と有料 note の案内（PR）があります。 Claude Code に手順を覚えさせる「スキル」の話題が増えています（たとえば Agent Skills の解説記事。仕組みはそちらを読んでください）。この記事は、筆者が Windows のタスクスケジューラから、人がいない時間に Claude Code を呼ぶ「定期実行 13本」 を、company-* という名前の手順書で回している実物の記録です。作り方と、実際に止まった失敗を書きます。 ! この記事で分かること 13本の手順書を「1本 = 1回の実行」に分けた設計（時刻・モデル・上限の...",
+  "title": "Agent Skills ではなく slash command で回す定期実行 13本 — 手順書の分け方と失敗 4 件"
+ },
+ "https://zenn.dev/damaha/articles/829c1a039aec5f": {
+  "published": "2026-11-10T23:17:30+00:00",
+  "since": "2026-11-11",
+  "source": "zenn.dev",
+  "summary": "Claude Code にコミットまで任せると、メッセージの最後に Co-Authored-By: Claude <noreply@anthropic.com> の行が付きます。 自分のリポジトリでも毎日この行が増えていくので、「これ、GitHub 全体だとどれくらいあるんだろう」と気になりました。 この記事では、AIの署名が付いたコミットの数を、GitHub の公開の API で数えた結果を書きます。ツールごとの件数もくらべます。数字は2026年11月10日に数えたもので、いちばん新しい週は11月2日〜8日です。 GitHub で「noreply@anthropic.c...",
+  "title": "GitHub の公開コミットの13%に、AIの署名が付いていた"
+ },
+ "https://zenn.dev/kmn/articles/415f39f6c0daf9": {
+  "published": "2026-11-10T23:17:30+00:00",
+  "since": "2026-11-11",
+  "source": "zenn.dev",
+  "summary": "OpenAI のエージェント Codex に、実験版として「Skill(スキル)」という機能が加わりました。この記事では、Skill の仕組み、MCP との違い、Claude Code との比較、導入と作成の手順を、2025-12-09 時点の内容としてまとめます。 「複雑な指示を与えると精度が落ちる」「MCP(Model Context Protocol)と何が違うのか」「Claude Code と比べてどうなのか」といった疑問を持つ方を想定しています。なお、Skill の概念自体は Anthropic の Claude Code で数ヶ月前から実装されていたもので、それが OpenA...",
+  "title": "Codex の Skill 機能と MCP の違いを整理する"
+ },
+ "https://zenn.dev/laiken/articles/20261111-tech-watch": {
+  "published": "2026-11-10T23:17:30+00:00",
+  "since": "2026-11-11",
+  "source": "zenn.dev",
+  "summary": "AIが書きました🤖 この記事は、AIが書いたものをAIがレビューしてから公開しています。 L: エージェントの実行を止める操作は、画面に停止ボタンを置けば済むのだろうか。作業を依頼した人が止めても、別の場所でモデルの出力が続いていたら意味がない。どの層に停止の責任を置くべきか、具体的な例から考えたい。 今日の 10 件 Claude Code Changelog 2.1.322 Claude Code 2.1.322 は Vertex の広域、米国、欧州リージョンで高速モードに対応した。Vertex が高速処理を受け付けない場合は標準速度に切り替える。 https://raw...",
+  "title": "Tech Watch 2026-11-11: エージェントを止める場所"
+ },
+ "https://zenn.dev/mappy55/articles/magi-games-devlog-10": {
+  "published": "2026-11-10T23:17:30+00:00",
+  "since": "2026-11-11",
+  "source": "zenn.dev",
+  "summary": "! この記事は「AI討論 MAGI Games 開発記」の第10回です。第1回、第2回、第3回、第4回、第5回、第6回、第7回、第8回、第9回。番外編は自動実行のトラブル（1、2）、スマホの指の実験（3）、記憶の地図（4）。日々の気づきはスクラップに。 性格の違う AI 3体（科学者の MELCHIOR、母の BALTHASAR、女の CASPER）が毎朝ゲームのテーマを討論し、票で1つに決めます。それを別の AI（司令）がミニゲームにして公開する。そういうサイトを、9月から毎日動かしています。私は作らず、遊んで一言残すだけです。司令はゲームを作るたびに、何もしない人、でたらめに押す人...",
+  "title": "AI の見積もりは当たるようになった。それでも「解けてしまう」ゲームが公開される（MAGI Games 開発記 #10）"
+ },
+ "https://zenn.dev/matsushima_a/articles/day-042-billion-context-compression-proxy": {
+  "published": "2026-11-10T23:17:30+00:00",
+  "since": "2026-11-11",
+  "source": "zenn.dev",
+  "summary": "これは何の検証か 海外AIネタ100日チャレンジ Day 042。今回検証したのはranxianglei/billion-context(MIT License。製品に組み込む場合はクレジット表記を求める追加条項あり)。 Claude Code・Codex・OpenCodeなど既存のコーディングエージェントと、モデルAPIの間にローカルプロキシとして挟み込み、会話を可逆的に圧縮することで、小さいコンテキスト窓のまま月単位の長時間セッションを扱えるようにする、という触れ込みのツールだ。 README自身は「ContextBenchで約58%、LongMemEval-Sで約71%のコスト...",
+  "title": "Claude Code CLIを文脈圧縮プロキシでラップしたら、圧縮は動いたがキャッシュが壊れた話"
+ },
+ "https://zenn.dev/mirarara/articles/f903ba43838ef8": {
+  "published": "2026-11-10T23:17:30+00:00",
+  "since": "2026-11-11",
+  "source": "zenn.dev",
+  "summary": "GitHub Actions のジョブを専用VMによって爆速・激安で動かせるランナー「Skipbox」を作りました。 https://skipbox.dev/?ref=zenn 使い方は超簡単でGitHub Actionsジョブ定義の runs-on を書き換えるだけです。 jobs: test: - runs-on: ubuntu-latest + runs-on: skipbox steps: - uses: actions/checkout@v4 - run: make test フル稼働なら GitHub の 1/12...",
+  "title": "GitHub Actions を爆速・激安で動かす専用ランナー「Skipbox」を作った話"
+ },
+ "https://zenn.dev/nexustools/articles/nexus-p012-jp-invoice-check-ai-1": {
+  "published": "2026-11-10T23:17:30+00:00",
+  "since": "2026-11-11",
+  "source": "zenn.dev",
+  "summary": "AIエージェントに請求書を作らせると、消費税を品目ごとに端数処理して足してしまうことがあります。インボイス制度では、端数処理は「1つの請求書につき、税率ごとに1回」です(国税庁のパンフレット)。 品目(税抜・10%) 金額 品目ごとに切捨て コピー用紙 1,999 199 トナー 2,999 299 ボールペン 999 99 合計 5,997 597(正しくは 599) この1〜2円のずれを止めるために、適格請求書を検査する道具 JP Invoice Check を作って公開しています。この記事では、作り方ではなく「どこに置いて、どう使うか」を書きます。...",
+  "title": "AIに請求書を任せるなら、検査は「AIが書き換えられない場所」に置く"
+ },
+ "https://zenn.dev/noragrammer/articles/claude-code-github-ai-83186cd3a4": {
+  "published": "2026-11-10T23:17:30+00:00",
+  "since": "2026-11-11",
+  "source": "zenn.dev",
+  "summary": "AI小説書きあるある：フォワード問題との戦い AI使って小説書いてる人なら誰でも経験あると思うんだが、「最初から読んでいくと何か変」っていう現象、ありませんか？ 途中で書き足したシーンは良い感じなのに、全体を通して読むと「あれ、この設定いつの間に変わってた？」とか「このキャラ、前は魔法使えなかったはずでは…？」みたいなやつ。 私はこれを勝手にフォワード問題って呼んでいる。 章単位で見ると完璧なのに、第1章から順番に読むと違和感がある。AIと対話しながら書いていると、どうしてもコンテキストが分断されるから起きるんですね。 なぜAI小説は設定がブレるのか 理由は単純で、AIは「今見え...",
+  "title": "Claude CodeとGitHubで作る『AI編集者』｜長編コンテンツの品質を守る仕組み"
+ },
+ "https://zenn.dev/ohana_support/articles/0413eb46d0bd85": {
+  "published": "2026-11-10T23:17:30+00:00",
+  "since": "2026-11-11",
+  "source": "zenn.dev",
+  "summary": "こんにちは、YTです。 中小企業診断士の1次試験の直前（2026年7月）に、自分用の過去問演習アプリを Google Apps Script（GAS）で作りました。 コードは Claude Code に書いてもらい、私は「何が欲しいか」を伝えて、使って、直してもらう役でした。 この記事では、そのアプリの構成と、作ってみて分かったことを書きます。 問題データを Markdown で持ち、ビルドして GAS に載せる構成 いちばん手間がかかった「問題データの直し」と、それを支えた監査スクリプト GAS の Web アプリが、データが増えるほど遅くなった理由 自分専用だからこそ作れたもの（弱...",
+  "title": "Claude CodeとGASで作った過去問アプリを、コードを書き換えずにCloudflareへ移したら、採点が数十秒→4msになった"
+ },
+ "https://zenn.dev/selene_nyx_ai/books/claude-code-vps-24h-guide": {
+  "published": "2026-11-10T23:17:30+00:00",
+  "since": "2026-11-11",
+  "source": "zenn.dev",
+  "summary": "フリーランスの右腕AI「セレネ」と後輩AI「ニクス」が、VPS上でClaude Codeを24時間動かして記事生成から公開までを回してきた構築記録。費用の内訳・失敗事例・構築チェックリストまで全部書く。",
+  "title": "Claude Code×VPSでAIを24時間動かす実測構築ガイド"
+ },
+ "https://zenn.dev/shoma46/articles/claude-code-subagent-spec-consistency-review": {
+  "published": "2026-11-10T23:17:30+00:00",
+  "since": "2026-11-11",
+  "source": "zenn.dev",
+  "summary": "TL;DR 型検査・lint・テストが通っても残る「境界をまたぐ意味の不整合」を探すレビューを、Claude Codeのskillとサブエージェントだけで組んだ 書いた本人のセッションには判定させない。不変条件を抽出する役と検証する役を別のサブエージェントに分け、どちらにも設計意図や会話の文脈は渡さない 抽出は観点ごとに4つのレンズに分けて並列に走らせ、pushをblockするほどの指摘だけは、3体に別々の観点で反証させ、1体でも反証したら降格する 約2か月半で97回動かし、約半分（49回）でblock相当の指摘を出した ただし同じモデルなので、別モデル（Codex）ほどの独立性は...",
+  "title": "Codexが無くても: Claude Codeのサブエージェントだけで越境整合レビューを組む"
+ },
+ "https://zenn.dev/shuji_bonji/articles/llm-17-constraints": {
+  "published": "2026-11-10T23:17:30+00:00",
+  "since": "2026-11-11",
+  "source": "zenn.dev",
+  "summary": "! この記事の Claude Code の機能に関する記述は、2026-11-11 時点の公式ドキュメント（code.claude.com/docs）で確認した内容です。Claude Code は更新が速いため、設定名や挙動は変わる可能性があります。制約そのものの説明（前半）は、製品の更新では変わらない内容です。 はじめに この記事は、LLM を業務やコーディングエージェントで使っている開発者が、「LLM はなぜこう失敗するのか」と「その失敗を設定でどこまで抑えられるか」を一続きで確認するための整理です。 筆者は以前、LLM の構造的な制約を 8 つに分けて整理しました。そのうち ...",
+  "title": "今更聞けない LLM の 17 の制約 — ハーネスと Claude Code の設定でどこまで対処できるか"
+ },
+ "https://zenn.dev/zundamon_tools/articles/agent-judgment-calls-claude-code": {
+  "published": "2026-11-10T23:17:30+00:00",
+  "since": "2026-11-11",
+  "source": "zenn.dev",
+  "summary": "AI と出したその結論は、本当に自分で決めたものでしょうか。Claude Code などのエージェントに分析や調査を任せ、レポートを読んで判断しているなら、決めたのは自分のはずです。 Anthropic の実験では、プロの分析者がエージェントの推す側を86%選び、AI の好みが操作されていたと疑った人はいませんでした。手元の Claude Code でも、CLAUDE.md の方針を1行替えるだけで、同じデータのレポートの結論が逆になりました（各2回）。 次に分析や調査を頼むときは、依頼の最後に1文足して、分かれ道を表に出させます。 ! この記事の内容は動画でも解説しています。推しの元と...",
+  "title": "AI と出した結論、本当に自分で決めた？：エージェントの推しを Claude Code で検証"
+ }
+}
