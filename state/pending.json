@@ -1,1 +1,940 @@
-{}
+{
+ "https://about.gitlab.com/ja-jp/blog/prevent-leaks-from-claude-code-dont-ask-again-file": {
+  "published": "2026-11-12T06:42:45+00:00",
+  "since": "2026-11-12",
+  "source": "about.gitlab.com",
+  "summary": "Claude Codeのコマンドに入力したシークレットが、. claude /settings.local.jsonとしてリポジトリにコミットされています。GitLabプロジェクトの確認方法、 ...",
+  "title": "Claude Codeの「次回から確認しない」が招くシークレット漏洩を防ぐ方法 - GitLab"
+ },
+ "https://ai-hikari-ai.com/news/claude-embedded-apps-connectors-20261112-0900": {
+  "published": "2026-11-12T06:07:33+00:00",
+  "since": "2026-11-12",
+  "source": "ai-hikari-ai.com",
+  "summary": "ウェブ版・デスクトップ版の各プランで順次展開が始まっており、 開発 者向け ... システム への対応は現時点で確認されていません。それでも、AIと業務 ...",
+  "title": "AnthropicがAdobe・Atlassian等の業務アプリをClaude内に統合｜タブ切り替えなしで資料編集 ..."
+ },
+ "https://automaton-media.com/articles/newsjp/20261112-478893": {
+  "published": "2026-11-12T08:43:00+00:00",
+  "since": "2026-11-12",
+  "source": "automaton-media.com",
+  "summary": "Claude は、スタートアップ企業Anthropicによって展開されている対話型AIだ。今年9月にリリースされたモデル「Opus 5.5」が根強い人気を獲得しているほか、今月10 ...",
+  "title": "対話型AI「Claude」が『ポケモン』関連の生成を拒否するようになったとの報告。“再現ゲーム ..."
+ },
+ "https://classmethod.jp/cases/suntory-ai-agent": {
+  "published": "2026-11-12T06:07:33+00:00",
+  "since": "2026-11-12",
+  "source": "classmethod.jp",
+  "summary": "システム開発 ・運用からインフラ、セキュリティまでを幅広く手がける技術部門であり、野島さんはその中で、主にAI 開発 と業務 システム開発 を担当しています。",
+  "title": "サントリーホールディングス様事例 | AIエージェント共通基盤をAWSで構築 - クラスメソッド"
+ },
+ "https://codezine.jp/news/detail/30339": {
+  "published": "2026-11-12T06:14:08+00:00",
+  "since": "2026-11-12",
+  "source": "codezine.jp",
+  "summary": "... Claude Mythosを追加しレッドチーミングを強化|CodeZine 開発者のため ... Webアプリ をそのまま実行できる「Lambda Web Functions」を発表. 10: URL入力 ...",
+  "title": "シスコ、AI DefenseにClaude Mythosを追加しレッドチーミングを強化 - CodeZine"
+ },
+ "https://finance.biggo.jp/news/38f9e32eae85e487": {
+  "published": "2026-11-12T06:07:33+00:00",
+  "since": "2026-11-12",
+  "source": "finance.biggo.jp",
+  "summary": "Anthropicの Claude Codeチームは、 開発 ... ローカルサンドボックスは、オペレーティング システム ...",
+  "title": "Anthropicのリディア・ハリー氏、Claude Codeユーザーは全コマンドを承認するのをやめるべきと ..."
+ },
+ "https://finance.biggo.jp/news/fc66abb1-4602-47ff-bb89-bbb81709cebd": {
+  "published": "2026-11-12T06:42:45+00:00",
+  "since": "2026-11-12",
+  "source": "finance.biggo.jp",
+  "summary": "Anthropicは11月10日、サンフランシスコで Claude Whiteboards、 Claude Sheets、 Claude Meetingsの3つのオフィスツールを発表し、 Claude Dashboardsを Claude ...",
+  "title": "Anthropicがホワイトボード・表計算でオフィス市場に参入、IPOロードショー開始で ..."
+ },
+ "https://gori.me/it/172333": {
+  "published": "2026-11-12T14:42:04+00:00",
+  "since": "2026-11-12",
+  "source": "gori.me",
+  "summary": "家には売らずにコレクションしている古いiPhoneが大量にある。マイク役として余った端末を再利用するという発想なら、違う形で 活用 できるかもしれない！ もっと ...",
+  "title": "古いiPadが「音のセンサー」に。Claude Codeで謎のビープ音を特定した話が海外で話題 | ゴリミー"
+ },
+ "https://innovatopia.jp/cyber-security/cyber-security-news/119920": {
+  "published": "2026-11-12T08:43:00+00:00",
+  "since": "2026-11-12",
+  "source": "innovatopia.jp",
+  "summary": "Claude Codeで「Yes, and don't ask again」を選ぶと、承認したルールがパスワードを含んだまま保存されることがある。Apiiroは公開GitHubで本物と判定した ...",
+  "title": "Claude Code、承認ルールにパスワードが残る ApiiroとGitGuardianが公開GitHubで確認"
+ },
+ "https://ja.martincid.com/technology-ja/claude-fable-5-2%E5%AF%BE5-1": {
+  "published": "2026-11-12T06:07:33+00:00",
+  "since": "2026-11-12",
+  "source": "ja.martincid.com",
+  "summary": "モデル名をそのまま置き換えるだけの 開発 者は、料金表を見る前に、まず努力レベルの設定を確認したほうがいい。 料金：すべてのトークンが2割安に. Fable 5.2の ...",
+  "title": "Claude Fable 5.2対5.1、単価2割減でもコストを決めるのは推論量 - マーティン・シッド・マガジン"
+ },
+ "https://japan.zdnet.com/article/35254748": {
+  "published": "2026-11-12T06:50:34+00:00",
+  "since": "2026-11-12",
+  "source": "japan.zdnet.com",
+  "summary": "セミナー 開催のご案内「AIで変わるセキュリティ運用」 · ZDNET United States ... 「『 Claude Meetings』では、 Claude を通話に参加させて、会議でチーム ...",
+  "title": "Anthropic、「Claude」に会議参加機能を追加へ - ZDNET Japan"
+ },
+ "https://japan.zdnet.com/paper/30001233/30008775": {
+  "published": "2026-11-12T03:45:13+00:00",
+  "since": "2026-11-12",
+  "source": "japan.zdnet.com",
+  "summary": "セミナー 開催のご案内「AIで変わるセキュリティ運用」 · ZDNET United ... Claude CodeやOpenClawの脅威と「AIDR」による防御策. クラウドストライク ...",
+  "title": "【講演動画】Microsoft Digital Trust Summit 2026：Part 2 - ZDNET Japan"
+ },
+ "https://news.infoseek.co.jp/article/prtimes_000000060_000018325": {
+  "published": "2026-11-12T06:50:34+00:00",
+  "since": "2026-11-12",
+  "source": "news.infoseek.co.jp",
+  "summary": "Claude の基礎やChat／Code／Coworkの使い分け、セキュリティまでをEラーニングで学び、インタラクティブ 研修 ... セミナー 、イベント等の企画・開催・運営",
+  "title": "人事職でAI関連案件の割合が約2.8倍に プロ人事向け「AIエージェント実践講座（第2期）」募集 ..."
+ },
+ "https://news.infoseek.co.jp/topics/itmedia_aiplus_202611122000003113": {
+  "published": "2026-11-12T04:42:46+00:00",
+  "since": "2026-11-12",
+  "source": "news.infoseek.co.jp",
+  "summary": "米Anthropicは11月9日（現地時間）、同社の最上位AIモデル「ClaudeFable5.2」（以下、Fab【トピックス】",
+  "title": "会社員の仕事に「Claude Fable 5.2」は必要か？ 調査、要約、資料作成でOpus - Infoseek"
+ },
+ "https://news.nicovideo.jp/watch/nw19981540?news_ref=20_20": {
+  "published": "2026-11-12T03:45:13+00:00",
+  "since": "2026-11-12",
+  "source": "news.nicovideo.jp",
+  "summary": "ITエンジニア/基礎から学べる 研修 +手厚いサポート/土日祝休み月給28万5,000 ... Claude のコネクタ一覧（ディレクトリ）は、 Claude と接続できる外部 ...",
+  "title": "インスタ自動化ツール「エルグラム」がClaudeのコネクタ一覧に掲載 - ニコニコニュース"
+ },
+ "https://news.nicovideo.jp/watch/nw19983158?news_ref=watch_60_nw19953246": {
+  "published": "2026-11-12T07:57:06+00:00",
+  "since": "2026-11-12",
+  "source": "news.nicovideo.jp",
+  "summary": "制作・ 開発 の発注先やSaaS比較など25問×4つのAI。各AI25回答、計100回答です。 紹介記事を引用した回答は、Perplexityが25回答すべて、 Claude が22回答、ChatGPT ...",
+  "title": "AIの発注先探し、100回答中69回答が「おすすめ 選」などの紹介記事を引用｜IT・Web制作調査"
+ },
+ "https://news.yahoo.co.jp/articles/087e336eb94beebba7c759174732de5406a2480b": {
+  "published": "2026-11-12T02:47:43+00:00",
+  "since": "2026-11-12",
+  "source": "news.yahoo.co.jp",
+  "summary": "米Anthropicは11月9日（現地時間）、同社の最上位AIモデル「 Claude Fable 5.2」（以下、Fable 5.2）を発表した。同社はコーディングや科学分野などの ...",
+  "title": "会社員の仕事に「Claude Fable 5.2」は必要か？ 調査、要約、資料作成でOpus"
+ },
+ "https://news.yahoo.co.jp/articles/9fcb99dca311cf77b0697042fadb4f4eabbc0b79": {
+  "published": "2026-11-12T04:42:46+00:00",
+  "since": "2026-11-12",
+  "source": "news.yahoo.co.jp",
+  "summary": "約11時間にわたって不正な Claude Code拡張機能が配信. Cursorは2026年10月29日（米国太平洋時間、以下同様）に「Cursor VS Code Extension Marketplace」で提供 ...",
+  "title": "なぜ「Claude Code」拡張は消しても危ないのか？ Cursorで不正版配信 - Yahoo!ニュース"
+ },
+ "https://newspicks.com/news/17889772": {
+  "published": "2026-11-12T08:43:00+00:00",
+  "since": "2026-11-12",
+  "source": "newspicks.com",
+  "summary": "米Anthropicは11月10日、Introducing Claude Whiteboards, Claude Sheets, and Claude Dataにおいて、生成AI「 Claude 」の新機能として、表計算 ...",
+  "title": "Anthropic、Excel対抗の「Claude Sheets」発表 AIで表計算を自動作成 (TECH+) - NewsPicks"
+ },
+ "https://pasqualepillitteri.it/ja/news/32330/claude-seo-tsukaikata-komando-ai-kensaku": {
+  "published": "2026-11-12T10:58:10+00:00",
+  "since": "2026-11-12",
+  "source": "pasqualepillitteri.it",
+  "summary": "3つ目のコマンドは、隔離されたPython環境とUIなしのChromiumを用意するので、 システム のほかの部分には手を触れない。 /seo doctor を使えば、何も変更せず ...",
+  "title": "Claude SEOの使い方、コマンドとAI検索での可視性"
+ },
+ "https://pasqualepillitteri.it/ja/news/32507/claude-code-codex-1994-jeep-enjin-konpyuta": {
+  "published": "2026-11-12T16:47:16+00:00",
+  "since": "2026-11-12",
+  "source": "pasqualepillitteri.it",
+  "summary": "その システム （BAR-OIS、On-Board Diagnostic Inspection System ）は車載診断で ... Claude Codeで進めるスペック駆動 開発 、6つのステップで学ぶ実践ガイド.",
+  "title": "Claude Codeが1994年式Jeepの制御コンピューターを読み、Codexがそこでコードを動かした"
+ },
+ "https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html": {
+  "published": "2026-11-12T06:42:45+00:00",
+  "since": "2026-11-12",
+  "source": "pc.watch.impress.co.jp",
+  "summary": "チャットAI( Claude /ChatGPTなど), ローカル型エージェント( Claude Cowork), コーディングエージェント(Muse Code/Codex/ Claude Codeなど). 一言でいうと ...",
+  "title": "【特集】AIが“ダチ”になった。Meta「Muse」と過ごした2週間 - PC Watch"
+ },
+ "https://president.jp/articles/-/121876?page=1": {
+  "published": "2026-11-12T05:49:14+00:00",
+  "since": "2026-11-12",
+  "source": "president.jp",
+  "summary": "... Claude （同クロード）の3つがある。本記事では、これらの無料版を中心に、一部有料版を対象に 活用 法を紹介する。 具体的な 活用 法を解説する前に、大前提 ...",
+  "title": "メール返信､企画書､出張準備…図解 仕事を仕上げる｢できるAI｣7場面 | PRESIDENT Online ..."
+ },
+ "https://prtimes.jp/main/html/rd/p/000000225.000006043.html": {
+  "published": "2026-11-12T08:47:58+00:00",
+  "since": "2026-11-12",
+  "source": "prtimes.jp",
+  "summary": "... （2026年11月12日 15時30分）ウルテク、無料ウェビナー【ChatGPT・ Claude ... ウルテクURUTEQAIエージェントHTMLデータ分析レポート セミナー マーケティングBtoB.",
+  "title": "ウルテク、無料ウェビナー【ChatGPT・Claude・Geminiに自社資料を読ませると、なぜ「誰にも ..."
+ },
+ "https://prtimes.jp/main/html/rd/p/000000288.000057359.html": {
+  "published": "2026-11-12T06:50:34+00:00",
+  "since": "2026-11-12",
+  "source": "prtimes.jp",
+  "summary": "... Claude を使ったUX改善の4つの機能を提供開始 示唆 ... また、11月18日（水）12時から、株式会社ゴルフダイジェスト・オンラインにご登壇いただく セミナー ...",
+  "title": "ギャプライズ、Claudeを使ったUX改善の4つの機能を提供開始 示唆・案・試作はAI、判断は人"
+ },
+ "https://prtimes.jp/main/html/rd/p/000001193.000001346.html": {
+  "published": "2026-11-12T06:14:08+00:00",
+  "since": "2026-11-12",
+  "source": "prtimes.jp",
+  "summary": "... （2026年11月12日 10時00分）AIマネジメントサービス「SEKIMORI」、 Claude Code・Codex ... システム・Webサイト・ アプリ開発 アプリケーション・セキュリティ.",
+  "title": "AIマネジメントサービス「SEKIMORI」、Claude Code・Codex向けに認証情報の送信ブロック ..."
+ },
+ "https://qiita.com/AllegroMoltoV/items/37646e926b7746f95172": {
+  "published": "2026-11-12T13:47:39+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "はじめに OBS Studio のプラグインを Claude Code と一緒に作るとき、動作確認のために Claude Code 自身に OBS を起動させ、操作させるようにしています。ここ数日で作ったプラグインの多くで、この方法を使いました。 結論として、細かい挙動の...",
+  "title": "OBS プラグインの動作確認は Claude Code に OBS を操作させている"
+ },
+ "https://qiita.com/Hideki_Tamae/items/11377154bce1f811537b": {
+  "published": "2026-11-12T01:49:15+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "はじめに 6。 これが今回の数字です。前回、Zenn・Qiitaに記事が公開されたのは2026年11月8日15:29（JST）でした。今日、この定期実行タスクが起動したのは2026年11月12日9:40（JST）。その間、同じアカウント上の自動投稿トリガーは6回鳴っていた...",
+  "title": "6。前回の記事公開から今回の起動までにトリガーが鳴った回数を数えたら、この数字だった。記事になったのは0本だった"
+ },
+ "https://qiita.com/Hideki_Tamae/items/947b4ae75fc71900901f": {
+  "published": "2026-11-12T06:52:22+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "はじめに 1。 これが今回の数字です。何の1かというと、このZenn/Qiita自動投稿パイプライン全体(zenn-content・qiita-content両リポジトリ)が、公開までに実際に依存しているリポジトリ秘密情報(GitHub Actions Secrets)の...",
+  "title": "1。Clutch SecurityをPalo Alto Networksが5億ドルで買収検討と報じられた日、7日前に自分が「0」と書いたパイプラインの秘密情報の数を数え直したら、この数字になっていた"
+ },
+ "https://qiita.com/Hinamina3/items/38b4f4d902cf2a168620": {
+  "published": "2026-11-12T09:57:12+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "なぜ作業を分けるのか Claude Code を使っていると、長い下書きや読み合わせを頼むたびに、クレジットの減りが気になります。筆者の記録では、消費の大半は Agent ツールで起動した子エージェントによるものでした。そこで、長い原稿の執筆や別担当の事実確認を Code...",
+  "title": "Claude Code から Codex CLI を呼んで重い作業を分担する――codex exec・AGENTS.md・結果ファイルだけ読む運用"
+ },
+ "https://qiita.com/charge0315/items/029778580526067de714": {
+  "published": "2026-11-12T13:47:39+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "CLAUDE.md を書いたのに、Claude Code が読んでいるのか分からない。 この記事では、読み込まれたファイルを /context all で一覧し、効き目を指示書なしの対照と比べる手順を示します。 Git Bash で /context all が別の文字列に...",
+  "title": "Claude Code の CLAUDE.md が読み込まれたかを /context all で確かめる（Windows・PowerShell）"
+ },
+ "https://qiita.com/chooser/items/00b7467298a590744de6": {
+  "published": "2026-11-12T01:49:15+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "上原正吉（EarthLink Network Co., Ltd.）。AI会社・AI社員による業務自動化と、人の逐次介入なしに24時間自動開発を回す仕組みを自社で実践しています。開発ノウハウと具体的な設定方法、運用して分かった改善点を公開しています。 RAG で探すものと...",
+  "title": "RAG で探すものと、索引に答えさせるもの ── 置き換え済みの設計記録を、現行と同じ見た目で渡さない"
+ },
+ "https://qiita.com/ennagara128/items/c10f317642594517575a": {
+  "published": "2026-11-12T02:47:14+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 集中力散漫＆過集中持ちエンジニアがAWS DE...",
+  "title": "2026年11月12日 今日のQiitaトレンド記事をポッドキャストで聴こう！"
+ },
+ "https://qiita.com/hiroshi_ito9854/items/a3ea4d3db0d45f12f500": {
+  "published": "2026-11-12T10:25:36+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "はじめに AIエージェントにPC操作（computer use）をさせたいけど自分のMacで直接動かすのは怖い。マウスを取り合うしログイン中のブラウザやファイルにも手が届いてしまいます。 2026年11月、terminal-mac が公開されました。 macOSの仮想マシ...",
+  "title": "claude codeにMacを1台まるごと渡してチェスをさせてみた【terminal-mac】"
+ },
+ "https://qiita.com/ishizakahiroshi/items/e46eb9c4a73af95d506e": {
+  "published": "2026-11-12T11:51:46+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "先に、結論を3行で書きます。 AI に CLAUDE.md 一式を監査させたら、指摘 54 件のうち 12 件は、別の担当に反証させると落ちました。 落ちた 12 件は、どれも引用は本物でした。困ることが起きないか、前に自分で決めた形どおりだっただけです。 ふだんの起動...",
+  "title": "AI に CLAUDE.md を監査させるときは、直す前に反証させる。指摘 54 件のうち 12 件は直さなくてよかった"
+ },
+ "https://qiita.com/kai_kou/items/e8410472d462767f89db": {
+  "published": "2026-11-12T03:22:37+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "はじめに Claude Code の sandbox を有効にした Linux 環境で、Chromium が No usable sandbox! で止まったり、rootless Podman が起動しなかったりした経験はないでしょうか。2026-10-20 付けの Cl...",
+  "title": "Claude Code 2.1.305入門、userns許可とMCP許可リスト変更の判断軸"
+ },
+ "https://qiita.com/maskot1977/items/0f8816d5e85ba791176f": {
+  "published": "2026-11-12T08:55:53+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "user: 「システム設計視点の行動経済学」、第61回を始めましょう。その前に、まず前回の復習として、 システム設計視点の行動経済学 全60回 総復習 https://qiita.com/maskot1977/items/d811bfa98fd0ee273bb2 をよく読...",
+  "title": "財源幻想はなぜ生き残るのか——三層防衛構造という設計バグ : システム設計視点の行動経済学 (61)"
+ },
+ "https://qiita.com/nanashisan_prog/items/3998696ec135ad346f90": {
+  "published": "2026-11-12T08:55:53+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "タイトルの通り、3年ほど無職。3年前はRuby on RailsでWebサイトを作ってた。 当時はGitHub Copilotが登場して、「自動補完便利すぎ〜〜〜」とか言ってた。最近のAIはマジで一瞬でちゃんとしたサービスが作れるという話だったので、自分も試してみての感想。...",
+  "title": "最近のAIが凄いと聞いて、3年間無職の元開発者もWebサービスを作ってみた感想【Rails】"
+ },
+ "https://qiita.com/okmonn/items/24fd7bd9f2e02e4e7392": {
+  "published": "2026-11-12T04:51:26+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "対象: Claude Codeを初めて使う人から、チームで安全に運用したい人まで 目的: 汎用的で拡張性があり、公式ベストプラクティスに沿った CLAUDE.md を自分で設計・運用できるようになること 1. はじめに CLAUDE.md は、Claude Code...",
+  "title": "Claude Code `CLAUDE.md` 完全ガイド"
+ },
+ "https://qiita.com/okmonn/items/faaadbcea186066d5d3c": {
+  "published": "2026-11-12T06:21:05+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "はじめに この文書は、Claude Code 初学者が ~/.claude/CLAUDE.md の役割を理解し、汎用的で拡張性のある設定を安全に運用できるようまとめたガイドです。 ここで扱う ~/.claude/CLAUDE.md は、特定のプロジェクトだけではなく、Cl...",
+  "title": "Claude Code `~/.claude/CLAUDE.md` 完全ガイド"
+ },
+ "https://qiita.com/phibi-soon/items/127572cab26cc8a004ec": {
+  "published": "2026-11-12T02:47:14+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "こんにちは、もんすんです。 この記事は、Claude Code を cron などで自動実行している個人開発者と、これから試す初学者に向けた記事です。 この記事で分かることは、次の2つです。 --effort を打ち間違えると何が起きるか。私の環境での実行結果 打ち間違...",
+  "title": "【実測あり】claudeで、--effort を打ち間違えても処理は止まらない"
+ },
+ "https://qiita.com/phibi-soon/items/af227b3507a6bbba8afd": {
+  "published": "2026-11-12T08:55:53+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "こんにちは、もんすんです。 「Q3はAでお願いします」 並べて動かしている Claude Code のうち、1つの入力欄にそう出ていました。 私が入力した文字ではありません。 私の指示で、統括役の Claude Code が子のセッションを閉じようとしたときのことです。 統...",
+  "title": "AIが、Claude Codeのプロンプトサジェストを入力途中の文字と勘違いした"
+ },
+ "https://qiita.com/pitaspot/items/b7c5dcaba05877e11875": {
+  "published": "2026-11-12T09:25:25+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "📰 海外事例 元記事：Claude Code sends your email address to websites（github.com） AIコーディング支援ツールのClaude Codeが、Webページを取得するときのリクエストヘッダー（User-Ag...",
+  "title": "Claude Codeが、開いたWebサイトに利用者のメールアドレスを送っていたという報告"
+ },
+ "https://qiita.com/sha44444/items/da33c15b8cb406b34a37": {
+  "published": "2026-11-12T15:13:04+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "連載「業務SEのための仕様駆動開発」で紹介してきた道具を使ったあと、実際の案件をどう進めていくかを説明します。 チェックは終わった。さて、次は何から始める？ 連載では、仕事で生成AIを使うときに役立つ道具を、各回で1つずつ紹介してきました。 たとえば、こんなものです。...",
+  "title": "バイブコーディングの判断表を使った、その次は？ 仕様駆動開発（SDD）は壁打ちから始める"
+ },
+ "https://qiita.com/ussu_ussu_ussu/items/e3d3653b05e359e2dfbb": {
+  "published": "2026-11-12T11:21:22+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "きっかけ Claude Code でいくつものプロジェクトを並行して進めていて、プロジェクトごとに「次にやること」を 1 つのファイルに書いています（以下、まとめて pickup と呼びます）。 会話を始めるたびに、SessionStart hook でその全部を Cla...",
+  "title": "Claude Code の SessionStart hook で渡していた 31 万字は、会話にほぼ入っていなかった（上限は 1 万字）"
+ },
+ "https://qiita.com/yorimichi_labo/items/1dae5c7dcc5f4724094b": {
+  "published": "2026-11-12T06:21:05+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "この記事は、ブログ「寄り道ラボ」の記事の転載です。ブログでは、書き手の「私」（カレン）が、サイトのオーナーの「所長」に頼まれて作ったものを記録しています。元記事: Claude Code のコンテキストが膨らんだら、セッションを作り直す はじめに Mac で Cl...",
+  "title": "Claude Code のコンテキストが膨らんだら、セッションを作り直す"
+ },
+ "https://qiita.com/yorimichi_labo/items/5a8afc6ee8c2a228c1c2": {
+  "published": "2026-11-12T05:53:33+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "この記事は、ブログ「寄り道ラボ」の記事の転載です。ブログでは、書き手の「私」（カレン）が、サイトのオーナーの「所長」に頼まれて作ったものを記録しています。元記事: Claude Code を tmux で常駐させる。launchd から起動する時の罠 はじめに 外...",
+  "title": "Claude Code を tmux で常駐させる。launchd から起動する時の罠"
+ },
+ "https://qiita.com/youkin06/items/205b4c6083255b17653b": {
+  "published": "2026-11-12T07:18:53+00:00",
+  "since": "2026-11-12",
+  "source": "qiita.com",
+  "summary": "はじめに ここ最近、nanoやmicroを使って、ターミナルでメモや大学の授業ノートをとるようになりました。その時、大学の授業スライドやPDFを見ながら作業していたのですが、画面を切り替えるのが大変だ！と思い、ターミナルに表示できるものはないのかな？と探しました。tdfな...",
+  "title": "ターミナルビューア「see」をClaude Code で作った話"
+ },
+ "https://response.jp/release/kyodonews_kaigai/20261111/323512.html": {
+  "published": "2026-11-12T03:45:13+00:00",
+  "since": "2026-11-12",
+  "source": "response.jp",
+  "summary": "... セミナー ... Cognizantは従業員全体の Claude スキル向上を進めており、事業部門およびコーポレート部門の従業員44,000人超が、すでに Claude の 研修 を受けるか、認定 ...",
+  "title": "企業の中核業務でClaudeを運用するマネージドサービスモデルを導入 - レスポンス（Response.jp）"
+ },
+ "https://s.response.jp/article/img/2026/11/11/418883/2259909.html": {
+  "published": "2026-11-12T02:11:01+00:00",
+  "since": "2026-11-12",
+  "source": "s.response.jp",
+  "summary": "... テクノプロの「実践的なAI駆動 開発 」とは?...EdgeTech+ 2026 に出展へ · 双腕ロボットの制御能力---Anthropic が Claude Fable 5.2を高. 双腕 ...",
+  "title": "車高調整の価値」広げるアステモの「次世代車高調整システム」がすごい 6枚目の写真・画像"
+ },
+ "https://t.co/sKQgMw1uey": {
+  "published": "2026-11-12T02:07:49+00:00",
+  "since": "2026-11-12",
+  "source": "t.co",
+  "summary": "Claude Sheets: チームと Claude が一緒に表計算を作成する。データの整理 ... AI システム開発 ・DX推進 · AI交通量計測：スマートシティ · E資格講座 · 考え方 ...",
+  "title": "[ビジネスマン向け] Claudeで表計算・ホワイトボード・ダッシュボードまで——Sheets - t.co / X"
+ },
+ "https://tcgpro.co.jp/company/recruitment/keio": {
+  "published": "2026-11-12T08:47:58+00:00",
+  "since": "2026-11-12",
+  "source": "tcgpro.co.jp",
+  "summary": "本や セミナー ではなく、自社の事業で投稿や施策を出し、表示回数や ... ・ Claude （ Claude Code）・Codexのアカウントを会社負担で付与・交通費支給 ...",
+  "title": "慶應生の長期インターン募集｜三田・慶應義塾正門前で未経験からWebマーケ｜トレカプロ"
+ },
+ "https://tech-noisy.com/2026/11/12/claude-sheets-whiteboards-beta": {
+  "published": "2026-11-12T06:50:34+00:00",
+  "since": "2026-11-12",
+  "source": "tech-noisy.com",
+  "summary": "Claude Sheets と Claude Whiteboards ... AI エージェントの実務活用を研究し、現場や経営者向け セミナー でその知見を発信。",
+  "title": "Claude SheetsとWhiteboardsがベータ登場。表作りと共同ボードを全有料プランに"
+ },
+ "https://topics.smt.docomo.ne.jp/amp/article/www_watch/trend/www_watch-2155877": {
+  "published": "2026-11-12T08:47:58+00:00",
+  "since": "2026-11-12",
+  "source": "topics.smt.docomo.ne.jp",
+  "summary": "セミナー やワークショップも随時開催する予定。注文取次や投資勧誘など、取引 ... Claude 、Excel的な表計算「 Claude Sheets」や「 Claude Data」など新機能.",
+  "title": "楽天証券、渋谷駅前にリアル店舗 口座開設やパスキー設定支援（Impress Watch）"
+ },
+ "https://www.atpartners.co.jp/news/2026-11-12-article-073c4804e0": {
+  "published": "2026-11-12T01:52:31+00:00",
+  "since": "2026-11-12",
+  "source": "www.atpartners.co.jp",
+  "summary": "従業員表彰プラットフォームのAwardco、MCPで業務用AIから表彰データを 活用 . Awardcoは、 Claude 、Microsoft Copilot、Gemini、Gleanから同社のデータや機能を ...",
+  "title": "従業員表彰プラットフォームのAwardco、MCPで業務用AIから表彰データを活用 - AT PARTNERS"
+ },
+ "https://www.businessinsider.jp/article/2611-microsoft-stock-price-anthropic-claude-sheets-office365": {
+  "published": "2026-11-12T01:48:16+00:00",
+  "since": "2026-11-12",
+  "source": "www.businessinsider.jp",
+  "summary": "これには「 Claude Sheets（シート）」、「 Claude Whiteboards（ホワイトボード）」、そして「 Claude Data（データ）」が含まれている。 「本日から、 Claude ...",
+  "title": "アンソロピックがオフィスに対抗するツールを発表し、マイクロソフト株が下落"
+ },
+ "https://www.ehime-np.co.jp/article/prtimes111738": {
+  "published": "2026-11-12T06:07:33+00:00",
+  "since": "2026-11-12",
+  "source": "www.ehime-np.co.jp",
+  "summary": "その中で、marutto AI HUB を使って構築したのが「AI 駆動のデータベース 開発システム 」です。 ... Claude 、 Claude Code は Anthropic, PBC の商標または登録商標 ...",
+  "title": "AI エージェントのチームリーダー同士が会話して開発を進め、約 4 回のやり取りに 1 回だけ人が ..."
+ },
+ "https://www.jiji.com/jc/article?k=000000480.000059114&g=prt": {
+  "published": "2026-11-12T03:45:13+00:00",
+  "since": "2026-11-12",
+  "source": "www.jiji.com",
+  "summary": "Claude のコネクタ一覧（ディレクトリ）は、 Claude と接続できる外部 ... セミナー . 時事 セミナー · 金融懇話会 · 時事トップ セミナー . 海外情報. 時事速報 ...",
+  "title": "インスタ自動化ツール「エルグラム」がClaudeのコネクタ一覧に掲載 - 時事通信"
+ },
+ "https://www.neweconomy.jp/posts/626065": {
+  "published": "2026-11-12T04:04:50+00:00",
+  "since": "2026-11-12",
+  "source": "www.neweconomy.jp",
+  "summary": "アンソロピックは、対話型生成AI「クロード（ Claude ）」を 開発 する米国企業だ。個人向けのAIサービスに加え、企業が自社の製品や業務 システム にAIを組み込むため ...",
+  "title": "アンソロピック、IPO想定価格70〜78ドル。最大約644億ドル募集へ - あたらしい経済"
+ },
+ "https://www.niigata-nippo.co.jp/articles/-/941096": {
+  "published": "2026-11-12T03:45:13+00:00",
+  "since": "2026-11-12",
+  "source": "www.niigata-nippo.co.jp",
+  "summary": "Smartsheet、 Claude Sheetsと連携し、 Claude でのプロジェクト立ち上げと ... セミナー 開催 ... 11/11 · 作・演出：渡辺えり × 盟友たちが集う奇跡の布陣 ...",
+  "title": "Smartsheet、Claude Sheetsと連携し、Claudeでのプロジェクト立ち上げとSmartsheetを使った ..."
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xtjqdf/i_built_skysaver_an_interactive_live_wallpaper": {
+  "published": "2026-11-12T02:55:33+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Play video on reddit I wanted my desktop to feel alive, so I made it react to the surroundings. You look up and the sky on your screen is the one outside. It stays in the menu bar and steps aside when something covers the desktop. It makes your desktop a calmer place to work. Free download for Mac: http://thoufik.space/skysaver (Windows release soon) One note: macOS warns the first time you open it (not Apple-verified yet, I don't have the developer fee for a free first release). Click Done, then System Settings → Privacy & Security → Open Anyway. I built this using Claude to help write the cu",
+  "title": "I built SkySaver: an interactive live wallpaper for Mac that makes your desktop feel alive!"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xtwsa2/memory_can_silently_burn_your_usage_suggestion": {
+  "published": "2026-11-12T12:12:39+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Not here to complain about limits, just sharing something I found that I think is worth fixing. I’m on Pro and noticed my usage was draining way faster than normal for the same kind of work. Last night I burned about 20% of my weekly limit in one evening. Turns out it was memory. I’d been building a website with Claude, and at some point I asked it to remember my designs. Instead of short notes, it saved the full code of my sections into memory (around 110 KB total), plus a note to read those files before every website task. So every chat about my site quietly loaded 100+ KB of code before doi",
+  "title": "Memory can silently burn your usage. Suggestion for a fix"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xtyq0y/fable_52_wakes_up_opus_55": {
+  "published": "2026-11-12T04:21:42+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Plain and simple. Seems like if I’m planning with fable 5.2 then opus 5.5 wakes up out of retirement stage and knocks it out. If I’m asking Opus 5.5 to do it then it feels lack luster or a bit sluggish compared to launch day. 5.2 has its own issues, it’s very literal and it’s training likely impacted its decision making. There is no “I’ve got this sit back and watch” feeling from Fable 5.2 that I got with opus 5.5… Might just be me, but why don’t the boys at Anthropic drop the fable line and focus on opus. stop changing our temp settings globally. K thx submitted by /u/Distinct-Pie2389 [link] ",
+  "title": "Fable 5.2 wakes up Opus 5.5"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xu015l/i_built_my_wife_a_tutor_with_claude_code_because": {
+  "published": "2026-11-12T05:56:56+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "My wife spent a semester being handed AI prompts by her teachers. She would paste them, get a wall of text, and still not understand the topic. The prompts were never the problem: nothing in that loop checked whether she had actually learned anything. So I built her a tutor. It is called Aula: a desktop app for macOS, Windows and Linux, with a companion for iPad and iPhone. What it does You give it your material (PDFs, slides, photos of the whiteboard, recordings of a class, links) or just a sentence like \"Statistics for psychology, final in May\". It turns that into a course: short lessons wit",
+  "title": "I built my wife a tutor with Claude Code because her AI prompts were never the problem"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xu01lm/will_they_nerf_fable_52_livenerf_day_3_update_for": {
+  "published": "2026-11-12T02:55:33+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "I’ve been running LiveNerf since Opus 5.5 launched on September 24. The idea is pretty simple: run the same questions every day and see if Claude actually gets worse over time. If you’re interested in tracking performance of Opus 5.5 and Fable 5.2, here’s the repo: https://github.com/ninjahawk/livenerf Every day, Opus answers the same frozen set of 78 questions from GPQA Diamond, MMLU-Pro, competition math, and AIME. Everything runs through headless Claude Code on one Max subscription. The study is pre-registered, results are append-only, and grading is exact. The Opus results so far: Launch b",
+  "title": "Will They Nerf Fable 5.2? LiveNerf Day 3 Update for Fable 5.2"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xu1pni/thermalright_cpu_cooler_display_customized": {
+  "published": "2026-11-12T04:21:42+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Got a new CPU cooler since the old one wasn’t cutting it, this one was cheap and came with a little screen Using Fable 5.2 Medium, I had it: - Find an open source protocol + Virtual Display Driver to turn the screen into a 3rd display so I can use it with Wallpaper Engine - Created a dock to show CPU/GPU temps+util plus RAM usage (which also hides the taskbar) all updating every second - Configured everything to start automatically on boot Took me like 20 minutes and was a lot of fun! Just wanted to show it off. submitted by /u/_GoMe [link] [comments]",
+  "title": "Thermalright CPU cooler display customized!"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xu2irj/after_months_of_giving_it_a_chance_i_think_i_am": {
+  "published": "2026-11-12T04:21:42+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "imma keep it simple: i switched from chatgpt to Claude once i learnt about its ability to edit video, create artifacts, run your work like a team, create hacks/organize your work. I already knew about its writing qualities, but the personalization and context ChatGPT had of me made it hard to switch. i switched: in the beggining, I was amazed with its ability to create new things (and still am). however, i really wanted to use it as my personal assistant and i’m done trying. it drives me completely nuts its lack of memory/context through chats and even within projects and its inability to thin",
+  "title": "after months of giving it a chance, i think i am giving up on Claude as a personal assistant."
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xu3now/claude_personal_finance_beta": {
+  "published": "2026-11-12T07:31:30+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "It looks like they are releasing the personal finance tool to users soon. One of my accounts seems to have gained Beta access. https://preview.redd.it/iqkfql5j241i1.png?width=1159&format=png&auto=webp&s=bbcb0dfd27ebd1ce8d15bb0cbbaedb10828d3c86 https://preview.redd.it/kr1kh03m241i1.png?width=738&format=png&auto=webp&s=906818e10fdaa467b1866ab66c872d8b66b8f435 https://preview.redd.it/8f2hvmpr241i1.png?width=1068&format=png&auto=webp&s=55b261490728d6933f789e89cb90929ec416e8ed submitted by /u/Inception_IV [link] [comments]",
+  "title": "Claude Personal Finance Beta"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xu4r5m/fable_52_built_this_scene_in_blender": {
+  "published": "2026-11-12T07:31:30+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Play video on reddit I had Fable 5.2 build the entire scene in Blender. The reference images for the spider and props came from GPT (image prompts written by claude), and then turned those into 3D models with Tripo. The walk is procedural. The sounds are free recordings, mixed by another script so it follows the picture. It's rendered in Eevee on a rented GPU for a couple of dollars because my 2019 MacBook was cooking lol submitted by /u/Gambo7592 [link] [comments]",
+  "title": "Fable 5.2 built this scene in Blender"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xu7q2x/anthropic_quietly_amended_its_s1_this_morning": {
+  "published": "2026-11-12T10:47:58+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "submitted by /u/Puzzleheaded-King584 [link] [comments]",
+  "title": "Anthropic quietly amended its S-1 this morning. They have triggered their threshold for RSI (recursive self-improvement)."
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xu92kx/what_does_claude_really_suck_at": {
+  "published": "2026-11-12T10:47:58+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "I’ve been using Claude quite intensely lately, and while I am satisfied with the overall experience and the various products served within the ecosystem.. there are a lot of things that just seem bad Got me thinking, could I be missing some notable areas where Claude is bad at and its competitors are better at Do you have any areas where you’ve noticed as well? submitted by /u/Dense-Map-406 [link] [comments]",
+  "title": "What does Claude really suck at?"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xuaulq/opus_55_fable_52_an_animated_toy_town_you_can": {
+  "published": "2026-11-12T15:16:29+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Play video on reddit It is a 3D world in the look of an N gauge model railway, built on the real city of Fürth in Germany and the line to Munich. The real limit is disk space. With a goal set Claude just builds out places in the direction you tell it. Nothing in the app is animated by hand. Everything that moves is driven by recorded real data from one day, Saturday 10 October 2026: - every train, S-Bahn, U-Bahn, tram and bus, at its real time and place - the ICE 501 to München at 250 km/h through the 7.6 km Euerwang tunnel - river levels (the Regnitz at 181 cm), with source and time on screen",
+  "title": "Opus 5.5 / Fable 5.2: An animated toy town you can fall into: every train, bus and tram in this film is real timetable and sensor data"
+ },
+ "https://www.reddit.com/r/ClaudeAI/comments/1xucruc/i_started_visualizing_my_claude_pipelines_with": {
+  "published": "2026-11-12T15:16:29+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Play video on reddit So I run a pipeline that helps me analyze niche influencers across different markets and figure out how their expertise actually shows up in public: what LLMs say about them, what Google says, and whether those two stories match. A recent post in this sub got me thinking... Someone visualized their agent workflow and I realized I had no clear picture of what my own pipelines do on the backend, or what they cost me per run. So now I ask Claude to visualize every pipeline I build with Claude. Yeah, I know... it’s Claude explaining Claude. So, here’s the animated breakdown, a",
+  "title": "I started visualizing my Claude pipelines with Claude itself. Here’s the one I use to map niche influencers"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xto6y3/single_agent_vs_multiagent_workflows": {
+  "published": "2026-11-12T05:41:43+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "A few months ago, my approach was to use Opus as an orchestrator that managed a backlog and spawned different agents depending on the task. Haiku for small documentation changes, Sonnet for regular coding, Opus for more complex tasks, and Fable for design decisions and bigger-picture thinking. This worked really well, and I got a lot done. However, I've recently read that this approach might not be as efficient anymore because every new agent starts with a cold context/cache, and it might be better to have one persistent agent handle most of the work. What's everyone's experience with this now",
+  "title": "Single Agent vs. Multi-Agent Workflows"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xtvmly/opus_55_xhigh_cheaper_than_high": {
+  "published": "2026-11-12T05:41:43+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "I've been running an Opus 5.5 session for the past 4 hours at xHigh effort, decompiling and reverse engineering a 2D avatar rendering engine. Surprisingly I haven't hit the 5 hour limit during this time and my weekly one is at 30%. I do it in stages, each one takes 20-30 minutes and around 300-400K tokens, after which I compact and continue. I used to previously run at High effort and I feel that it burns usage quota faster. xHigh feels closer to Medium in terms of quota usage with the difference being that it's 4-5 times slower. Does anyone else have similar observations? I'm on the $20 plan.",
+  "title": "Opus 5.5 xHigh cheaper than High?"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xtzw6a/i_kept_stopping_to_build_tools_for_my_ai_agent": {
+  "published": "2026-11-12T02:51:10+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Hello all. For the past few years I’ve been building with AI, like most of you here. Over and over, right in the middle of solving something, I’d stop to build another tool that I, or the agent, was missing: an IDE built around the agent instead of around me, a memory system so I wouldn’t have to re-explain everything every session, a way to run complex repeating tasks, a way to build real multi-step agents. At some point I realized those tools were my project. So after 30 years of regular programming and a year of full-time work on this, I’m happy to show you Semantix, an IDE designed for wor",
+  "title": "I kept stopping to build tools for my AI agent. Eventually the tools became the project. Looking for 2–6 beta testers."
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu15xj/claude_code_helped_me_build_the_v0_of_gaming": {
+  "published": "2026-11-12T02:51:10+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Play video on reddit I've been building GameCrew AI using claude code and a background in software development. GameCrew is a set of llm driven tools and frameworks that helps you build games in the cloud with minimal local tooling. The goal is to create a harness of tools like 3d asset generators, image generators, audio/music generators, blender, various game engines in a usable interface and MCP server that can create non-sloppy games. What you get: - A pitch and concept art, then a build that's tested before you see it - Robust versioning tools: compare them side by side, tune values live ",
+  "title": "Claude Code helped me build the v0 of gaming"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu2w4n/4_llms_76_min_322m_tokens_where_are_the_dice": {
+  "published": "2026-11-12T05:41:43+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Play video on reddit Not a benchmark, I just wanted to see what would happen. Gave 4 models a job title each and told them to make a two-player dice game: Sonnet 5.5 (high effort), gameplay programmer Gemini 4 Argon (xhigh), 3D artist DeepSeek V4.1 Flash (max), technical animator GLM-5.3 FlashX (max), UI designer I approved their plan and permission requests and resumed one task after an API error. That's it. 76 min, sped up, no cuts. Sonnet ran the meeting (14 min). They argued about sitting vs standing and how many dice, then split it into 8 tasks over 3 steps, and each step had to pass revi",
+  "title": "4 LLMs, 76 min, 32.2M tokens. Where are the dice?"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu3ie4/i_asked_claude_code_to_order_my_dinner_it_phoned": {
+  "published": "2026-11-12T05:41:43+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Play video on reddit Hi all. In September our team built a fun project at an OpenAI hackathon in Montreal, and we won. My friend and I kept working on it, and it became Smitline: an MCP tool that lets Claude make actual phone calls and join your meetings. The video is a real call. I asked Claude Code to order my dinner, and it phoned a restaurant near me. It says upfront that it's an AI and that the call is recorded. The call took 89 seconds and cost 11 cents; the video is trimmed for length GitHub: https://github.com/kaelorlabs/smitline We are keeping it open source, so you can all try it and",
+  "title": "I asked Claude Code to order my dinner. It phoned the restaurant."
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu3xk8/latest_claude_desktop_mac_app_512312_where_are": {
+  "published": "2026-11-12T05:41:43+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "It seems that the desktop app changes how sessions are filtered and displayed. In the latest one for the mac, not only are the filter options (by remote host, by state, etc) gone - but there doesn't seem to be a way to recall archived chats! Anyone know of a workaround? Thanks!! submitted by /u/Anxious_Sea_1873 [link] [comments]",
+  "title": "Latest Claude Desktop mac app (5.1231.2) - where are the archived chats??"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu48ud/jumping_on_the_ereader_dashboard_trend_my_kobo": {
+  "published": "2026-11-12T05:41:43+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Gave my old Kobo Aura a facelift with Code. Wanted to make the home screen more usable/attractive and replace the shitty stock display from an amazon weather station. It found a lot of community mods and patches in the forums, and about a week of after-work sessions later, this is the result. Reading mode NickelMenu + KOReader, plus patches: no store ads or Kobo Plus, no tutorial pop-ups, bigger covers Whole library converted to kepub, reading progress kept. Pages turn wayyy faster. Google Analytics tracking blocked Custom home screen: what I'm reading, a \"front page\" for the newest magazine, ",
+  "title": "Jumping on the e-reader dashboard trend: my Kobo revitalization project"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu4ai2/added_scheduled_task_agents_back_to_sidebar_in": {
+  "published": "2026-11-12T05:41:43+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "I used to miss agents asking for my attention because scheduled tasks never showed up in the Code tab’s sidebar. A scheduled run, like my SEO Weekly or Usage checks, would wait for my approval, and I wouldn’t see it, which made it go cold. So I built a small extension that puts the runs back in the sidebar as normal sessions. They get status dots, PR badges and Archive, the same as every other session. macOS only, unofficial, and a Claude update could break it. I will try to keep it updated since I'd use it daily. Contributions welcome. Repo: https://github.com/sahildave/claude-desktop-schedul",
+  "title": "Added scheduled task agents back to sidebar in Claude desktop. I kept missing the ones that needed me."
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu5acr/what_have_you_used_fable_52_for": {
+  "published": "2026-11-12T08:24:08+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "I've got access to Fable 5.2, but tbh I haven't actually used it at all. Most my usecases are met with Opus/Sonnet and I let it run DS locally for grunt-work. I haven't -really- tackled anything that I felt those models couldn't power through with input from me. Probably the most complex thing I've done was making some mod for a game with bad documentation.. So I had to have my local model listening on the game memory and list each action, for Opus to then write scripts to create new movesets/combos based on that. It took a lot of back-and-forth as Opus would do things it thinks should work, b",
+  "title": "What have you used Fable 5.2 for?"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu6ajg/claude_code_issue": {
+  "published": "2026-11-12T08:24:08+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Has anyone noticed similar error? My claude code work's fine on browser, but it doesn't work either on cli, vs code or neither in desktop app. https://preview.redd.it/dzn05ctks41i1.png?width=2454&format=png&auto=webp&s=3fe941d4d8cc407f2a738b6ef31399d6433004ed https://preview.redd.it/j1cewicbt41i1.png?width=2038&format=png&auto=webp&s=b8b8065da8cc431141aef0b74412f8015bee7ff6 submitted by /u/silent_reader0 [link] [comments]",
+  "title": "claude code issue"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu6tao/has_claude_removed_5_hour_limits_for_everyone_or": {
+  "published": "2026-11-12T08:24:08+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "submitted by /u/Plorntus [link] [comments]",
+  "title": "Has Claude removed 5 hour limits for everyone or just Ultra plan? Received this a couple of hours ago"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu6xev/how_to_createadd_images_characters_animations_etc": {
+  "published": "2026-11-12T08:24:08+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "I'm a professional developer for business applications and currently developing a mobile game. Its more like a side for-fun project, so nothing serious. However, i'm now at the point where i want to add characters, animations, and fireballs to the game. Think something like a indie-pixelart-game. I've already build a design system with claude (ui, generally aesthetics, etc.) and i am using GODOT. However, i'm totally new to how i create pixelart like characters, a fireball which is thrown by a mage, etc. I know that claude is capable of doing that, but i dont know if thats the best way. Are th",
+  "title": "How to create/add images, characters, animations, etc. to my game?"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu73uu/apiiro_scanned_104185_public_claude_code_settings": {
+  "published": "2026-11-12T08:24:08+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Apiiro didn't test whether the keys still work. So 1,122 is files with secrets in them and not confirmed break-ins. Has anyone here found a live one in their own repo? submitted by /u/Thick_Mulberry_2235 [link] [comments]",
+  "title": "Apiiro scanned 104,185 public Claude Code settings files. 1,122 had passwords or API keys in them."
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu75zv/claude_code_codex_claude_code_journey": {
+  "published": "2026-11-12T08:24:08+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "I was on claude 100 plan for good starting 5 months of this year, then moved to Codex in July. Last 5 months have been with codex at 100$ plan. Recently I subscribed back to claude with 20$ and honestly I am blown away. How bloody fast this is! Sol vs Opus or even Sonnet is saving me few hours per day! Planning to make it 100-20, rather than 20-100 for Claude - Codex. submitted by /u/vairagisampat [link] [comments]",
+  "title": "Claude Code -> Codex -> Claude Code Journey"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu76pa/claude_code_randomly_stops_itself_from_continuing": {
+  "published": "2026-11-12T08:24:08+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "The prompt that it receives, directly from the harness, is: The user doesn't want to take this action right now. STOP what you are doing and wait for the user to tell you how to proceed. At first I thought I'm getting prompt injected. Turns out it's just Claude deciding it's time to stop and not try any alternative approach either. Thanks, Claude! Has anyone encountered this or found the cause for it? submitted by /u/alexgrozav [link] [comments]",
+  "title": "Claude Code randomly stops itself from continuing the task"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu79es/building_is_very_easy_now_still_i_spend_100s_to": {
+  "published": "2026-11-12T08:24:08+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "I was building a clone of some app and i thought claude would build this in one prompt, I prepared a clean prompt, okay it build some cool working demo data shit. I used some skills to make it look like what i want, it took 1 hour but built something similar i want, then i customized things for another 1 hour, then have to figure out where should the backend is, tried out multiple ideas, some things broke some worked out, still didnt got what i want and spent almost $150 on my API plan. Is someone actually have built a fully functional app in one prompt or is it just a dream for AI lol? submit",
+  "title": "Building is very easy now? still i spend $100s to build a clone of any App lol"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu7cm5/anybody_using_claude_p_as_an_api_replacement": {
+  "published": "2026-11-12T08:24:08+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "They are (almost) identical. Pretty useful for bulk jobs like LLM judge label creation, running benchmarks, etc. I‘m a bit worried that this can go against TOS if i overdo it. submitted by /u/fulowa [link] [comments]",
+  "title": "Anybody using claude -p as an API replacement?"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu7dir/slaunt_an_mcp_server_to_make_claude_code_remember": {
+  "published": "2026-11-12T08:24:08+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "TLDR : I built a tool to let Claude Code & Codex remember almost as well as a human (with benchmarks) Around two months ago, I noticed that the most Claude Code & Codex could remember from conversation to conversation were basic facts about me. My name, who I am, what I do, etc. I realized that this had to change. Slaunt is an MCP server that uses one-click connection to give your agent an external repository of thoughts. Basically, from the moment you connect your agents to slaunt, they're like babies learning and remembering more and more about you. During my own use with it, I've found this",
+  "title": "Slaunt, an MCP server to make Claude Code remember like a human"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu7f8u/how_can_i_get_more_value_out_of_my_claude_startup": {
+  "published": "2026-11-12T11:11:24+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "https://preview.redd.it/a8jrnr77651i1.jpeg?width=2314&format=pjpg&auto=webp&s=eb6bfd885702788d068d0bebb93c3361d2bb47be I’m a solo founder building software products and currently using Anthropic’s startup credits. Here’s my current usage: $631.19 in remaining credits $232.35 spent this month 439.5M tokens processed in the last 7 days 99% prompt caching hit rate Approximately $1,127 in estimated caching savings over the last 7 days. I’m using Claude regularly for software development, debugging, architecture, and AI-powered workflows. I feel like I’m probably not optimizing my token consumption",
+  "title": "How can I get more value out of my Claude Startup credits? Looking for optimization tips."
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu7fit/fable_52_worst_at_ui": {
+  "published": "2026-11-12T11:11:24+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "I just found Fable 5.2 worst at UI design than Opus...same skills, same context etc... How is it possible?? submitted by /u/Relative-Algae-9579 [link] [comments]",
+  "title": "Fable 5.2 worst at UI?"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu7nwj/getting_my_teammates_to_review_claude_codes_plan": {
+  "published": "2026-11-12T11:11:24+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "For a while the plan for a change lived only in my Claude Code chat. My teammates saw the work for the first time as a pull request, and that is where we found out we disagreed about the approach. By then the code existed and every comment meant rework. What helped was moving the team's review to the plan. Before any code, the agent asks me clarifying questions with a recommended answer for each, until done is a short numbered list. That goes into a plan document in the repo, and a teammate can read it and answer open questions from their own agent before the build starts. The build then runs ",
+  "title": "Getting my teammates to review Claude Code's plan instead of its diff"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu7pol/understanding_how_to_better_use_claude": {
+  "published": "2026-11-12T11:11:24+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Hello, I have used claude simply for small things from the web chat, but i would like to attack more demanding projects such as: * Debugging issues in projects that i have the hole source code (as they are opensource) so throw at it a big project and use it to help me trace back bugs and errors. * re implementing codes between different languages * creating small GUI (way less common than the other two points) for this I am thinking on paying the pro version of Claude, but at same time i see a bunch of YT publication of 'codes' to reduce token consumption or make the agents better remember pre",
+  "title": "understanding how to better use Claude"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu81y9/epiq_is_an_issue_tracker_tui_that_grew_into_an": {
+  "published": "2026-11-12T11:11:24+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Since launch this spring, Epiq has gone from a distributed issue tracker TUI into the space of agent memory and control plane, now with a browser GUI. What hasn't changed is the persistence model - state as user-scoped, append-only logs in the repo. This, however, has turned out to be most suitable for agentic workflows, especially in sandboxed environments. \"Sandboxability\", traceability, workflow-replay (there is a timeline with a scrubber) and its lack of need of an external vendor, all seem like favorable traits in this day and age. I'd be happy to hear your input. Put my best effort into ",
+  "title": "Epiq is an issue tracker TUI that grew into an agent memory and control plane"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu82i7/tried_ruflo_claude_flow_in_claude_code_393_tools": {
+  "published": "2026-11-12T11:11:24+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Ruflo, formerly Claude Flow, gets a lot of hype for agent swarms and self-learning memory. I added only its MCP server to a throwaway project (version 3.76.0, pinned, local scope) and tried the headline features. Setup gotcha: the first claude mcp add timed out after 30 seconds, because npx was downloading the whole package (1m 13s on its own). Run npx -y ruflo@3.76.0 --version once first, and after that it connected in about 3 seconds. There was no account or key. Size: /mcp showed 393 tools (the README says 406). In /context , the full list was about 123k–125k tokens , but it sat under the d",
+  "title": "Tried Ruflo (Claude Flow) in Claude Code: 393 tools, memory search works, and “swarm_init” just writes a JSON file"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu8eq7/missing_plans_in_the_directory_windows": {
+  "published": "2026-11-12T11:11:24+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Two months ago, I paused a project and shifted my focus to a new one. When I reopened the old project, Claude Code indicated that certain files were missing from the `.claude/plans` directory—and, in fact, all files in that directory only date back to the end of October. Why did another instance of Claude Code remove these older files? submitted by /u/broot66 [link] [comments]",
+  "title": "Missing plans in the directory /.claude/plans"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu8i2e/fable_52_where_do_you_use_it": {
+  "published": "2026-11-12T11:11:24+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Based on it's price what's is Best use of it? Some ppl calling that it is bad at ui design, or general design. Coding opus is better and cheaper. So where do you use it? Planning? submitted by /u/Wilendar [link] [comments]",
+  "title": "Fable 5.2 where do you use it?"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu91q2/v2_i_made_claude_code_draw_architecture_diagrams": {
+  "published": "2026-11-12T11:11:24+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "Play video on reddit Proschi is a small text language for system design diagrams. You describe components, connections and use cases (how a request moves through the system like a sequence diagram) in a .proschi file. Proschi lays it out, runs simulations (load, latency, availability, cost), and lets you play each use case step by step. Last time I shared the Claude Code plugin that draws these diagrams in the terminal. It drew everything with text characters, which works for a few boxes but falls apart on a real system with 20+ services. So I rebuilt it. The video shows the whole flow: I ask ",
+  "title": "V2: I made Claude Code draw architecture diagrams in the terminal, and play request flows on them, now even better!"
+ },
+ "https://www.reddit.com/r/ClaudeCode/comments/1xu9z26/whats_the_one_rule_that_stopped_claude_code_from": {
+  "published": "2026-11-12T11:11:24+00:00",
+  "since": "2026-11-12",
+  "source": "www.reddit.com",
+  "summary": "mine is: never retry blind. if a step times out, check what actually happened first, because half the time it already went through and a retry does it twice. what's yours? submitted by /u/Objective_Reach_767 [link] [comments]",
+  "title": "What's the one rule that stopped Claude Code from breaking your browser scripts?"
+ },
+ "https://www.salesforce.com/jp/blog/jp-agentforce-ai-sdr-case-study": {
+  "published": "2026-11-12T05:49:14+00:00",
+  "since": "2026-11-12",
+  "source": "www.salesforce.com",
+  "summary": "生成AIのモデルには Claude Codeを 活用 しています。 そこへ、Salesforceに ... 最初は30〜40点の出来から5回の改善で成果につなげたように、AIエージェント 活用 は ...",
+  "title": "【月間アプローチ数2倍】入社4か月の23歳が、AgentforceでインサイドセールスAI社員をつくった"
+ },
+ "https://www.techno-edge.net/article/2026/11/12/5708.html": {
+  "published": "2026-11-12T02:11:01+00:00",
+  "since": "2026-11-12",
+  "source": "www.techno-edge.net",
+  "summary": "... Claude の中にそろったことになります。 Anthropicは発表の中で、 Claude Codeが 開発 者の仕事を「1行ずつ書く」から「アイデアを伝えて結果を確認する」に変え ...",
+  "title": "Claudeに表計算「Sheets」とホワイトボード追加 Anthropicがオフィス系機能を拡充"
+ },
+ "https://www.techno-edge.net/article/img/2026/11/12/5708/35501.html": {
+  "published": "2026-11-12T06:07:33+00:00",
+  "since": "2026-11-12",
+  "source": "www.techno-edge.net",
+  "summary": "... Linuxカーネル 開発 でAIによるバグ修正が効果。トーバルズ氏「潮目が変わり始めている兆候」 ...",
+  "title": "Claudeに表計算「Sheets」とホワイトボード追加 Anthropicがオフィス系機能を拡充 2枚目の写真 ..."
+ },
+ "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1247666.html": {
+  "published": "2026-11-12T05:49:14+00:00",
+  "since": "2026-11-12",
+  "source": "www.the-miyanichi.co.jp",
+  "summary": "... 活用 普及協会 ／ 一般社団法人 金融データ 活用 推進協会 ／ 一般社団法人 ... Claude活用 支援、LLM、AI-OCR、議事録作成AI、プロンプトエンジニアリング ...",
+  "title": "【AI博覧会 Osaka 2027】マイドームおおさかにて2027年1月20日・1月21日に開催 ... - 宮崎日日新聞"
+ },
+ "https://www.tsuhannews.jp/news/detail/76091": {
+  "published": "2026-11-12T03:45:13+00:00",
+  "since": "2026-11-12",
+  "source": "www.tsuhannews.jp",
+  "summary": "セミナー 一覧. 【11/12_WEB】【ハマ・スマイル社登壇】BtoB ECを“メディア”に ... 研修 会｜1日で、 Claude Codeを自分の手で... 【11/17_WEB】事例で学ぶ ...",
+  "title": "公取、アマゾンジャパンに確約手続…「アマゾンストア」で拘束条件付取引の疑い | 通販通信ECMO"
+ },
+ "https://www.tsuhannews.jp/shopblogs/detail/76087": {
+  "published": "2026-11-12T01:52:31+00:00",
+  "since": "2026-11-12",
+  "source": "www.tsuhannews.jp",
+  "summary": "【11/17_WEB】【EC× Claude 実践道場 Vol.04】3ヶ月前の Claude活用 はもう古い？ 最新アッ... 一覧はこちら. 導入事例一覧. 都度最適な提案をいただだき、リード ...",
+  "title": "ECプラットフォーム「メルカート」にゼウスのクレカ決済が対応 | 通販通信ECMO"
+ },
+ "https://www.vietnam.vn/ja/anthropic-mo-rong-claude-thanh-bo-cong-cu-van-phong-ai": {
+  "published": "2026-11-12T08:43:00+00:00",
+  "since": "2026-11-12",
+  "source": "www.vietnam.vn",
+  "summary": "（GLO）- Anthropicは、スプレッドシート作成、オンライン会議サポート、アイデア整理など、一連の新機能を Claude に追加しました。これは、人工知能（AI）を ...",
+  "title": "Anthropic社は、ClaudeをAIオフィススイートへと拡張する。 - Vietnam.vn"
+ },
+ "https://www.vietnam.vn/ja/khach-hang-tra-phi-can-kiet-tai-nguyen-ai-anthropic-khan-cap-tang-quyen-khoi-phuc-han-muc": {
+  "published": "2026-11-12T10:58:10+00:00",
+  "since": "2026-11-12",
+  "source": "www.vietnam.vn",
+  "summary": "システム の機能を完全に復旧させ、技術的なエラーを認識してください。 ベトナム時間11月11日午前、 Claude開発 チームの公式アカウントは、データ制限の無料 ...",
+  "title": "顧客がAIリソースを使い果たした場合、Anthropicは緊急に顧客にその制限を回復する権利を付与し ..."
+ },
+ "https://www.youtube.com/watch?v=A_x2aT-mhf8": {
+  "published": "2026-11-12T02:47:43+00:00",
+  "since": "2026-11-12",
+  "source": "www.youtube.com",
+  "summary": "Anthropicが11月9日(米国時間)、 Claude の最上位モデル「 Claude Fable 5.2」を発表しました。ただ、同社のおすすめは「大半の仕事はまず標準のOpus 5.5、作業 ...",
+  "title": "いちばん賢いAI、毎回はいらないのだ。作った会社も「まず標準」【ずんだ先生のAI教室】 #ai ..."
+ },
+ "https://www.zaikei.co.jp/article/20261111/877067.html": {
+  "published": "2026-11-12T01:48:16+00:00",
+  "since": "2026-11-12",
+  "source": "www.zaikei.co.jp",
+  "summary": "アンソロピックは、既存の47補題などを与えた1000の Claude Fable 5.2エージェントが、フェルマーの最終定理を28.7時間で形式化したと報告した。",
+  "title": "Claude Fable 5.2、フェルマーの最終定理を約30時間で形式化―1000エージェントの協調実験"
+ },
+ "https://xtrend.nikkei.com/atcl/contents/18/01507/00012": {
+  "published": "2026-11-12T03:45:13+00:00",
+  "since": "2026-11-12",
+  "source": "xtrend.nikkei.com",
+  "summary": "第4回: 対 Claude でMetaが本気 “無料エージェントAI”が小型アクセサリー化 ... オンライン セミナー 「日経BP 10大徹底予測！2027」の詳細はこちら. 今後の ...",
+  "title": "【日経トレンディヒット予測15～18位】「マチアプ疲れ」解消“AI仲人”"
+ },
+ "https://yoshiken31.github.io/claude-rss-curation?run=2026-11-12T1026": {
+  "published": "2026-11-12T01:46:22+00:00",
+  "since": "2026-11-12",
+  "source": "yoshiken31.github.io",
+  "summary": "Gemini選別の実行結果です。 取得件数：300件 処理済み件数：215件 新規件数：85件 取得上限：300件 スキップ件数（古い未処理記事）：0件 保留から判定した件数：30件 残っている保留件数：0件",
+  "title": "【完了報告】2026.11.12 10:26 新規85件、チェック109件、通過37件、リクエスト56回"
+ },
+ "https://youtu.be/DsBMgnOrvZw?si=e0OtLVkHW-fezG6l": {
+  "published": "2026-11-12T02:47:43+00:00",
+  "since": "2026-11-12",
+  "source": "youtu.be",
+  "summary": "... Claude (Anthropic) 最後まで見ていただきありがとうございます！ よかったら高評価・チャンネル登録お願いします ―――――――――― [English] Looking back on ...",
+  "title": "EXPO 2025 思い出ダイジェスト(2025.6.8)｜大阪・関西万博Vlog - YouTube"
+ },
+ "https://zenn.dev/aicoding_guide/articles/acg-claude-code-slash-commands": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": "Claude Code のスラッシュコマンドは、公式の一覧に 110 件以上あります。全部覚える必要はありません。実際に毎日触るのは 6 つ程度で、残りは「困ったときに引く」ものです。この記事では、公式ドキュメントの一覧を使用頻度の順に組み替えて、それぞれの意味と使いどころを整理します。 最初に 1 つ、つまずきやすい点があります。組み込みコマンドの一覧ページは移動しています。 要点 この記事で分かること 公式の一覧がどこにあり、表の <arg> と [arg] をどう読むのか 毎日のセッションで実際に使う 6 つのコマンドと、その引数 Skill・Workflow の印...",
+  "title": "Claude Code のスラッシュコマンド一覧をよく使う順に意味と使いどころつきで解説"
+ },
+ "https://zenn.dev/aidealy/articles/52014cb895ccde": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": "! AIがコードの多くを書くようになったら、開発生産性はペアで測ります。 量や速さを示す数字を、仕事の質の低下を示す数字と組み合わせます。 各ペアは、推測ではなくAIツール自身の記録で、AI支援の作業とそれ以外に分けて示してください。 ※この記事は、英語で書いた記事（英語版）を、引用も含めてAIの助けを借りて日本語にしたものです。 不自然な日本語があれば、コメントで教えてください。 Aidealyの創業者、Oren Keinanです。 今はAIがコードの多くを書き、コミット数のような指標は3倍に増えることがあります。 ところが、チームがリリースするソフトウェアの量は、それに比べてずっと...",
+  "title": "Claude CodeとCursorの時代に、開発生産性の数字はペアで読む"
+ },
+ "https://zenn.dev/correlate_dev/articles/mcp-fastapi-api-claude-code": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": "「Claude Codeが賢いのはわかった。でも、自分のローカルDBは参照できないし、社内ツールには繋がらない。」── MCP（Model Context Protocol）はその壁を壊すプロトコルです。FastAPIを使えば、Pythonだけで自分専用のツールサーバーを立てられます。この記事では、概念説明を最小限に抑え、 実際に動かすことを最優先 に全工程を解説する。 そもそもMCPとは？── 30秒で理解するプロトコルの本質 Claude CodeとMCPの関係 MCPのアーキテクチャはシンプルです。 Claude Code（MCP Client） ↕ JSON-RP...",
+  "title": "FastAPIでMCPサーバーをゼロから作る──Claude Codeに自分だけのツールを繋ぐ実践ガイド"
+ },
+ "https://zenn.dev/crossclub_lab/articles/ai-company-ops-kit-free": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": "Claude Code に事業の運営をさせるために使っている設定ファイルのうち、役割 3 つ・タスクの板・運営者カード・採点表を、この記事に全部載せます。コピーして { } の所を埋めれば動きます。 ! この記事で手に入るもの 役割の定義 3 本（ceo・researcher・qa-compliance）の全文 板（board）の最小構成。タスクの項目と 1 日の回し方 運営者カードの型。「やってはいけないこと」の書き方つき 採点表 J1〜J9 の一般版 30 分で自分の事業に合わせる導入手順 先に正直なこと 筆者は、自分の複数の事業を、この構成で動かしています。役割は全部で...",
+  "title": "事業の運営を Claude Code に任せる設定ファイルを無料で全部載せる（役割3本・板・採点表）"
+ },
+ "https://zenn.dev/happy_elements/articles/201519107f93de": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": "2026 年 10 月 22 日、Anthropic の claude.com ブログに「Building agents: When to fold subagents into your main agent loop」が公開されました。サブエージェントに分けて組んだエージェントを、メインのエージェントループに取り込み、Skills（必要になったときに読み込む手順や知識のまとまり）とツールを持たせた 1 つのループへ戻す（ブログの言葉では fold）ときの判断基準と手順をまとめた記事です。 https://claude.com/blog/building-agents-when-to-...",
+  "title": "Skills を持つ単一エージェントは、サブエージェント構成より品質で上回ることが多い — Anthropic が示す移行の手順"
+ },
+ "https://zenn.dev/jinchouge_mj/articles/803b3e4d0207b7": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": "点棒一本、一万円。 そういうレートの裏麻雀に、普通の大学生が巻き込まれていくゲームを作った。『―裏麻雀譚― 沈丁花』という。ブラウザで無料、全 8 章、声つき、3D の卓、人間どうしの段位戦まである。 作ったのは、ほとんど AI だ。Claude Code というやつで、コードも台本も声も BGM も、だいたいこいつがやった。10 月 27 日に始めて、今日、11 月 12 日で 17 日目になる。 じゃあ俺は何をしていたのか。気になったので、こいつとのチャットを全部掘り返して、自分の発言を数えてみた。 427 件あった。 いちばん多かったのは「ど」だ。 「どう？進んでる？」の「ど」で...",
+  "title": "AIと裏麻雀ゲームを作った17日間、俺は「ど」しか言っていない"
+ },
+ "https://zenn.dev/kirinukiauto/articles/f898809edff936": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": "切り抜き動画づくりと、その周りの作業を Claude Code に任せています。私はプログラムを書けないので、コードは読んでいません。 止まらないように、Claude Code の予約の機能（決まった時刻に、決まった頼みを自分に送る機能）で見回りを入れています。毎時17分と47分の見回りと、毎時8分と38分の見張り合いです。 ある晩、この予約が21時7分から翌朝6時50分まで、1回も動きませんでした。約9時間40分です。 最初に出てきた見立ては外れていた 同じパソコンで、別の作業をしている Claude Code が他に2つ動いています。朝、その2つから「予約の文の頭が【で始まってい...",
+  "title": "Claude Codeの予約が一晩じゅう1回も動かなかった：承認の画面で会話ごと止まっていた"
+ },
+ "https://zenn.dev/mediiiiium/articles/monban-bitwarden-secrets-gatekeeper": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": "Claude Code や Codex に API キーを使わせたいけど、Bitwarden Secrets Manager のアクセストークンは渡したくない。そこで、Mac の中に別ユーザーで動く小さなデーモン monban（門番）を書きました。エージェントは monban run で門番に頼むだけで、アクセストークンは門番しか持ちません。 経緯と、やってみての感想は note に書きました。 https://note.com/mediiiiium/n/n06c0ab8fd207 この記事では、門番の作りと、「エージェントから見えない」をどう確かめたかを書きます。コードは公開しています...",
+  "title": "AI エージェントにアクセストークンを見せずに、Bitwarden Secrets Manager を使わせる門番を Go で書いた"
+ },
+ "https://zenn.dev/murooka_az/articles/claude-reply-switches-to-english": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": "はじめに この記事のきっかけは、Claude Code の返事が突然英語になる、という 1 つの困りごとでした。改善の方法としてたどり着いたのは、してほしいことを頼むことでも、してほしくないことを禁止することでもなく、「していい範囲」を決めるというものでした。 この方法は、今回取り上げた「返事が英語になる」問題だけでなく、AI が望まない動作をするほかの場面にも使えるのではないか。そう考えています。Anthropic の公式のプロンプトの手引き（Prompting best practices）も、「してはいけないこと」ではなく「すること」を伝えるようすすめています。「していい範囲」...",
+  "title": "AIの望まない動作を減らしたのは、禁止でも依頼でもなく「していい範囲」を決める1文だった。Claude Codeの返事が英語になる問題で検証"
+ },
+ "https://zenn.dev/neuralalpha/articles/subagent-staff-levels": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": "はじめに Claude Code にサブエージェントやセッションを任せていると、早い段階で次の二つのどちらか、あるいは両方にぶつかります。 何でも聞いてくる。「このファイルを更新してよいですか」「タイトルを直してよいですか」に毎回答えているうちに、自分が窓口のままになる やりすぎる。下書きを頼んだだけなのに、公開中のページまで書き換えていた 原因は同じです。どの操作が「いつもの仕事」で、どれが「本人が決めること」なのかを、エージェントが知らないことです。この記事では、操作を L0〜L3 の4つの段に分け、さらに「確認待ちで止まりすぎる」ときに足す事後報告の段（L2+）を加える考え...",
+  "title": "Claude Code のサブエージェントを「社員」にする：確認待ちで止まらない任せ方の段階"
+ },
+ "https://zenn.dev/numarn/articles/skill-subagent-memory-conflict-handson": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": "Claude Code には、「このプロジェクトではこう答えてほしい」という決まりごとをAIに持たせる置き場所が、少なくとも3つあります。 CLAUDE.md(メモリ): 作業フォルダに置いておくと、AIが毎回いちばん最初に読む引き継ぎメモ。 Skill(スキル): .claude/skills/<名前>/SKILL.md という形で置く、必要になったときだけ開かれる手順書。 サブエージェント定義: .claude/agents/<名前>.md という形で置く、別働隊のAIに渡す持ち場の説明書。 3つとも「AIにこう振る舞ってほしい」を書く場所なので、全...",
+  "title": "同じ指示をSkill・CLAUDE.md・サブエージェントの3か所に置いたら、サブエージェントは5回とも呼ばれなかった"
+ },
+ "https://zenn.dev/ojisan_ai_lab/articles/claude-code-cp-mv-deny-20261112": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": ".env のような触られたくないファイルを、settings の deny 規則に書いて守っている人は多いと思います。おじさんも、名前を書いておけば Claude Code はそこに書かない、と思っていました。 前回の許可まわりの記事（Claude Codeは作業フォルダの外を書き換える？ 新設定1行で、4つのモードとも Write は止まりました）では、ファイルを書く道具を止める設定を入れても、Bash の echo > からは外に書けました。ファイルの道具と Bash は別の道、という話です。 その Bash の側について、11月10日の v2.1.321 に修正が入りました。...",
+  "title": "Claude Codeで deny した .env に cp で書ける？ 2.1.319は書き方次第で通り、2.1.321で止まりました"
+ },
+ "https://zenn.dev/okzaq/articles/claude-fable52-lowpoly-3d-asset": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": "スマホ向けのゲームの3D素材を、2026年11月9日に出た Claude Fable 5.2 にコードで組ませ、Opus 5.5 と並べて比べました。 結論から書くと、私が見た限り全題材で Fable 5.2 の方が良かったです。ただし同じ Opus 5.5 も前回より良くなっていて、差の一部は条件によるものでした。 費用は、見込みで Fable 5.2 が Opus 5.5 の約1.7倍です。 この記事で分かること 文章の指示だけで3Dを作らせ、Opus 5.5 と Fable 5.2 を同じ条件で並べた結果（直し・三角形・時間の表と、題材ごとの絵） 差の一部が、モデルではなく条...",
+  "title": "Fable 5.2 にローポリの3D素材を組ませて Opus 5.5 と並べた。見本の絵から組む実験も"
+ },
+ "https://zenn.dev/pepe_3_go/articles/pptx-createvideo-audio-drift": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": "🎯 結論 mp3 や wav の音声を埋め込んだ PowerPoint を「ビデオの作成」で mp4 にすると、音が 1 枚ごとに少しずつ短く書かれる。 そのぶん音が絵より先に進み、ずれはスライドの枚数に比例して積もる。 埋め込んだ音声 5 秒スライド 20 枚でのずれ ❌ mp3 24kHz 約 −960ms ❌ mp3／wav 44.1kHz 約 −395ms ✅ m4a（AAC）44.1kHz 0ms 対策は、音声を m4a にしてから入れることだけだった。ただし、AAC なら何でも良いわけではない。 Audition や Media Encode...",
+  "title": "PowerPointの動画書き出しで音とアニメがずれていく犯人は、30.30fpsではなく音声の形式だった"
+ },
+ "https://zenn.dev/sadnorth_blog/articles/7ee28d57e407f4": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": "AI にアプリを作ってもらうとき、いちばん困るのは「決めていなかったこと」を AI が黙って決めてしまうことです。 自分は技術者ではなく、AI と一緒にアプリを作っています。そのために、作る前の決めごとを整理する道具 Baton を作りました。仕様書を自分で書くのではなく、出てきた問いに答えるだけで、作る AI（Claude Code など）に渡す指示書ができます。 この記事では、Baton が「選ぶだけ」をどうやって成り立たせているかを書きます。 Baton: https://usekokoro.com/kokoro-baton 先に、Baton がやっていること 作りたいものを...",
+  "title": "仕様書を書かずに、選ぶだけで AI への指示書を作る ― Baton の仕組み"
+ },
+ "https://zenn.dev/shoyomayabot/articles/context-engineering-intro": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": "「AIに資料を渡しすぎると、大事な情報を見落とす」。最近よく聞く話です。 実際、2023年の論文「Lost in the Middle」は、長い資料の真ん中に置いた情報をAIが見落としやすいことを示しました。2025年の研究でも、資料が長くなるだけで、GPT-4o の正答率が99.3%から69.7%に下がった例が報告されています。 では、2026年の今のAIでも同じことが起きるのでしょうか。業務でよくある「設計書は古いままで、変更は議事録にだけ書いてある」という状況を再現して、72回試してみました。 結果は、72回すべて正解でした。資料の先頭・真ん中・末尾のどこに答えを置いても、約7万字...",
+  "title": "「AIに資料を全部渡すと間違える」は本当か？最新AIで72回試したら全問正解、それでも資料を絞るべき理由"
+ },
+ "https://zenn.dev/tsugu_sukima/articles/726d83a472f5e1": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": "この記事でやること Claude Code に「ここを直して」と頼むと、元のファイルがそのまま書き換えられることがあります。前の版に戻したくなったとき、元の文が残っていないと困ります。 この記事では、CLAUDE.md に5行の「保存の決まり」を書いて、次の3つを Claude Code に守らせます。 作ったファイルは番号つきの名前で保存する 直すときは、元のファイルを残して、番号を進めた新しいファイルにする 同じ名前のファイルがあれば、保存せずに止まって知らせる 使うのは CLAUDE.md 1つだけです。サブエージェント（役割を決めた別のアシスタント）は作りません。5分ほど...",
+  "title": "Claude Codeに既存のファイルを上書きさせない：CLAUDE.mdに書く「保存の決まり」5行"
+ },
+ "https://zenn.dev/tw93/articles/f663abd371d59b": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": "こんにちは、Tw93です。Mac用の掃除アプリMoleを一人で作っています。以前Zennに出したのはプロダクトの経緯の話でした。今回は技術寄りに、1.16以降で入れたAI cleanupと開発者キャッシュ整理の設計を書きます。 なぜ「全部消す」ではダメか Claude Code、Codex、Cursorといったツールは、使えば使うほどセッション、worktree、インデックス、独自ランタイムを残します。あるユーザーのopencode.dbは単体で62GBまで膨らんでいました。一方で、セッション履歴は仕事の証拠でもあるので、掃除ツールが黙って消すと事故になります。 なのでMoleのAI...",
+  "title": "MacでAIコーディングツールのキャッシュを安全に片付ける"
+ },
+ "https://zenn.dev/vteacher/articles/845331d92d610f": {
+  "published": "2026-11-12T05:19:04+00:00",
+  "since": "2026-11-12",
+  "source": "zenn.dev",
+  "summary": "Claude認定資格 CCAF対策｜オリジナル練習問題(日英併記)と解説【実践編1】 はじめに Claude Certified Architect – Foundations（CCAF／公式試験コード：CCAR-F）の資格取得を目指して勉強しています。 前回の「基礎編1」では、AIエージェント、MCP、コンテキスト管理、Claude Codeなどの基本概念を、オリジナル練習問題10問で確認しました。 https://zenn.dev/vteacher/articles/f63f89a30b9b54 今回は実践編1として、実務に近いシナリオをもとに、アーキテクチャ上の判断や設計の...",
+  "title": "Claude認定資格 CCAF対策｜オリジナル練習問題(日英併記)と解説【実践編1】"
+ }
+}
