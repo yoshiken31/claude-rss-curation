@@ -5,7 +5,15 @@
     <link>https://yoshiken31.github.io/claude-rss-curation/</link>
     <description>Inoreaderの記事をGeminiで選別し、コメントを付けたフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 17:38:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:38:51 +0000</lastBuildDate>
+    <item>
+      <title>【完了報告】2026.11.14 02:38　新規267件、チェック347件、通過0件、リクエスト100回</title>
+      <link>https://yoshiken31.github.io/claude-rss-curation/?run=2026-11-14T0238</link>
+      <guid isPermaLink="true">https://yoshiken31.github.io/claude-rss-curation/#report-20261113T173851Z</guid>
+      <pubDate>Fri, 13 Nov 2026 17:39:51 +0000</pubDate>
+      <category>完了報告</category>
+      <description>&lt;p&gt;Gemini選別の実行結果です。&lt;/p&gt;&lt;p&gt;取得件数：300件&lt;/p&gt;&lt;p&gt;処理済み件数：17件&lt;/p&gt;&lt;p&gt;新規件数：267件&lt;/p&gt;&lt;p&gt;取得上限：300件&lt;/p&gt;&lt;p&gt;スキップ件数（古い未処理記事）：16件&lt;/p&gt;&lt;p&gt;保留から判定した件数：87件&lt;/p&gt;&lt;p&gt;残っている保留件数：44件&lt;/p&gt;</description>
+    </item>
     <item>
       <title>【完了報告】2026.11.13 02:38　新規227件、チェック172件、通過0件、リクエスト7回</title>
       <link>https://yoshiken31.github.io/claude-rss-curation/?run=2026-11-13T0238</link>
