@@ -89,5 +89,13 @@
     "accepted": 43,
     "calls": 69,
     "aborted": false
+  },
+  {
+    "date": "2026-11-15",
+    "input": 130,
+    "accepted": 31,
+    "calls": 52,
+    "retries": 1,
+    "aborted": false
   }
 ]

@@ -1,1 +1,9 @@
-{}
+{
+ "https://www.reddit.com/r/ClaudeAI/comments/1xvyy70/i_built_an_explorable_drop_of_pond_water_with": {
+  "published": "2026-11-14T13:42:55+00:00",
+  "since": "2026-11-14",
+  "source": "www.reddit.com",
+  "summary": "Play video on reddit I wanted to see if Claude could build something like the microscope footage from Journey to the Microcosmos youtube channel, but as a 3D scene you can fly around in. This is the result: https://felipereigosa.com/microcosmos.html Full video here: https://www.youtube.com/watch?v=PqeAH68DkbU Code and the full conversations: https://github.com/felipereigosa/microcosmos Desktop: drag to orbit, scroll to zoom, click an organism to follow it, Esc to let go, Space to pause. VR (Quest): left stick flies, right stick turns and zooms, trigger picks what you point at. What's in it: a ",
+  "title": "I built an explorable drop of pond water with Claude Fable 5.2 in two days (browser + VR, all procedural)"
+ }
+}
