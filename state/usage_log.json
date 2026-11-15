@@ -92,10 +92,10 @@
   },
   {
     "date": "2026-11-15",
-    "input": 130,
-    "accepted": 31,
-    "calls": 52,
-    "retries": 1,
+    "input": 85,
+    "accepted": 24,
+    "calls": 40,
+    "retries": 0,
     "aborted": false
   }
 ]
