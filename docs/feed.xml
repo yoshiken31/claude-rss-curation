@@ -5,7 +5,71 @@
     <link>https://yoshiken31.github.io/claude-rss-curation/</link>
     <description>Inoreaderの記事をGeminiで選別し、コメントを付けたフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 17:38:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 01:27:04 +0000</lastBuildDate>
+    <item>
+      <title>【完了報告】2026.11.20 10:27　新規45件、チェック36件、通過7件、リクエスト11回</title>
+      <link>https://yoshiken31.github.io/claude-rss-curation/?run=2026-11-20T1027</link>
+      <guid isPermaLink="true">https://yoshiken31.github.io/claude-rss-curation/#report-20261120T012704Z</guid>
+      <pubDate>Fri, 20 Nov 2026 01:28:04 +0000</pubDate>
+      <category>完了報告</category>
+      <description>&lt;p&gt;Gemini選別の実行結果です。&lt;/p&gt;&lt;p&gt;実行状態：正常終了&lt;/p&gt;&lt;p&gt;Gemini再試行回数（上限に数えない）：0回&lt;/p&gt;&lt;p&gt;取得件数：300件&lt;/p&gt;&lt;p&gt;処理済み件数：255件&lt;/p&gt;&lt;p&gt;新規件数：45件&lt;/p&gt;&lt;p&gt;取得上限：300件&lt;/p&gt;&lt;p&gt;スキップ件数（古い未処理記事）：0件&lt;/p&gt;&lt;p&gt;保留から判定した件数：0件&lt;/p&gt;&lt;p&gt;残っている保留件数：0件&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🪙📱 ClaudeCodeのCodeModeを1日ぶん回した結果</title>
+      <link>https://qiita.com/tanaka_taro_JP_KYUSYU/items/9f3062ea5efcbbf6d71f?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/tanaka_taro_JP_KYUSYU/items/9f3062ea5efcbbf6d71f?via=curation</guid>
+      <pubDate>Fri, 20 Nov 2026 01:27:04 +0000</pubDate>
+      <category>トークン節約／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude CodeのCodeMode有効化によるトークン消費量や費用削減の検証データがわかり、AIを活用したアプリ開発やコスト管理の場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: トークン節約・アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに Claude Code の実験機能 Code Mode を1日使ってみました。トークン消費・開発スピード・安全性がどう変わったかを、ローカルのセッションログ（jsonl）から集計しています。 公式ドキュメント： Code Mode（日本語） Code Mod...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝⚙️ タスク粒度を「人間がレビューできる単位」に割る — AIエージェント並列運用でコンフリクトを減らす分解法</title>
+      <link>https://qiita.com/joinclass/items/46cee48141a9254dec50?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/joinclass/items/46cee48141a9254dec50?via=curation</guid>
+      <pubDate>Fri, 20 Nov 2026 01:27:04 +0000</pubDate>
+      <category>MDファイル運用／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; AIエージェントの並列運用におけるタスク分解の基準や、Markdownの表をキューとして使うPythonスクリプトが分かり、マルチエージェント開発の自動化に活用できます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに：AIを並列で走らせたら、壊れたのは「粒度」だった 当社（合同会社ジョインクラス、社員はCEO 1人）では、開発・出版・マーケなど複数部署のClaude Codeエージェントをlaunchdで動かしています。最初は「毎分起動・全部署が常時稼働」でした。仕事は進むの...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Claude Code で "Raw mode is not supported on the current process.stdin" が出たときの直し方(パイプ・CI では claude -p)</title>
+      <link>https://qiita.com/homhom44/items/69c886d6a34b3346b82f?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/homhom44/items/69c886d6a34b3346b82f?via=curation</guid>
+      <pubDate>Fri, 20 Nov 2026 01:27:04 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude CodeをパイプやCIから呼び出す際に発生するエラーの原因と、-pオプションを使った具体的な対処法がわかり、自動化スクリプトの構築時に使えます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;パイプ、CI、スクリプトから claude を呼んだときに Raw mode is not supported on the current process.stdin と出て止まる場合の対処です。原因は、対話用の画面(UI)を起動しようとしたのに、標準入力がキーボードにつ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ 19 日間、手元でしか動いていなかった ── GASマネージャーのお詫びと、ダウンロードした人の順で通し直した話</title>
+      <link>https://qiita.com/shu15511551/items/8ce45dc2e76be21c2940?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/shu15511551/items/8ce45dc2e76be21c2940?via=curation</guid>
+      <pubDate>Fri, 20 Nov 2026 01:27:04 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; MCPサーバーのバージョン競合による起動不良の原因と、Node.js不要のGASログイン手順やテンプレート版の導入手順がわかる。GASを用いた業務自動化やClaude Codeのツール開発時に活用できる。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに ―― まず、お詫びです 11 月 1 日に GitHub で公開した「秀GASマネージャー」の MCP サーバーが、公開したその日から、新しく入れた方の手元では起動していませんでした。 ダウンロードして試してくださった方、記事を読んで入れてくださった方、本...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝📱 スライドのスキル5つに同じ原稿を渡したら、角丸の箱が0個から100個に分かれた</title>
+      <link>https://qiita.com/Nekorock/items/f7a62fe85e2bd07bd8ae?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/Nekorock/items/f7a62fe85e2bd07bd8ae?via=curation</guid>
+      <pubDate>Fri, 20 Nov 2026 01:27:04 +0000</pubDate>
+      <category>MDファイル運用／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; 5つのスライド生成スキルに同じ原稿を渡して文字数や箱の数を比較した検証と、自作スキル改善の手順がわかり、スライド作成スキルの設計や導入時に使えます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;同じ原稿・同じ依頼文・同じ答えで、スライドを作るスキル 5 つにデッキを作らせ、1 枚あたりの文字数と「角丸か影の付いた箱」の数を数えました。箱は 0 個のスキルが 3 つ、19 個が 1 つ、100 個が 1 つでした。「話しながら見せる」と答えたのに、1 枚の文字数の中...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝🪙 2026-11-19 の公式ドキュメント更新：分類器の判定材料、フックの入力書き換え、サブエージェントの圧縮設定</title>
+      <link>https://qiita.com/akihidem/items/ccd55bfec051300fae15?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/akihidem/items/ccd55bfec051300fae15?via=curation</guid>
+      <pubDate>Fri, 20 Nov 2026 01:27:04 +0000</pubDate>
+      <category>MDファイル運用／トークン節約</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの公式ドキュメント更新における、サブエージェントの自動圧縮ウィンドウ（autoCompactWindow）の設定方法やフックの仕様変更がわかり、運用時のトラブルシューティングに使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用・トークン節約 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;この日の追加は、Claude Code が許可・拒否・圧縮といった判断を「何を材料に、どの順序で行うか」の説明の補足に集まっています。自動モードの分類器、フックの updatedInput、サブエージェントの自動圧縮ウィンドウ、テレメトリのホスト情報が主な対象です。10 ペ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝🪙 CLAUDE.md を組織とチームで運用する：層の責務分担と、起動時ロード量を CI で見張る方法</title>
+      <link>https://qiita.com/akihidem/items/2f3c378f62fa24f9962d?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/akihidem/items/2f3c378f62fa24f9962d?via=curation</guid>
+      <pubDate>Fri, 20 Nov 2026 01:27:04 +0000</pubDate>
+      <category>MDファイル運用／トークン節約</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; CLAUDE.mdの階層構造や起動時ロード量の上限値、CIによる監視手法がわかり、複数リポジトリでMDファイルを運用する際に活用できます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・トークン節約 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;CLAUDE.md は誰でも追記できます。その一方で、消す責任者が決まっていないことが多いファイルです。レビューで指摘されるたびに 1 行足され、似た規則が別の言い方で重なり、組織の注意書きが全リポジトリに貼られていきます。本稿では、2026-11-19 時点の公式 doc...&lt;/p&gt;</description>
+    </item>
     <item>
       <title>【完了報告】2026.11.20 02:38　新規188件、チェック138件、通過46件、リクエスト61回（再試行15回）</title>
       <link>https://yoshiken31.github.io/claude-rss-curation/?run=2026-11-20T0238</link>
