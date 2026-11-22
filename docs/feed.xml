@@ -5,7 +5,103 @@
     <link>https://yoshiken31.github.io/claude-rss-curation/</link>
     <description>Inoreaderの記事をGeminiで選別し、コメントを付けたフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 17:38:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 01:26:58 +0000</lastBuildDate>
+    <item>
+      <title>【完了報告】2026.11.22 10:26　新規55件、チェック49件、通過11件、リクエスト17回</title>
+      <link>https://yoshiken31.github.io/claude-rss-curation/?run=2026-11-22T1026</link>
+      <guid isPermaLink="true">https://yoshiken31.github.io/claude-rss-curation/#report-20261122T012658Z</guid>
+      <pubDate>Sun, 22 Nov 2026 01:27:58 +0000</pubDate>
+      <category>完了報告</category>
+      <description>&lt;p&gt;Gemini選別の実行結果です。&lt;/p&gt;&lt;p&gt;実行状態：正常終了&lt;/p&gt;&lt;p&gt;Gemini再試行回数（上限に数えない）：0回&lt;/p&gt;&lt;p&gt;取得件数：300件&lt;/p&gt;&lt;p&gt;処理済み件数：245件&lt;/p&gt;&lt;p&gt;新規件数：55件&lt;/p&gt;&lt;p&gt;取得上限：300件&lt;/p&gt;&lt;p&gt;スキップ件数（古い未処理記事）：0件&lt;/p&gt;&lt;p&gt;保留から判定した件数：0件&lt;/p&gt;&lt;p&gt;残っている保留件数：1件&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 worktreeにマウントを切り替えたのに、前のブランチのクラスが動いた！？</title>
+      <link>https://qiita.com/phibi-soon/items/eb49af18ba1918d24aef?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/phibi-soon/items/eb49af18ba1918d24aef?via=curation</guid>
+      <pubDate>Sun, 22 Nov 2026 01:26:58 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Docker環境でgit worktreeのソースをマウントしビルド成果物を分離する設定手法がわかり、Claude Codeを用いた複数ブランチの検証時に使えます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;こんにちは、もんすんです。 Claude Code に git worktree で実装してもらったあと、画面で動かして確かめるとき、みなさんはどうしていますか？ 私は、worktree を消していました。 VSCode で worktree の差分を確認する git ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ アプリとFigmaを画面単位で同期する定番は無かった - 層ごとに正を決め、Figma MCPでブランチに画面案を起こす</title>
+      <link>https://qiita.com/zucky-quest/items/31d18d4e6560b2a29962?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/zucky-quest/items/31d18d4e6560b2a29962?via=curation</guid>
+      <pubDate>Sun, 22 Nov 2026 01:26:58 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Figma MCPを使いAIエージェントに画面案をブランチへ自動生成させる手順と、実行時の保護ロジックが分かり、デザイン運用の自動化に使える。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;TL;DR AI エージェントに、Figma へ新しい画面案を起こさせる仕組みを作りました。あわせて、Figma とアプリの見た目が食い違っていくのを防ぐ方法を調べました 調べた結論は、アプリと Figma を画面単位で同期し続ける定番の方法は無い、です。そこで、層ごと...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ rex0220 項目書式プラグイン - AI(Claude Code)に書式の設定を作らせる</title>
+      <link>https://qiita.com/rex0220/items/1a3781a99c7c66bae3b3?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/rex0220/items/1a3781a99c7c66bae3b3?via=curation</guid>
+      <pubDate>Sun, 22 Nov 2026 01:26:58 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude CodeとMCPを活用し、kintoneの条件付き書式設定を自動生成・検証する手順が具体的にわかる。業務システムのカスタマイズや設定自動化の場面でそのまま使える。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;「rex0220 項目書式プラグイン」の設定を、AI に頼んで作ってもらう方法を紹介します。 「期限切れは赤、3 日以内は黄色、完了なら色を付けない」 こう頼むと、AI が kintone の項目定義を調べ、条件の式と書式を作り、実際のレコードを当てて、どのレコードにどの書...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。</title>
+      <link>https://qiita.com/yamac_tech/items/2f1d598288990c381f2d?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/yamac_tech/items/2f1d598288990c381f2d?via=curation</guid>
+      <pubDate>Sun, 22 Nov 2026 01:26:58 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Windows環境でのDocker Sandboxesを用いたClaude Codeの隔離実行手順と通信制限の設定方法がわかり、安全な自走環境を構築する場面で使えます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;Claude Codeとか、Codex、使ってますか。もちろん私はがっつり使ってます。Claude Codeに代表されるAI Coding Agentをつかってるとだんだん「毎回確認したり面倒だな～」となってくると思います。今はClaudeではAuto modeがデフォル...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>⚙️📱 Claude Codeの--fallback-modelで無人ジョブを止めない：混雑・利用上限・終了コードの3つの落とし穴と実装</title>
+      <link>https://qiita.com/joinclass/items/080927f3b092b9de46e6?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/joinclass/items/080927f3b092b9de46e6?via=curation</guid>
+      <pubDate>Sun, 22 Nov 2026 01:26:58 +0000</pubDate>
+      <category>DX業務自動化／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの無人ジョブ運用で、フォールバック設定や利用上限対策のシェルスクリプト実装がわかり、定期実行や自動化を行う場面で役立ちます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: DX業務自動化・アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに：朝起きたらジョブが全部落ちていた 当社（合同会社ジョインクラス）は、記事作成・朝のレポート・各部署の作業など30以上のジョブを launchd から claude -p で無人実行しています。 2026年9月、朝のログを見ると複数のジョブが同じ時間帯にまとめて失...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ Claude CodeにMCPで解析ツールを3,355回呼ばせた結果、参照値との差は中央値0.13%・最大8.3%だった</title>
+      <link>https://qiita.com/NovaSolver/items/a4456c4a83b61d2ccb1e?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/NovaSolver/items/a4456c4a83b61d2ccb1e?via=curation</guid>
+      <pubDate>Sun, 22 Nov 2026 01:26:58 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude CodeとMCPを活用して解析ツールを3,355回呼び出し、参照値との差の中央値0.13%を達成した事例であり、AIによる自動化の精度検証を行う場面で参考になる。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;構造・熱・流れ・静電場・電流の解析を、AI（Claude Code）に回させました。参照値と比べた照合は 140 件です。上の GIF は、その差を1件ずつ置いていったものです。 先に結果を書きます。 項目 値 MCP ツールの呼び出し 3,355 回（ログ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝📱 Claude Code の定期実行で「期限が来たら確実に止まる」自律エージェントを作る</title>
+      <link>https://qiita.com/minatoAI00/items/cc2485b65ab50e9661f0?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/minatoAI00/items/cc2485b65ab50e9661f0?via=curation</guid>
+      <pubDate>Sun, 22 Nov 2026 01:26:58 +0000</pubDate>
+      <category>MDファイル運用／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの定期実行とファイルによる記憶の引き継ぎ手順がわかり、無人運用の安全対策に使える。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに Claude Code デスクトップアプリの「定期実行タスク」を使って、1時間ごとに自分で起動し、期限が来たら確実に止まる自律エージェントを作りました。 この記事では、実際に動かしている構成をそのまま紹介します。 毎回記憶がリセットされるエージェントに、作業を...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ Claude Code で "JavaScript heap out of memory" が出て落ちるときの対処(再起動・/compact・--safe-mode・/heapdump)</title>
+      <link>https://qiita.com/homhom44/items/e41dca096fb741f1b3b0?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/homhom44/items/e41dca096fb741f1b3b0?via=curation</guid>
+      <pubDate>Sun, 22 Nov 2026 01:26:58 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeのメモリ不足エラーに対する原因別の具体的な対処手順がわかり、トラブルシューティングの場面で使えます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;Claude Code が作業の途中で突然終了し、端末に FATAL ERROR: Reached heap limit Allocation failed - JavaScript heap out of memory と出たときの手順です。これは Claude Code...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>⚙️ 手元で磨いた GASクイックを GitHub に出しました ── 棚 133 本と、コピペで置けるライブラリ版の話</title>
+      <link>https://qiita.com/shu15511551/items/31720f7154e39924f552?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/shu15511551/items/31720f7154e39924f552?via=curation</guid>
+      <pubDate>Sun, 22 Nov 2026 01:26:58 +0000</pubDate>
+      <category>DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Googleスプレッドシートの操作ツール「GASクイック」をGitHubで公開し、Python不要でGoogle Driveに導入する具体的な手順や、マクロの133本への拡充、一発整形の強化内容がわかる。業務の自動化やスプレッドシートの効率化を行う場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに ―― 前回の記事の続き、そして GitHub 公開のお知らせ 前回の記事で、Google スプレッドシートの操作窓から AI を使わずに棚（決まった手）と自作マクロを一覧から一瞬で撃つ道具「GASクイック」を紹介しました。 あの時点では「まだ手元で磨いてい...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 11/21 の公式ドキュメント更新：サンドボックス・フック・ワークツリーの挙動の明文化</title>
+      <link>https://qiita.com/akihidem/items/b24ae1952e4e38a94f23?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/akihidem/items/b24ae1952e4e38a94f23?via=curation</guid>
+      <pubDate>Sun, 22 Nov 2026 01:26:58 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeのサンドボックスやフック、ワークツリー等の公式ドキュメント更新における挙動の変更点がわかり、セキュアな運用やツール設定の確認に使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;2026-11-21 の追加文は、Claude Code が「失敗したとき」「再開したとき」「同名のものがあったとき」にどう振る舞うかを書き足したものが中心です。サンドボックス、フック、ワークツリー、サブエージェント、スキルの読み込み範囲、ステータスラインの null の扱...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 サブエージェントの frontmatter 仕様整理：ロード規則・ツール制限・権限モード・フックの効き方（2026-11-21 時点）</title>
+      <link>https://qiita.com/akihidem/items/430b027676351ef13624?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/akihidem/items/430b027676351ef13624?via=curation</guid>
+      <pubDate>Sun, 22 Nov 2026 01:26:58 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeのサブエージェントにおけるfrontmatterの仕様や権限・ロード規則がわかり、エージェント定義や権限管理の設計時に使えます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;サブエージェントの定義は、書き方を誤ってもエラーにならず、意図と違う状態で動き続ける場合があります。本稿は公式ドキュメント（取得日 2026-11-21）の記述を、本番運用で判断が分かれる順に整理した仕様メモです。 ロード規則：必須は name と description...&lt;/p&gt;</description>
+    </item>
     <item>
       <title>【完了報告】2026.11.22 02:38　新規141件、チェック119件、通過44件、リクエスト61回（再試行5回）</title>
       <link>https://yoshiken31.github.io/claude-rss-curation/?run=2026-11-22T0238</link>
