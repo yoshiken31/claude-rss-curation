@@ -5,7 +5,71 @@
     <link>https://yoshiken31.github.io/claude-rss-curation/</link>
     <description>Inoreaderの記事をGeminiで選別し、コメントを付けたフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 17:38:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 01:26:50 +0000</lastBuildDate>
+    <item>
+      <title>【完了報告】2026.11.23 10:26　新規25件、チェック21件、通過7件、リクエスト9回</title>
+      <link>https://yoshiken31.github.io/claude-rss-curation/?run=2026-11-23T1026</link>
+      <guid isPermaLink="true">https://yoshiken31.github.io/claude-rss-curation/#report-20261123T012650Z</guid>
+      <pubDate>Mon, 23 Nov 2026 01:27:50 +0000</pubDate>
+      <category>完了報告</category>
+      <description>&lt;p&gt;Gemini選別の実行結果です。&lt;/p&gt;&lt;p&gt;実行状態：正常終了&lt;/p&gt;&lt;p&gt;Gemini再試行回数（上限に数えない）：0回&lt;/p&gt;&lt;p&gt;取得件数：300件&lt;/p&gt;&lt;p&gt;処理済み件数：275件&lt;/p&gt;&lt;p&gt;新規件数：25件&lt;/p&gt;&lt;p&gt;取得上限：300件&lt;/p&gt;&lt;p&gt;スキップ件数（古い未処理記事）：0件&lt;/p&gt;&lt;p&gt;保留から判定した件数：0件&lt;/p&gt;&lt;p&gt;残っている保留件数：0件&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 トレーディング用のマルチエージェントAIリサーチワークフローを構築しました - Moomoo</title>
+      <link>https://www.moomoo.com/ja/community/feed/built-a-multi-agent-ai-research-workflow-for-trading-117660854583302?via=curation</link>
+      <guid isPermaLink="true">https://www.moomoo.com/ja/community/feed/built-a-multi-agent-ai-research-workflow-for-trading-117660854583302?via=curation</guid>
+      <pubDate>Mon, 23 Nov 2026 01:26:50 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; マルチエージェントによるトレーディングリサーチの処理フローとGitHubリポジトリがわかり、金融データを活用したエージェント開発に使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: www.moomoo.com&lt;/p&gt;&lt;p&gt;AIに「Xを買うべき？」と聞いても、ありきたりで一面的な答えしか返ってこないことに疲れ果てたため、 Claude /Codex/Gemini向けにオープンソースの ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ Claude Codeのhooksで：危険な命令は止められる？</title>
+      <link>https://qiita.com/blogjiraiya377/items/c320bb728b6733f153dd?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/blogjiraiya377/items/c320bb728b6733f153dd?via=curation</guid>
+      <pubDate>Mon, 23 Nov 2026 01:26:50 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeのhooksを活用した危険命令の制御と、別AIによる点検で8件の抜け穴を発見した実例がわかり、AIエージェントの安全対策を実装する場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに プログラムが書けない私が、AIの暴走を止める見張り役をAIに作らせて確かめた記録です。 Claude Codeのhooksで見張り役を作る時に、どこでしくじったかが分かります。 作った後に別のAIで点検すると、何が見つかるかが分かります。 何が起きたか はず...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 CLAUDE.md に書いても止まらない：Claude Code のお願いと強制の違いを実行して比べる</title>
+      <link>https://qiita.com/charge0315/items/a97bd8584df044368e02?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/charge0315/items/a97bd8584df044368e02?via=curation</guid>
+      <pubDate>Mon, 23 Nov 2026 01:26:50 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; CLAUDE.md・権限ルール・フックにおけるgit pushの挙動の違いが分かり、Claude Codeの安全対策や権限設定を行う場面で役立ちます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;CLAUDE.md に「git push は、ユーザーに確認を取ってから実行する」と 1 行書きました。 「リモートへの反映まで終わらせて」と頼むと、Claude Code はコミットで止まり、push してよいかを聞き返してきました。3 回とも同じでした。 ところが「急い...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ Claude Codeのセッションを分岐して並行作業する：/fork と --fork-session の手順・落とし穴・検証方法</title>
+      <link>https://qiita.com/joinclass/items/8b30d5453db55388966a?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/joinclass/items/8b30d5453db55388966a?via=curation</guid>
+      <pubDate>Mon, 23 Nov 2026 01:26:50 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeのセッションを/forkや--fork-sessionで分岐して並行作業する手順と、--no-session-persistence使用時の落とし穴対策がわかり、自動化や並行開発の検証で使えます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに 当社（合同会社ジョインクラス）は、社員のいない会社を Claude Code で回しています。launchd のジョブが 30 本ほど毎日 claude -p を呼び、部署ごとの仕事をしています。 僕が対話セッションでいちばん困っていたのは、長いセッションで調べ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ AIの「確認しました」が空振りした5つの形。検査器が動いていなくてもOKは出る</title>
+      <link>https://qiita.com/hc_terashima/items/8028f988e6a83372a013?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/hc_terashima/items/8028f988e6a83372a013?via=curation</guid>
+      <pubDate>Mon, 23 Nov 2026 01:26:50 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; AIエージェントの確認作業における5つの空振りパターンと、検査器に悪い入力を試す具体的な対策がわかるため、AIに自動化を任せる業務やアプリ開発の現場で使えます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;記事の公開前に、画像のメタデータを検査したら「EXIF OK」と出ました。ところが検査に使うツール（exiftool）はこの環境に入っておらず、検査は1枚も見ていませんでした。AIエージェントの「確認しました」は、それだけでは、確認の手段が動いたことも、確かめた範囲が足りて...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Claude Code の VS Code 拡張で "Unhandled case: [object Object]" / "command 'claude-vscode.editor.openLast' not found" / "process exited with code 1" と出たときの直し方</title>
+      <link>https://qiita.com/homhom44/items/daf1298c7795a603466e?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/homhom44/items/daf1298c7795a603466e?via=curation</guid>
+      <pubDate>Mon, 23 Nov 2026 01:26:50 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; VS Code拡張版Claude Codeのエラー発生時の具体的な対処手順と版の切り戻し方法がわかり、開発環境のトラブルシューティングで使えます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;VS Code の Claude Code 拡張で、赤いバナーに Unhandled case: [object Object] と出る、Claude のアイコンを押すと command 'claude-vscode.editor.openLast' not found と...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 11/22 の公式ドキュメント更新：web-fetch サブエージェントを軸にした権限・フック・環境変数の追記</title>
+      <link>https://qiita.com/akihidem/items/97eac4cb7a451c94a60a?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/akihidem/items/97eac4cb7a451c94a60a?via=curation</guid>
+      <pubDate>Mon, 23 Nov 2026 01:26:50 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Code公式ドキュメントの更新内容としてweb-fetchサブエージェントの権限・フック・環境変数の仕様変更がわかり、WebFetchの許可ルール設計やmanaged settingsでのフック設定時に使えます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;2026-11-22 の追加文は、Claude Code が Web ページを読む処理を担う組み込みサブエージェント「web-fetch」を中心にまとまっています。サブエージェント、フック、auto mode の分類器、環境変数の各ページに、この仕組みを前提とした例外や条件...&lt;/p&gt;</description>
+    </item>
     <item>
       <title>【完了報告】2026.11.23 02:38　新規127件、チェック112件、通過41件、リクエスト53回（再試行6回）</title>
       <link>https://yoshiken31.github.io/claude-rss-curation/?run=2026-11-23T0238</link>

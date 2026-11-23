@@ -156,10 +156,10 @@
   },
   {
     "date": "2026-11-23",
-    "input": 112,
-    "accepted": 41,
-    "calls": 53,
-    "retries": 6,
+    "input": 21,
+    "accepted": 7,
+    "calls": 9,
+    "retries": 0,
     "aborted": false
   }
 ]
