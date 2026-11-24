@@ -5,7 +5,15 @@
     <link>https://yoshiken31.github.io/claude-rss-curation/</link>
     <description>Inoreaderの記事をGeminiで選別し、コメントを付けたフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 01:26:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 17:38:51 +0000</lastBuildDate>
+    <item>
+      <title>【完了報告】2026.11.25 02:38　新規207件、チェック163件、通過0件、リクエスト0回（再試行4回）、中断：Gemini障害(HTTP 503)</title>
+      <link>https://yoshiken31.github.io/claude-rss-curation/?run=2026-11-25T0238</link>
+      <guid isPermaLink="true">https://yoshiken31.github.io/claude-rss-curation/#report-20261124T173851Z</guid>
+      <pubDate>Tue, 24 Nov 2026 17:39:51 +0000</pubDate>
+      <category>完了報告</category>
+      <description>&lt;p&gt;Gemini選別の実行結果です。&lt;/p&gt;&lt;p&gt;実行状態：中断（Gemini障害(HTTP 503)）。判定できた分までを保存しました&lt;/p&gt;&lt;p&gt;Gemini再試行回数（上限に数えない）：4回&lt;/p&gt;&lt;p&gt;取得件数：300件&lt;/p&gt;&lt;p&gt;処理済み件数：93件&lt;/p&gt;&lt;p&gt;新規件数：207件&lt;/p&gt;&lt;p&gt;取得上限：300件&lt;/p&gt;&lt;p&gt;スキップ件数（古い未処理記事）：0件&lt;/p&gt;&lt;p&gt;保留から判定した件数：0件&lt;/p&gt;&lt;p&gt;残っている保留件数：163件&lt;/p&gt;</description>
+    </item>
     <item>
       <title>【完了報告】2026.11.24 10:26　新規234件、チェック184件、通過55件、リクエスト75回（再試行26回）、中断：Gemini障害(HTTP 503)</title>
       <link>https://yoshiken31.github.io/claude-rss-curation/?run=2026-11-24T1026</link>
