@@ -164,10 +164,10 @@
   },
   {
     "date": "2026-11-24",
-    "input": 137,
-    "accepted": 0,
-    "calls": 1,
-    "retries": 5,
+    "input": 184,
+    "accepted": 55,
+    "calls": 75,
+    "retries": 26,
     "aborted": true
   }
 ]
