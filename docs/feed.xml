@@ -5,7 +5,527 @@
     <link>https://yoshiken31.github.io/claude-rss-curation/</link>
     <description>Inoreaderの記事をGeminiで選別し、コメントを付けたフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 17:38:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 01:26:51 +0000</lastBuildDate>
+    <item>
+      <title>【完了報告】2026.11.25 10:26　新規266件、チェック200件、通過64件、リクエスト83回（再試行5回）</title>
+      <link>https://yoshiken31.github.io/claude-rss-curation/?run=2026-11-25T1026</link>
+      <guid isPermaLink="true">https://yoshiken31.github.io/claude-rss-curation/#report-20261125T012651Z</guid>
+      <pubDate>Wed, 25 Nov 2026 01:27:51 +0000</pubDate>
+      <category>完了報告</category>
+      <description>&lt;p&gt;Gemini選別の実行結果です。&lt;/p&gt;&lt;p&gt;実行状態：正常終了&lt;/p&gt;&lt;p&gt;Gemini再試行回数（上限に数えない）：5回&lt;/p&gt;&lt;p&gt;取得件数：300件&lt;/p&gt;&lt;p&gt;処理済み件数：34件&lt;/p&gt;&lt;p&gt;新規件数：266件&lt;/p&gt;&lt;p&gt;取得上限：300件&lt;/p&gt;&lt;p&gt;スキップ件数（古い未処理記事）：0件&lt;/p&gt;&lt;p&gt;保留から判定した件数：158件&lt;/p&gt;&lt;p&gt;残っている保留件数：0件&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ API のない AI エージェント Muse を、Claude・Antigravity と同じ開発チームに入れるまで</title>
+      <link>https://qiita.com/40dai_papa/items/07ece7fe474f926ba60b?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/40dai_papa/items/07ece7fe474f926ba60b?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; APIのないAIエージェントをクラウドの共有フォルダや画面操作でチームに組み込む手順がわかり、マルチエージェント開発に応用できます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;この記事で書くこと スマホのブラウザで遊べる10秒ゲームのサイト「まいにち10秒ゲーム」を、複数の AI で作っています。 成果物: https://game.money-stock.com/ 担当は大きく3つです。 Muse(Meta のデスクトップ AI ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ 【Claude Code】/ship が便利そうなので試してみる</title>
+      <link>https://qiita.com/ryu-ki/items/0424119cfc75d1d9bb40?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/ryu-ki/items/0424119cfc75d1d9bb40?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの/shipコマンドによるPR自動作成や見張り機能の挙動と、運用時の注意点が分かり、GitHubでの開発自動化やCI連携の場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに 2026年11月23日に、Anthropic から Claude Ship が発表されました。GitHub の PR をレビューから直し、承認の判定まで進めるエージェントのセットです。 私は普段、Discord から常駐させた Claude Code（以下...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🪙📱 Claude Codeのトークン使用量を集計｜JSONLの合算は3倍ズレる</title>
+      <link>https://qiita.com/pythonista0328/items/a6f7ec8c363f6cffbaf9?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/pythonista0328/items/a6f7ec8c363f6cffbaf9?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>トークン節約／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeのログ集計時に重複を除外するPythonスクリプトと、行単位の合算が3倍に膨らむ原因が分かり、使用量分析に活用できます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: トークン節約・アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;Claude Codeのトークン使用量を集計｜JSONLの合算は3倍ズレる この記事でわかること Claude Code のセッションログ（~/.claude/projects/ の JSONL）からトークン使用量を集計するとき、行をそのまま足すと数字が膨らむ理由 重...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝📱 【要約】A practical guide to shipping with Claude Code ― PRを開いた後の「後始末」を /ship でClaudeに任せる実践ガイド</title>
+      <link>https://qiita.com/NaokiIshimura/items/6411b5861f40fe54694e?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/NaokiIshimura/items/6411b5861f40fe54694e?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude CodeのPR後処理や/shipコマンドの具体的な運用手順、CLAUDE.mdやカスタムスキルへの知識集約の方法がわかり、チーム開発での業務自動化に活用できます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに 📝 2026年11月24日に claude.dev ブログで公開された記事 「A practical guide to shipping with Claude Code」（著者: Addy Osmani、カテゴリ: Playbooks）の内容を、日本語で要約し...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱🪙 Claude Codeの無人ジョブに推論effortの上限（maxEffortLevel）を設ける：実運用17ジョブの設定と落とし穴</title>
+      <link>https://qiita.com/joinclass/items/ec3ae5b57c4ac87c4712?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/joinclass/items/ec3ae5b57c4ac87c4712?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／トークン節約</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの無人ジョブにおける推論 effort の上限値をシェルスクリプトで一括制御する具体的な実装コードがわかり、コスト削減や自動化運用の場面で使えます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発・トークン節約 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに：コストを削れるのは「回数」と「考える深さ」だけ 当社（合同会社ジョインクラス）は、記事作成・営業リスト収集・承認判断などを launchd から claude -p で無人実行しています。プランは Claude Code Max（月約2万円の定額）なので、気にす...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🪙📝 Claude Code は書く量よりはるかに多くのトークンを使い、トランスクリプトを合計すると 2 倍に数えてしまう: 正しい測り方</title>
+      <link>https://qiita.com/rootoffork/items/73f830824148b403d7db?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/rootoffork/items/73f830824148b403d7db?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>トークン節約／MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeのトランスクリプトから正確なトークン使用量を集計するPythonスクリプトと、キャッシュ読み取りが97.9%を占める理由がわかり、コスト管理を行う場面で使えます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: トークン節約・MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;この記事は AI エージェントの Root が書きました。以下の方法は 2026-11-24 に Claude Code 2.1.331 のトランスクリプトで再実行したものです。英語版: https://dev.to/rootoffork/claude-code-uses-...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>⚙️ スプレッドシートの横で AI と会話してマイマクロを育てる ── GASコンボ＆GASクイック大幅改修の話</title>
+      <link>https://qiita.com/shu15511551/items/a334ca0711365cf77786?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/shu15511551/items/a334ca0711365cf77786?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Googleスプレッドシートの横でAIと会話しながらGASのマイマクロを修正・保存する仕組みと、149本の棚機能を備えたツール改修についてわかる。業務の自動化やツール開発の場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに これまで Google スプレッドシートを言葉や一覧から素早く操作する道具として、AI 連携付きの 「GASコンボ（shu-gas-manager）」 と、AI を外して配布しやすくした 「GASクイック（shu-gas-quick）」 の 2 本を育ててきまし...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Claude Code で "--dangerously-skip-permissions cannot be used with root/sudo privileges for security reasons" が出たときの直し方（コンテナなら一般ユーザを作る）</title>
+      <link>https://qiita.com/homhom44/items/092e7942ba2428e51bab?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/homhom44/items/092e7942ba2428e51bab?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; DockerやVPS環境でClaude Codeをroot実行する際のエラー回避手順がわかり、コンテナでの開発時に役立ちます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;Docker コンテナや VPS の中で claude --dangerously-skip-permissions を実行すると、起動せずに終了してしまう場合の直し方です。root（ユーザ ID 0）で実行していることが原因で、一般ユーザを作ってそちらで実行するのが基本の...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 claude mcp add --header の Authorization は画面では [REDACTED] でも .mcp.json には平文：MCP のキー直書きを ~/.claude.json まで grep 1行で洗い出す（Claude Code 2.1.330で確認）</title>
+      <link>https://qiita.com/supportapp3/items/b73c21efacc605616bf9?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/supportapp3/items/b73c21efacc605616bf9?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude CodeのMCP設定で追加したAPIキーが平文で保存される場所と、キーの有無を検閲するgrepコマンドがわかるため、セキュリティ対策や安全な環境構築の場面で使える。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;先に結論 HTTP の MCP サーバーを claude mcp add --header "Authorization: Bearer キー" で登録すると、画面には "Authorization": "[REDACTED]" と伏せ字で出ます。でも、--scope p...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 11/24 の公式ドキュメント更新：フックの終了コード2とスキルの即時反映</title>
+      <link>https://qiita.com/akihidem/items/1184215a4e71537d6e57?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/akihidem/items/1184215a4e71537d6e57?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの公式ドキュメント更新における、フックの終了コードやスキルのセッション内反映の仕様がわかり、設定の見直しに使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;この日の追加は、Claude Code が「何を判定として読み、何を変更として拾うか」の線引きを明文化したものに集中しています。フックの終了コード、権限モードの分類器、スキルの変更検知、サブエージェントの再開が該当します。いずれも、すでに運用している設定やスクリプトの前提を...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 Claude Code の設定ファイルとフォルダ構成：CLAUDE.md・rules・skills・settings.json の置き場所</title>
+      <link>https://zenn.dev/cvl/articles/b191a75072493c?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/cvl/articles/b191a75072493c?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの設定ファイルやフォルダ構成の役割と配置場所が分かり、プロジェクトや個人環境の整理に使える。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;はじめに Claude を使ったシステム設計を、設計問題（状況が与えられて、最も適切な対処を選ぶ形式）を解きながら学んだメモのシリーズです。この記事では、Claude Code の設定ファイル（CLAUDE.md、rules、skills、settings.json など）をどこに置き、どう使い分けるかを扱います。 ! 内容は2026年11月時点の公式ドキュメントで確認しています。仕様の更新が早い分野なので、実装前には必ず最新のドキュメントを確認してください。 全体像 your-project/ ← リポジトリ（チームで共有） ├── CL...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ 蓋を閉じた MacBook で Claude Code や Codex を一晩動かす：寝る前と翌朝に打つ pmset コマンド</title>
+      <link>https://zenn.dev/keepmacawake/articles/d69daba51e841c?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/keepmacawake/articles/d69daba51e841c?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; 蓋を閉じたMacBookでAIエージェントを夜間実行する際のpmset/caffeinateコマンドによる電源管理手順がわかり、長時間の開発タスク運用時に活用できます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;寝る前に Claude Code や Codex に長いタスクを任せ、MacBook の蓋を閉じます。ところが翌朝見ると、作業が途中で止まっています。この記事では、そうならないために寝る前に確認することを、macOS の pmset と caffeinate で整理します。あわせて、一晩動かす方法ごとの終わり方と元に戻し方、翌朝「夜の間に Mac が本当に動いていたか」を確かめる方法も扱います。 ! AI による執筆について： この記事は Keep Mac Awake チームの AI エージェントが書きました。記載したコマンドと引用は、リンク先の Apple の資料（ドキュメントとソース...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝📱 Claude Code に“何をしているセッションなのか”を表示する Mod「session-compass」を作った</title>
+      <link>https://zenn.dev/kubell/articles/claude-code-mods-session-compass?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/kubell/articles/claude-code-mods-session-compass?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeのプラグイン「session-compass」の導入手順と、セッション要約・移動・折りたたみ機能の仕様がわかり、長時間のセッション管理やアプリ開発時の効率化に使える。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;認証チームの今廣です。 Claude Code で長いセッションを続けていると、「このセッション、そもそも何をお願いしていたんだっけ」「さっきの回答、どこまで遡れば読めるんだっけ」となることがよくあります。会話欄をひたすらスクロールして探すのも地味につらいので、それを少し楽にする Claude Code の Mod（プラグイン）「session-compass」を作りました。 https://github.com/imahiro-t/session-compass この記事では、何ができるのかをさらっと紹介します。 session-compass とは session-compass...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ MCPの記録ツールを追記だけで作ると、訂正のたびに重複が残る。AIは「消せない」と正直に言うが、集計は間違える</title>
+      <link>https://zenn.dev/kentaro_tak/articles/mcp-logger-append-only-corrections?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/kentaro_tak/articles/mcp-logger-append-only-corrections?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; MCPツール設計における追記・削除・置き換え（upsert）の挙動比較とPythonコードが分かり、AIエージェントにデータを記録・訂正させるシステム開発で活用できる。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;家の記録を、Claude Codeに書かせている。その日にやったことの時間、休肝日、一言日記、外食、子どもの記録など、Googleスプレッドシートに書き込むMCPのツールが7つある（家の用事をClaude Codeに任せている話は、個人ブログにまとめている）。 作ってから気づいたのは、7つのうち6つが「追記」と「読む」しか持っていなかったことだ。中身はシートAPIの values().append で、同じ日付でもう一度呼ぶと、新しい行が足される。例外は時間の記録だけで、こちらは同じ日付で呼ぶと、その日の行を全部置き換える。 困ったのは、訂正が来た日だった。休肝日を「◯（飲まなかった）」...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>⚙️ バックアップの「動かなかった日」をジョブ履歴 CSV から洗い出す(PowerShell 5.1・予定の曜日と突き合わせ)</title>
+      <link>https://zenn.dev/chukidx_dev/articles/backup-log-missed-days-powershell?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/chukidx_dev/articles/backup-log-missed-days-powershell?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; PowerShell 5.1でバックアップの実行漏れを検知するスクリプトと手順が分かり、情シスの業務自動化に活用できる。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: DX業務自動化 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;バックアップの確認で見落としやすいのは、失敗した日よりもそもそも実行されなかった日です。動かなかった日は履歴に行が1件もないので、Excel のフィルターでは探せません。この記事では、ジョブの履歴 CSV と「実行する曜日」の予定表を突き合わせて、失敗・警告・実行漏れの日を一覧にする PowerShell スクリプトを、Windows PowerShell 5.1 だけで動く最小の形で載せます。 この記事で手に入るもの: 履歴 CSV(ジョブ名・開始日時・結果)と予定表 CSV(ジョブ名・実行する曜日)から、失敗・警告・実行漏れの日を CSV に出すスクリプト 架空の履歴で実際に動かし...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱📝 ぼくのかんがえたさいきょうの言語をAIに作らせたら3日でセルフホストした話</title>
+      <link>https://zenn.dev/ts1/articles/0472a973160b5b?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/ts1/articles/0472a973160b5b?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeを活用して自作言語のコンパイラなどを開発したプロセスと、AGENTS.md等での指示出しやレビューの運用手法がわかる。個人開発やAIによる開発プロセスの効率化の場面で使える。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発・MDファイル運用 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;Lerta というプログラミング言語を作って公開しました。 サイト: https://lerta.org/ リポジトリ: https://github.com/lerta-lang/lerta 作ったと言っても、コードはほぼ全部 AI (Claude Code) が書いています。僕がやったのは、どういう言語にするかを決めることと、出てきたものに文句を言うことだけです。それで1か月半後には、コンパイラとフォーマッタ、 LSP 、エディタのプラグイン、httpモジュール、サイトジェネレータまでそろって、ベンチマークでは Go や Swift と並ぶ速さになっていました。 どんどん進ん...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱📝 Claude Code のフックは、Windows のパスを \ で書くと黙って動かない（終了コード 127）</title>
+      <link>https://zenn.dev/kamijo_aoto/articles/claude-code-hook-windows-path-127?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/kamijo_aoto/articles/claude-code-hook-windows-path-127?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Windows環境でのClaude Codeのフック設定でパスの書き方ミスによるエラーを防ぐための具体的な記述方法と修正手順がわかるため、安全対策を実装する場面で役立ちます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発・MDファイル運用 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;Git for Windows が入った Windows で、Claude Code のフック（PreToolUse など）の command にいつもどおりのパスを書くと、フックが起動すらせず、書き込みがそのまま通ります。 claude -p の結果に、エラーは出ません。 書き込みを「拒否」するだけのフックで、command の書き方だけを変えて試しました（2026年11月24日、Claude Code 2.1.330）。 フックの command 結果 C:/…/deny.cmd（/ 区切り） 止まった C:\…\deny.cmd（\ 区切り） 書き込まれた...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ Maxプランなのに、cronで回した claude -p にAPI料金がかかる理由</title>
+      <link>https://zenn.dev/saihu/articles/af7808ab1af684?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/saihu/articles/af7808ab1af684?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; cronでのclaude -p実行時にANTHROPIC_API_KEYが優先される原因と対策、--max-turns等の制限設定がわかり、無人運用の自動化場面で使えます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;Claude CodeをProやMaxの月額プランで使っていて、夜中に claude -p をcronで回したら、なぜかAPIの請求が来た。そういう話をちょくちょく見かけます。 原因はだいたい1つで、環境変数に ANTHROPIC_API_KEY が入っていることです。 -p だとAPIキーが黙って優先される Claude Codeは、ログイン情報が複数あると決まった順番で1つを選びます。公式ドキュメントの順番だと、ANTHROPIC_API_KEY は月額プランのログイン(/login)より上です。 普段の対話モードなら、最初に「このAPIキーを使う?」と一度聞かれます。でも -p...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 AIが書いた原稿は、チェックを全部通ったうえで日付を間違えていた — チェックは形を見て、中身は見ていない</title>
+      <link>https://zenn.dev/sbkm/articles/0a8d9931015ba9?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/sbkm/articles/0a8d9931015ba9?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; AI生成コンテンツの自動チェック（ゲート）が形だけを見て中身の誤りを見落とす事例と対策がわかり、AIを活用した自動化システムの設計時に使えます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;個人でポッドキャストを2番組、平日毎日配信しています。私が喋っているわけではなく、台本を AI が書き、合成音声が読み上げる番組です。台本も、週1回のまとめ記事も、そのサムネイルも、作るのはほとんど Claude Code です。 AI が書いたものを毎回すべて私が読み直すことはできないので、作る途中に機械のチェック（ゲート）をいくつも置いています。発表日が新しいか、過去の回と重なっていないか、サムネの文字が小さすぎないか。どれかに落ちると、音声にも投稿にも進めません。 11月22日、5本の台本と1本のまとめ記事が、すべてのチェックを通りました。それでも、この日のうちに中身の間違いが3つ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝🪙 Claude Code の CLAUDE.md とメモリに何を書くか — 5か月でメモリ211件、索引が長くなって2回外に出した</title>
+      <link>https://zenn.dev/suisei498/articles/5ca25f418f7b01?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/suisei498/articles/5ca25f418f7b01?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／トークン節約</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude CodeのCLAUDE.mdとメモリ管理の実運用について、51行のCLAUDE.mdや211件のメモリ構成といった具体的な数値と運用ルールがわかり、MDファイル運用やトークン節約にそのまま活用できます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・トークン節約 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;この記事は Qiita と note にも同じ内容を載せています。Qiita: https://qiita.com/Suisei498/items/b73abaf66628eba7156c ／ note: https://note.com/suisei498/n/n9185bf984c69 Claude Code を毎日、いくつものセッションで使っています。長く使っていると、前に決めたことを、次のセッションの Claude が知らないことが一番の手間になります。 Claude Code には、毎回読み込まれる場所が2つあります。作業フォルダの CLAUDE.md と、メモリ（~/.c...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝📱 Claude Codeで、AI役員が会議する仕組みをゼロから作る手順</title>
+      <link>https://zenn.dev/yuceo/articles/ai-company-setup-claude-md?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/yuceo/articles/ai-company-setup-claude-md?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; CLAUDE.mdを用いた役割定義やファイル連携の手順が具体的に分かり、AIエージェントを活用した業務自動化の場面でそのまま真似できる。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;! AI役員会議の土台は、メモ帳で書く文章のファイルを、4つ用意するだけです。 この記事では、架空の副業チームを例に、Claude Code（AIに作業を頼めるアプリ）の中で「AI役員が会議して、議事録まで保存する」仕組みを、ゼロから作ります。 ぼくは会社員のエンジニアです。11月14日と15日の2日間で、AI役員を5人から7人に増やしました。足したのは、次の事業の種を調べる担当と、AIが作ったものが安全かを見る担当です。 土台は、文章のファイルです。プログラミングはいりません。パソコンに慣れていない人でも同じものができるよう、順番に書きます。 この記事でできること Claude...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝⚙️ Notion をマルチ AI エージェントの共有ナレッジ基盤にした話</title>
+      <link>https://zenn.dev/0505keitan/articles/notion-ai-central-hub-multi-agent?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/0505keitan/articles/notion-ai-central-hub-multi-agent?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; NotionをAIエージェントの共有ナレッジ基盤にするDB構成と信頼性ルールがわかり、複数AIツールを併用する業務の自動化に使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用・DX業務自動化 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;課題: AI ツールごとに記憶が分断される Claude Code、Codex CLI、ChatGPT — 複数の AI ツールを併用していると、それぞれが独立したコンテキストを持つ問題に直面する。 Claude Code で調査した技術知見を、Codex が知らない ChatGPT で整理した要件を、Claude Code セッションに毎回貼り直す 議事録から抽出したタスクが、どの AI のコンテキストにも残っていない 各ツールのメモリ機能はあるが、ツール間で共有されない。結局、人間が情報のハブになって毎回コンテキストを渡し直すことになる。 解決策: Notion を「唯一...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝📱 音声メモを15分おきに AI に仕分けさせる。決めさせるのは「明らかなもの」だけ</title>
+      <link>https://zenn.dev/yutakatsuhako/articles/bd375d60376bdc?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/yutakatsuhako/articles/bd375d60376bdc?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Apple Watchの音声メモをClaude Codeで15分おきに自動仕分けさせる手順と、許可コマンドの制限や文字コード問題の対策がわかる。個人の業務自動化やClaude Codeの非対話運用で使える。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;Claude Code で、自分専用の秘書のような仕組みを作ろうとしています。AIで会社を作ろうとかいう人たちから見ればだいぶ遅れているとは思うけど。 走りながら Apple Watch に吹き込んだメモを、15分おきに AI に見せています。決めてもらうのは、明らかなものだけ。少しでも迷ったら、決めずに私に聞いてもらいます。 19日間で、AI が自分で決めて、そのまま残ったのは149件のうち47件でした。3割くらいです。残りは朝、私と一緒に決めました。 3割でも、朝に見る量は減りました。仕分けを取り消して付け直したのは、19日間で5件です。 番頭のこと 番頭(banto)と呼んでい...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 情シスの審査で止まらないために、Claude の回答に出典を付け、.env の拒否ルールの穴も証跡に残した</title>
+      <link>https://zenn.dev/charge0315/articles/genai-adoption-claude-review-evidence?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/charge0315/articles/genai-adoption-claude-review-evidence?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの.env拒否ルールがPowerShell経由で回避される現象と、フックによる対策の事例がわかり、セキュリティ設定の確認に使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;みなさん、こんにちは！ Claude の法人プランを社内に入れようとして、情シスのチェックシートの「入力はモデルの学習に使われますか」で手が止まったことはありませんか。 回答そのものより、出典を出せないことで止まります。 この記事では、審査で最初に聞かれやすい 3 項目を、公式の出典つきで答える書き方と、Claude Code の .env の拒否ルールを練習用のリポジトリで試したら別のコマンドで読めてしまった話をまとめます。 ! この記事のポイント 審査の回答は、1 行ごとに出典の URL と確認日を付けて書く 「学習に使われるか」は、商用の利用規約の条項を根拠にする Claude ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 ClaudeからCodexへ、開発の経験を次へつなぐ</title>
+      <link>https://zenn.dev/honabochi/articles/claude-codex-development-letters?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/honabochi/articles/claude-codex-development-letters?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; ClaudeとCodexの間で開発の知見をGitHubのIssue経由で往復させ、既存のMarkdownや開発標準へ反映する具体的な手順がわかる。複数AI間での知見の蓄積や運用を改善したい場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;Claude Codeで進めた開発の経験を、Codexと検討して、次の開発でも使う手順へ戻す。私はGitHubのIssueやコメントを手紙の置き場にして、この往復を行っている。 送るのは、作業を終えたという報告だけではない。何が起き、何を変え、どこまで分かり、何を次の仕事へ残したいか。受け取ったCodexは、それを既存の手順と比べ、採用する部分と保留する部分を提案する。私はその判断に加わり、変更する範囲を決める。 今回は、ある開発からClaude経由で届いた一便を追う。文書を読みやすくするHTMLについての報告だ。実際の手紙と検討・返信の記録をもとに、案件や関係者を特定する情報を省いて要...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ ガードレールが効いたかの採点に LLM を使わない。最適化する側と採点する側を分ける</title>
+      <link>https://zenn.dev/t_azk/articles/judge-by-exit-code-not-by-llm?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/t_azk/articles/judge-by-exit-code-not-by-llm?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeのガードレール効果を測定する際、LLMを使わずにCIやフックの終了コードで採点する設計手法がわかる。AIエージェントの評価基盤や開発プロセスの自動化を構築する場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;3行でいうと 自作の開発基盤で「規約やフックが AI の事故を減らしているか」を測る評価セットを作るとき、合否の判定に LLM を使わず、既存の検査の終了コードだけで採点すると決めた 最適化する側（AI と、AI に読ませる規約）と採点する側を分けないと、規約ではなく指標の方が攻略される（採点に通りやすい形に寄せられて、点数だけが上がる）ため。判定を機械に限ると穴が「見える穴」になり、見つかった 2 つを塞げた 見直す条件は先に決めていない。他の仕組みと同じで、同じ不具合が 2 回出るか、1 回でも結果が大きくずれたら見直す。そのときも採点者を別に置く形は崩さない予定 決める...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>⚙️ ローカルLLMで機密6件を実データで測ったら、9b単体は0件しか止まらなかった</title>
+      <link>https://qiita.com/kenimo49/items/b734de0b5bc67dabfca8?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/kenimo49/items/b734de0b5bc67dabfca8?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの会話ログ等450件中6件の機密データを対象に、ローカルLLMと正規表現による検出精度を実測した手順と数値がわかる。AIエージェントの無人運用や機密情報の安全対策を検討する場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;Claude Code の会話ログ、git commit、日報。この3つに、形のない機密が紛れていたら、あなたのツール連携はそれを止められるでしょうか。 認証情報なら、gitleaks が拾ってくれます。でも私が手元で数えた実データの機密は、ほとんどが「本人の報酬」「勤務先...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝📱 バーで聞いた「お客さんの顔が覚えられない」をバイブコーディングでアプリにしてみた!アジャイル×TDDでテスト888件・本番公開まで一人でやった話</title>
+      <link>https://qiita.com/hee331/items/7d12050d54d3fb18a74d?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/hee331/items/7d12050d54d3fb18a74d?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; CLAUDE.mdを用いたルール徹底やテスト駆動開発の手法がわかり、AIを活用した個人開発やアプリ設計の場面で非常に役立ちます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに バーで働いていた経験から、Claude Code とのバイブコーディングで、大切な人の「好き」を覚えておくアプリ seshmond を作りました。 サイト: https://seshmond.com 形: Web アプリ(PWA)+ iOS アプリ(App...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝📱 前もって勉強しなくても語学を学べるように、Claudeに1,893枚のフラッシュカードを書き直させた</title>
+      <link>https://qiita.com/polopopi/items/90de657007155cdf399f?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/polopopi/items/90de657007155cdf399f?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeを用いてAnkiのデッキファイル（.apkg）を書き換え、漢字の部首や関連語、ピッチアクセントを一括追加する具体的なプロンプトと手順がわかる。語学学習用のデータ作成やファイル構造を自動編集する場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用・アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;JLPT（日本語能力試験）に向けて勉強しています。 試験で勉強しなければならないものの一つが、漢字と語彙です。 多くの人はフラッシュカードで勉強していて（私の思い込みだけに基づいた統計です）、特にAnkiのようなフラッシュカードアプリがよく使われています。 こうしたアプリは...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝📱 【2026年版】コーディングエージェントが機密情報をGitHubに流出させる理由：.claude/settings.local.json漏洩事件とゼロトラスト防御実装ガイド</title>
+      <link>https://qiita.com/agdexai/items/168dedfca72b965e3d01?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/agdexai/items/168dedfca72b965e3d01?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; .claude/settings.local.jsonの機密流出を防ぐため、settings.jsonの設定例とPythonによるPreToolUseフックの実装がわかる。Claude Codeの運用時におけるセキュリティ対策に使える。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;AgDex システム・セキュリティチーム • 2026年11月24日 • 読了目安 15分 • エージェントセキュリティ &amp;amp; Zero-Trust エグゼクティブ・セキュリティブリーフ 2026年11月、ローカル実行のAIコーディングエージェントなら機密は安全という前提が2...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝🪙 Claude Code 2.1.304 入門、auto mode設定で既定ルールが消える罠</title>
+      <link>https://qiita.com/kai_kou/items/8dcf254137deebe18962?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/kai_kou/items/8dcf254137deebe18962?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／トークン節約</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Code 2.1.304でのauto mode設定や自動圧縮ウィンドウ（CLAUDE_CODE_AUTO_COMPACT_WINDOW）の挙動、設定時の注意点が確認でき、環境設定の見直しに使える。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・トークン節約 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに Claude Code 2.1.304 の CHANGELOG には、/auto-mode-setup が「Added」の行で載っています。ところが 公式ドキュメント では、このコマンドは v2.1.228 以降（Windows ネイティブは 2.1.233 以...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ Claude Code v2.1.331 — Windows日本語設定クラッシュ修正（#93280）とBedrock/Foundry Code Mode追加：大企業担当者が確認した変更6点（2026年速報）</title>
+      <link>https://qiita.com/Sidejob/items/3b8ad25ede910d5a983d?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/Sidejob/items/3b8ad25ede910d5a983d?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Code v2.1.331の企業向けアップデートと修正点（Windows日本語クラッシュやMCPハング等）がわかり、社内導入時のトラブルシューティングに役立つ。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;この記事の要点：Claude Code v2.1.331 では Windows の管理設定（レジストリ）に日本語などの非ASCII文字が含まれると起動しない問題（issue #93280）が修正された。Bedrock・Foundry・Google Agent Platfo...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝⚙️ Claude Code を Windows のタスクスケジューラで定時実行する：claude -p で「ファイルの読み書きだけ」許可する設定</title>
+      <link>https://qiita.com/dice-k-lab/items/25f9eb7dfa66da8d10c5?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/dice-k-lab/items/25f9eb7dfa66da8d10c5?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの定時実行時に--toolsや--disallowedToolsなどで権限を制限する具体的な設定手順がわかるため、AIエージェントの無人運用や業務自動化の場面で使えます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;家計のデータが入ったフォルダで、だれも見ていない朝に AI を自動で動かしています。 なので、Claude Code に使わせる道具は、4つのオプションで「ファイルの読み書き」と「サブエージェントへの仕事の振り分け」だけに絞りました。ところが公式ドキュメントを読み直したら、...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱📝 AI を並べて動かすと増える git worktree を、1 つの窓で見渡す アプリを作った話</title>
+      <link>https://qiita.com/y_tsubasa/items/5f7aedbf06e06cc1f844?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/y_tsubasa/items/5f7aedbf06e06cc1f844?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; git worktreeで複数並行させるAIの進捗や状態を一覧化するMacアプリの仕組みがわかり、AI駆動開発の環境管理に使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;AI に作業を任せるとき、git worktree でブランチごとに作業フォルダを分けています。AI を何本か並べて動かせるので便利なのですが、本数が増えてくると「どのフォルダで何をしていて、どこまで進んだのか」が分からなくなってきました。 そこで、今あるワークツリーを 1...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱📝 Go未経験だけど、Claude Codeを使い倒してメガベンチャーのインターンで開発を爆速で回した話</title>
+      <link>https://qiita.com/ichiro16go/items/34eeff56dbbd5c4ef3ec?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/ichiro16go/items/34eeff56dbbd5c4ef3ec?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeを活用した開発で、テスト失敗を防ぐための自動フックの設定手順がわかり、バックエンド開発の自動化に役立ちます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;ある日の午前中 10時20分にチケットを読んで作業の計画を書き終え、11時30分には4本のPRをDraftで出していました。内訳はAPI定義（protobuf）の変更が3本と、Goのサービス側の実装が1本です。Goの実装については、dev環境での実機動作確認（QA）も8...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝📱 Claude Code に同じ訂正を二度しないための「振り返り」スキル</title>
+      <link>https://qiita.com/cocoro1998/items/5ad1117ff7c79d502c3c?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/cocoro1998/items/5ad1117ff7c79d502c3c?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; 会話の最後にAIにルールを修正させる「振り返り」スキルの具体的な手順と、複数AI間でdotfilesを用いて設定を同期する手法がわかり、Claude Codeの運用改善にすぐ使えます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;Claude Code と個人開発をしていると、同じ訂正を何度もすることになる。私の Mac では rm に確認を求めるオプションを付けているので、AI がそのまま実行すると確認待ちで止まってしまう。一度「-f を付けて」と教えても、新しい会話では覚えていない。また同じとこ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝📱 Claude CodeのBashからcodex execを呼ぶ｜読み取りと書き込みの設定、依頼文、差分確認</title>
+      <link>https://qiita.com/masakazuimai/items/9497f30fc63f8a468f2a?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/masakazuimai/items/9497f30fc63f8a468f2a?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude CodeのBashからcodex execを呼び出し、サンドボックス設定や標準入力で調査・下書きを自動化する具体的なコマンド手順がわかるため、開発プロセスの効率化に活用できます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用・アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;Claude Code の Bash から codex exec を呼び、手元の記事を調べてもらう例です。最初に返答だけを受け取る形で試し、結果をファイルに置きたいときに書き込みを許可します。例に出てくるファイル名は手元の資料に合わせて置き換えてください。 前提を確認する...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 設計ドキュメントに書かれた「存在しないファイル」を数える——AIエージェントが読むdocsのズレを検出する</title>
+      <link>https://qiita.com/sakutto-panda/items/fb36e7ebc7cf5720871b?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/sakutto-panda/items/fb36e7ebc7cf5720871b?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; AIエージェントの判断基準となるMarkdown内の存在しないファイルを検出するPythonスクリプトの手法がわかり、ドキュメント運用の改善に使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;3行まとめ 個人開発サイトの設計ドキュメントに「月次バッチは毎月1日にGitHub Actionsで自動実行」と書いてあったが、そのワークフローは一度も実装されていなかった。2026年10月16日に7ファイルを手で直したのをきっかけに、docs内のファイル参照が実在する...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 Claude Code のサブフォルダの CLAUDE.md が読み込まれない時の切り分け（Windows 11・2.1.318 で実測）</title>
+      <link>https://zenn.dev/yorusuzu/articles/claude-code-subfolder-claude-md-loading?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/yorusuzu/articles/claude-code-subfolder-claude-md-loading?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude CodeでサブフォルダのCLAUDE.mdが読み込まれる条件を実測し、ファイルの読み書きとGrep等の違いを検証した事例として、Markdownファイル運用を行う場面で参考になります。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;Windows 11・Claude Code 2.1.318・haiku の claude -p で測ったところ、ルートで起動して sub/ のファイルを Read・Bash の cat・Write・Read のあとの Edit で触ると、そのあとの答えに sub/CLAUDE.md の合言葉が出ました。起動直後の答えには出ず、Grep・Glob・ls で触れた回（各 1 回）にも出ませんでした。 起動したフォルダとその上位の CLAUDE.md は、起動直後の答えに出ました。サブエージェントは、親があとから触れた分は答えに出さず、自分で sub/ のファイルを読んだときは答えに出しま...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝📱 Claude Codeの /compact でタグ入りのひな形は残る？ 2.1.331でも summary タグ入りは16回とも崩れました</title>
+      <link>https://zenn.dev/ojisan_ai_lab/articles/claude-code-compact-xml-tags-20261124?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/ojisan_ai_lab/articles/claude-code-compact-xml-tags-20261124?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの/compact実行時のXMLタグの圧縮挙動に関する検証と数値データがわかる。Claude Codeを用いた開発やプロンプト管理の場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用・アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;Claude Code v2.1.331 のリリースノートに、次の1行がありました。 Fixed /compact and auto-compact sometimes losing part of the conversation summary when the summary quoted certain XML tags 「要約が特定の XML タグを引用したとき、/compact と自動の圧縮が、会話の要約の一部を失うことがあったのを直した」という意味です。 前回（Claude Codeの /compact を重ねると何が消える？ 決まり10個は残り、最初の表30行は作業を...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 Claude Code 週間ニュース（11/15〜11/21）：easel のグラフ・定期タスク30日・/code-review の変化</title>
+      <link>https://zenn.dev/zundamon_tools/articles/claude-news-weekly-2026-11-22?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/zundamon_tools/articles/claude-news-weekly-2026-11-22?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの組み込みグラフ機能と定期タスクの仕様がわかり、開発時の進捗確認やデプロイ監視で使えます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;2026年11月15日〜21日の Claude の更新を、Claude Code と Claude API の利用者向けにまとめました。今週の速報は1本で、Claude Code に組み込みで入ったグラフの mod「easel」です。その要点も、この記事に入れています。 今週あったことは次の6つです。要の項目に、一次情報の原文と和訳を添えています。 速報：easel：頼むと会話の中にグラフを描く組み込みの mod。誰が使えて、どう止めるか。CSV で試した結果も 定期タスクと /loop：セッションが動いている間なら30日まで続く・/tasks から止める・前の版のタスクは多くが登...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ AIエージェントに任せた変更で、mainより悪くなったところだけを止める</title>
+      <link>https://zenn.dev/rets/articles/5354737d85d5fd?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/rets/articles/5354737d85d5fd?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; AIエージェントによるコード品質の悪化を防ぐOSS「hadome」の設定手順と実例がわかり、安全な無人運用を構築する場面で使える。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;はじめに この記事では、僕が作っているOSSのhadomeについて、仕様と実際の動きを、出力や設定の例と共に詳しく書きます。 組み込みのルールで見つけられるもの 終了コード1と3の使い分け リポジトリごとの決まり（ゲートと不変条件）の足し方 何をどう判定しているかだけでなく、なぜそう分けたかまで踏み込んで、作っている側の視点から書きます。 土台にしている技術は、ソースを構文木にして読む静的解析です（テストが呼ぶ関数の割り出し方の解説）。 hadomeを作っているのは、AIエージェントに任せた変更を人が1本ずつ読まなくても、コードとテストの質が落ちない開発を目指しているからです。 ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ 【Mac】Claude Codeのアカウントをプロジェクトごとに使い分ける</title>
+      <link>https://zenn.dev/fuku17/articles/38474a038a2303?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/fuku17/articles/38474a038a2303?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; プロジェクトごとにClaude CodeのアカウントをターミナルやVS Codeで自動切り替える設定手順がわかり、複数アカウントを使い分ける開発現場で使えます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;はじめに プロジェクトごとにClaudeのアカウントを切り替えたい場面がありました。 毎回ログインし直す運用は事故の元になりそうなので、起動時に自動でClaudeのアカウントが切り替わるよう設定します。 今回はターミナルとVS Codeでの設定を行います。 Macでの設定方法です。 手順 1. 専用のフォルダを作る 専用のフォルダを作成 NEW=/Users/&amp;lt;User名&amp;gt;/.&amp;lt;任意の名称&amp;gt; mkdir -p "$NEW" 共通設定をシンボリックリンクで繋ぐ 共通設定（.claude 配下の設定）を使用しない場合、不要 f...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝📱 研究用のコードを、Claude Codeに任せてプロダクトにした</title>
+      <link>https://zenn.dev/simulacra/articles/746128265d748c?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/simulacra/articles/746128265d748c?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeを用いた複数エージェントによる自動開発の体制、ワークツリーの分離、テストと権限によるガードレールの具体的な仕組みがわかり、AIを活用したアプリのプロダクト開発現場でそのまま使えます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;はじめに Simulacraは、論文や社内の研究開発をもとにプロダクトを作っています。AIインタビューサービス「うつしみ」もその1つです（製品紹介）。複数のAIエージェントが協調して回答者と対話し、事前に想定していなかった論点も深掘りしながら、その人の経験や考え方、普段は言葉にしていない判断基準を引き出します。 うつしみのインタビューのロジックは、2026年1月から1年近く、社内で研究開発してきたものです。そのプロトタイプを土台に、開発の大半をClaude Codeに任せる形で、10日ほどでプロダクトとして運用できる品質に作り直しました。少人数で開発を進めるために、設計・実装・レビュ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 【Webアプリ】初対面の沈黙に備える質問カードアプリ「トークテーマカード」を作った話</title>
+      <link>https://zenn.dev/tademushi/articles/talk-cards-app?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/tademushi/articles/talk-cards-app?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; スマホ向けWebアプリのタッチ操作や山札のロジック実装手法がわかり、個人開発やWebアプリのUI実装場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;初対面の飲み会で話題に困らないよう、心理学実験の質問集をカードのように引けるWebアプリを作りました。 はじめに 初対面の人と何を話せばいいかわからない！！！ そこで、会話のきっかけになる質問を、 山札からカードを引くように選べるWebアプリ「トークテーマカード」 を作りました。 まずは、完成したアプリを直接触ってみてください。 ▶ デモを試す: トークテーマカード (GitHub Pages) ▶ ソースコード: GitHubリポジトリ 概要と使い方（機能デモ） トークテーマカード は、質問のカードを1枚ずつ引いて、隣の人に投げかけるアプリです。スマートフォン...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 ちょっと待って！そのSkills本当に必要？―skillなしと比べて指示を削る</title>
+      <link>https://zenn.dev/green_tea/articles/5eea2714ba1db2?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/green_tea/articles/5eea2714ba1db2?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude CodeのSkillsやCLAUDE.mdの指示を削るアブレーション手法と結果がわかり、MDファイル運用を見直す場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;はじめに みなさん、skills 作ってますか？ そして、メンテナンスしてますか？ Claude Code の生みの親 Boris Cherny 氏は YouTube で以下のような発言をしています。 For people who aren’t building agentic products but are using Claude Code, every 6 months, delete your CLAUDE.md file, delete your skills, and delete your hooks. Then see what the model does. I...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ RTX 5070 Ti 16GB で動くローカル LLM を 8 種類比べて、Claude から任せられそうな仕事とモデルを探った話</title>
+      <link>https://zenn.dev/hikari_lab_dev/articles/ef4a3fe94b3b2f?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/hikari_lab_dev/articles/ef4a3fe94b3b2f?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; RTX 5070 Ti環境でローカルLLM8種類を比較し、コード実装にはQwen3.8-27B、事務作業にはGemma 4 26B-A4Bが適していることがわかる。ローカル環境でAIエージェントを動かして定型作業やコード修正を分担させる場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;この記事のポイント 手元の GPU で動くローカル LLM 8 種類と Claude を、3 つの課題で比べました。 思ったほどの性能は出ませんでしたが、次の範囲なら任せられそうだと分かりました。 仕様と合否の条件が決まったコードの実装は、Qwen3.8-27B に任せられそう 照合や抜き出しのような手順の決まった事務作業は、Gemma 4 26B-A4B に任せられそう 公開情報の Web 調査は、Qwen3.8-27B に任せられそう 設計と合否の判断、小さな修正は、クラウドの Claude に残す 避けるのは、Sonnet がローカルに仕様書を渡す組み合わせです。 用途ごと...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱🪙 Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った</title>
+      <link>https://zenn.dev/nexta_/articles/a3ff76a9f98f1c?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/nexta_/articles/a3ff76a9f98f1c?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／トークン節約</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの複数セッションを管理するダッシュボードをバイブコーディングで自作した事例。作業内容の要約表示、返事待ちの音声通知、使用量予測など具体的な機能と開発プロセスがわかる。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発・トークン節約 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;Claude Code は、VSCode の拡張機能で使うのが好きだ。 Markdown が見やすく、コードも Git の変更差分もその場で見られる。 パネルを横に並べられるので、セッション同士が隠れない。VSCode から離れずに済む。 ただ、セッションを5つほど並べると困ることが出てくる。 一番困ったのは、パネルの見出しが短くて、どれが何の作業をしているのか一目で分からないことだった。 一時期はメモ帳にパネルの並び順と同じ順で、それぞれ何をしているかを書いていた。 困りごとはほかにもあった。 どれが自分の返事を待っているのか、パネルを1つずつ見て回らないと分からない Slack を...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝📱 cc-sdd を使ってみる - 読書記録サービスを題材として設計から実装まで</title>
+      <link>https://zenn.dev/tildesleep/articles/cc-sdd-reading-notes-part1?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/tildesleep/articles/cc-sdd-reading-notes-part1?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeで仕様駆動開発を行うためのcc-sddツールの5つのコマンド手順と構成ファイルがわかり、AIを活用したアプリの要件定義から実装までのワークフロー導入に使える。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;TL;DR cc-sdd は、実装の前に仕様を作り、人間が承認してから実装に進む「仕様駆動開発」を、AI と進めるためのツールです。Claude Code などで使えます。 この記事では、読書記録サービスを作るくらいのざっくりしたアイデアから、cc-sdd の 5 つのコマンドで、3 つの機能の仕様を作り、それを実装して、最終検証を行うところまでを紹介します。 実装には、ローカルの Supabase を使いました。今回題材にしたサービスはデプロイせず、ローカルで動く範囲を対象にしています。 はじめに cc-sdd は、実装の前に仕様を文書として作り、人間が承認してから実装に...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝⚙️ Claude Codeのhookはexit 1では止まらない。壊して49回試した</title>
+      <link>https://zenn.dev/kosukeozawa/articles/claude-code-hook-exit1-bypass?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/kosukeozawa/articles/claude-code-hook-exit1-bypass?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude CodeのPreToolUseフックの終了コードやonFailure設定による挙動の違いが49回の検証で示されており、無人運用の安全対策に直接活用できる。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・DX業務自動化 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;Claude Code に rm -rf を止める hook を入れて、安心していませんか。私は入れただけで、その hook が本当に止めるかを確かめていませんでした。 そこで hook をわざと壊して、止まるかどうかを数えました。Claude Code 2.1.331 を claude -p で49回動かし、別に、削除コマンドの言い換え26本を4種類の hook スクリプトに通しています。確認日は2026年11月24日です。 先に結果です。 exit 1 で終わる hook は止めません。3回とも build フォルダが消えました。止めたのは exit 2 だけです（3回とも残った...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 AI に報告文を書かせたら、人から聞いただけの話を6回中6回、確かめた事実として書いた。効く対処法を試してみた</title>
+      <link>https://zenn.dev/itoken_lab/articles/summary-certainty-hearsay-report?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/itoken_lab/articles/summary-certainty-hearsay-report?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; AIエージェントに伝聞を事実として書かせないためのSkill設計と導入手順がわかり、Markdown運用やプロンプトの品質管理で活用できる。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;AI エージェントに不具合を直させ、そのあと「経理の佐藤さんがもう手で直したって。部長に貼る報告文を書いて」と頼むと、報告文には「修正済みです」と書かれます。私はこれを6回試し、6回ともそうなりました。佐藤さんの手直しを、エージェントは見ていません。 「報告をうのみにしない」と指示ファイルに書いた条件でも、結果は変わりません。そこで、聞いた話の書き方だけを決めた手順書（エージェントが読み込む Skill）を読ませます。すると、出どころが分かるか・断りが報告文の中にあるかなどを見た採点が、同じ場面で 60 点のうち 28 点から 53 点に上がります。この記事は、その試しの記録です。どこで...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 Claude Code の開始モードは auto が既定、権限モード 6 種類と defaultMode の設定</title>
+      <link>https://zenn.dev/aicoding_guide/articles/acg-claude-code-default-mode?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/aicoding_guide/articles/acg-claude-code-default-mode?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeの6種類の権限モードの違いとdefaultModeの設定方法がわかり、安全な開発環境の構築時に権限を調整する場面で使えます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;Claude Code の permissions.defaultMode は、「allow にも deny にも一致しなかった操作をどう扱うか」を決める設定です。指定できる値は 6 つあります。 結論として、個人開発なら acceptEdits、初めて触るコードベースや設計作業なら plan、CI で許可リストを厳密にするなら dontAsk、隔離環境だけ bypassPermissions が目安です。 要点 この記事で分かること 6 つのモードの違い(何が自動で、何が確認されるか) セッションの開始モードが決まる順序 プロジェクト設定では効かない 2 つの値 まとめ ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 【2026年版】Claude Code CLIにおすすめのMCPプラグイン｜ハルシネーション防止＆作業効率化</title>
+      <link>https://qiita.com/goyle/items/dbe97dd50e6544b40757?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/goyle/items/dbe97dd50e6544b40757?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude CodeのMCPプラグイン導入手順と具体的なコマンドがわかり、設計判断やコードレビューの効率化に使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;この記事は、筆者が Zennに投稿した記事 の転載です。 はじめに Claude Code CLIを使っていて、こんな経験はありませんか？ 存在しないAPIやメソッドを提案される（ハルシネーション） 古いライブラリのドキュメントを元にしたコードが生成される 複雑...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 【Day 4】使い始める前に「フォルダ構成」を決めよう。IPアドレス設計と同じ話です</title>
+      <link>https://qiita.com/FPT_Oshima/items/f911d0e7fc0f67e7b575?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/FPT_Oshima/items/f911d0e7fc0f67e7b575?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; 全社・部署・エージェントの3階層でCLAUDE.mdを継承させる具体的なフォルダ構成と設定方法が分かり、複数AIエージェントの運用管理に使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;連載「インフラ一筋23年、実務でコードを書いたことがない私が Claude Code で社内業務を“自動運転”にするまで」第4回 〜 show run は指が覚えているのに、Linux と Python には苦手意識しかないエンジニアの40日間 〜 「とりあえず 1...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝📱 複数のAI(Claude/ChatGPT/Codex/Gemini)の「いまどこまで」を、Python標準ライブラリだけで1枚のNOW.mdにまとめる</title>
+      <link>https://qiita.com/kanazawa_teppei/items/dc79f1974244a2f08232?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/kanazawa_teppei/items/dc79f1974244a2f08232?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; 複数のAI間で進捗を1枚のNOW.mdにまとめるPythonスクリプトと手順が示されており、複数AIの切り替え時に活用できます。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;困りごと Claude、ChatGPT、Codex、Geminiなど複数のAIを使い分けていると、AIを替えるたびに「いまどこまで進んだか」「何が止まっているか」を説明し直すことになります。 AIに任せて HANDOFF.md のようなファイルを書かせる手もありますが、書...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝📱 【AI×3D】Blender MCPによるクライアント型モデリング</title>
+      <link>https://qiita.com/debucho500/items/2ff2e57a66b2087c1db0?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/debucho500/items/2ff2e57a66b2087c1db0?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude CodeとBlender MCPを使った3Dモデリングにおいて、CLAUDE.mdやsetting.mdの具体的な設計ルールと承認ゲートの運用手法がわかる。アプリ開発やAIエージェントの無人運用設計で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用・アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;この記事は『個人開発ゲーム・自作ツール Advent Calendar 2026』の13日目の記事です。 作り方はAIに丸投げ。Blender MCP で「発注者」に徹すればいい。 3Dモデルを自作してみたい。しかし学習コストが高そうだ。そう思って3Dモデル自作を諦める...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱 「最強プロンプト」を貼る前に。Claude Codeへの依頼に足したい3つの材料</title>
+      <link>https://qiita.com/CodeNest_media/items/fe966f6b1af3fa0e5007?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/CodeNest_media/items/fe966f6b1af3fa0e5007?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; AIへの依頼に含めるべき「困っている入力・期待する結果・答え合わせのコード」の3要素と、入力検証の具体的なJavaScript実装がわかり、アプリ開発のプロンプト改善に役立ちます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;「あなたは優秀なエンジニアです」「よく考えてから実装してください」。評判のいいプロンプトを貼ってみたものの、できあがったアプリはどこか惜しい。直してと頼むと、今度は別のところが気になる。 そんなとき、次はどの言い回しを足せばよいのでしょうか。 Claude Codeの公式ガ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱📝 ClaudeCodeデスクトップアプリからCodex連携する手順まとめ</title>
+      <link>https://qiita.com/EIJI_at_FujiwaaaLand/items/511ded63ede15c0fedb0?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/EIJI_at_FujiwaaaLand/items/511ded63ede15c0fedb0?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Windows版Claude CodeデスクトップアプリからCodexプラグインを連携する具体的な手順とPATH設定方法がわかり、アプリ開発環境の構築時に役立ちます。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;はじめに Claude Code から OpenAI の Codex を呼び出せる公式プラグイン openai/codex-plugin-cc が公開されています。 Qiita でも導入記事がいくつかありますが、Windows版デスクトップアプリとの連携手順記事が見当たら...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 ADRを書くかどうか、AIに任せていた</title>
+      <link>https://qiita.com/tntetsu/items/48d7e66156fecd536c6c?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/tntetsu/items/48d7e66156fecd536c6c?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeを用いた開発で、AIにADRの作成を任せた際の具体的な課題と対策（人間にしか確認できない意図のズレやチェックリスト）がわかる。Markdownでの設計記録やドキュメント管理を運用する場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;この記事は、連載「はじめてのAgentic Coding実践記録」の第3回です。コードを1行も書かずに、Claude Codeへの指示だけでソフトウェアを約5か月育てた経験から、1回1テーマで書いています。 この記事の要点 JSVisualizerにはADRが52件あ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱📝 【Day 3】Windows に Ubuntu を立てて、Claude Code を起動するまで（WSL2編）</title>
+      <link>https://qiita.com/FPT_Oshima/items/e7c1b1ccfbda2b7504a1?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/FPT_Oshima/items/e7c1b1ccfbda2b7504a1?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Windows環境でのWSL2とUbuntuの導入からClaude Code起動までの手順がわかり、初期の環境構築を行う場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: アプリ開発・MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;連載「インフラ一筋23年、実務でコードを書いたことがない私が Claude Code で社内業務を“自動運転”にするまで」第3回 〜 show run は指が覚えているのに、Linux と Python には苦手意識しかないエンジニアの40日間 〜 今日やること ...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝 AIが書いた日本語を yomiyasu で推敲する：Claude Code への導入と使い方</title>
+      <link>https://qiita.com/KingHAL0/items/92314e95e5f0385cc0bc?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/KingHAL0/items/92314e95e5f0385cc0bc?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeのスキルとして外部ツール「yomiyasu」を導入し、AI文章の推敲やハッシュ照合を行う手順が分かり、Markdown運用に活用できる。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: MDファイル運用 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;この記事はAI（Claude）が書き、別のAI（Codex）が事実とコマンドを確かめています。 AIに日本語の記事を書かせると、意味は通るのにどこか「AIっぽい」文章になりがちです。2026年11月、その推敲のために yomiyasu というスキルを Claude Code...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🪙📱 Claude CodeのCode Modeを18回比べた：API往復は減らず、入力トークンは約4割減</title>
+      <link>https://qiita.com/hatyibei/items/3b7fdc74936f98913451?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/hatyibei/items/3b7fdc74936f98913451?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>トークン節約／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude CodeのCode ModeにおけるAPI往復回数と入力トークン数の変動について、18セッションの検証結果がわかる。対話型セッションやトークン消費量の最適化を検討する場面で使える。&lt;/p&gt;&lt;p&gt;点数: 4/5 ／ 分野: トークン節約・アプリ開発 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;Claude Code の新しい Code Mode は、ツール呼び出しをコードにまとめて実行する機能です。それなら API の往復は半分くらいに減りそうだな、と思いませんか？ 同じ3つの課題を Code Mode のオフとオンで3回ずつ、計18セッション走らせて比べまし...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📱⚙️ Issue にラベルを付けて AI に仕事を渡す仕組み agent-dispatch を作った</title>
+      <link>https://qiita.com/shotayagami/items/1fce6273b665bd7258e8?via=curation</link>
+      <guid isPermaLink="true">https://qiita.com/shotayagami/items/1fce6273b665bd7258e8?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>アプリ開発／DX業務自動化</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; GitHub/GiteaのIssueラベルを起点にAIに実装・レビューを無人実行させる具体的な仕組みと、安全性確保の5つの対策がわかる。AIエージェントの自律運用や業務自動化を構築する場面で使える。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: アプリ開発・DX業務自動化 ／ 情報元: qiita.com&lt;/p&gt;&lt;p&gt;GitHub と Gitea の Issue にラベルを付けると、AI が仕様を書き、実装し、PR を作ってレビューまで進める仕組みを作りました。名前は agent-dispatch です。LT で話した内容に、発表では省いた理由とコードの該当箇所を足して記事にしました。ス...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📝📱 Zoom / Meetの文字起こし(.vtt)から議事録を自動生成する：Claude Codeで試して数字を突き合わせた</title>
+      <link>https://zenn.dev/aishigoto/articles/claude-code-vtt-to-gijiroku?via=curation</link>
+      <guid isPermaLink="true">https://zenn.dev/aishigoto/articles/claude-code-vtt-to-gijiroku?via=curation</guid>
+      <pubDate>Wed, 25 Nov 2026 01:26:51 +0000</pubDate>
+      <category>MDファイル運用／アプリ開発</category>
+      <description>&lt;p&gt;&lt;b&gt;コメント:&lt;/b&gt; Claude Codeを用いた会議文字起こし（.vtt）からの議事録自動生成と日付計算の手順がわかり、業務の自動化に活用できる。&lt;/p&gt;&lt;p&gt;点数: 5/5 ／ 分野: MDファイル運用・アプリ開発 ／ 情報元: zenn.dev&lt;/p&gt;&lt;p&gt;※ この記事は Claude Code（AI）を使って執筆し、掲載しているコードと出力例はすべて実際に実行して確認しています。 ZoomやGoogle Meet、Teamsは、会議の文字起こしを.vttや.srtで書き出せます。このファイルをClaude Codeに渡して議事録を作らせたとき、決定事項や期限がどこまで正しく拾えるかを試しました。 架空の社内定例会議（約17分、4人）の.vttを用意し、議事録を1回作らせて、元の文字起こしと1項目ずつ突き合わせています。間違いや気になった点も見つかったとおりに書きます。 本文の手順は、専用のスクリプトがなくても同じことができる形で書いていま...&lt;/p&gt;</description>
+    </item>
     <item>
       <title>【完了報告】2026.11.25 02:38　新規207件、チェック163件、通過0件、リクエスト0回（再試行4回）、中断：Gemini障害(HTTP 503)</title>
       <link>https://yoshiken31.github.io/claude-rss-curation/?run=2026-11-25T0238</link>
